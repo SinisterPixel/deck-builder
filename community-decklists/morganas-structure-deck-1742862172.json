@@ -1,0 +1,379 @@
+{
+    "id": 1742862171402,
+    "creator": "Sinister Pixel",
+    "deckName": "Morgana's Structure Deck",
+    "hero": {
+        "card_name": "Morgana the Dark Enchantress",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ability Name: Arcane Infusion; Ability Effect: The first two spells you cast each round regenerate 1 lifeforce.",
+        "ability2": "Ability Name: Witching Hour; Ability Effect: You can cast spells at any time during either player's turn.",
+        "ability3": "Ability Name: Conjure Familiar; Ability Effect: Once during each of your turns, you may spend 3 lifeforce to summon a 2 or less cost minion from your deck or graveyard.",
+        "ability4": "Ability Name: Occult Insight; Ability Effect: Once during each of your turns, you may cast a spell with a cost of 5 or less from your deck by paying its cost plus an additional lifeforce.",
+        "front_image_path": "images\\heroes\\Morgana_the_Dark_Enchantress_front.jpg",
+        "back_image_path": "images\\heroes\\Morgana_the_Dark_Enchantress_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Nightmare Raven",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Draw a card once during each of your turns.",
+                "image_path": "images\\minions\\Nightmare_Raven.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Prowler",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Gain 1 lifeforce once during each of your turns.",
+                "image_path": "images\\minions\\Nightmare_Prowler.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Croaker",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Enemy magic cards cost 1 more lifeforce to play.",
+                "image_path": "images\\minions\\Nightmare_Croaker.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Rodent",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Enemy minion cards cost 1 more lifeforce to play.",
+                "image_path": "images\\minions\\Nightmare_Rodent.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mire Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Inflict 1 damage to the enemy hero at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Mire_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Grove Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Heal your hero for 1 at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Grove_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Night Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Gain 1 lifeforce when this minion damages the enemy hero or 2 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Night_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Keeper of the Dark Woods",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Witch",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 5,
+                "traits": "+1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Once during each of your turns, you may summon a 2-cost minion from your deck or graveyard.",
+                "image_path": "images\\minions\\Keeper_of_the_Dark_Woods.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dark Sorcerer",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 5,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "On summon, inflict 2 damage to 2 targets.",
+                "image_path": "images\\minions\\Dark_Sorcerer.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dark Mage Malakar",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 7,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Once during each of your turns, if this card destroys an enemy minion, you may cast a spell from your graveyard costing 5 or less, then remove it from play.",
+                "image_path": "images\\minions\\Dark_Mage_Malakar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Harvest",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to an enemy minion. If it is destroyed, summon a 2-cost minion from your deck or graveyard.",
+                "image_path": "images\\spells\\Shadow_Harvest.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Lightning Bolt",
+                "card_type": "Magic",
+                "rarity": "Common",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to two different targets.",
+                "image_path": "images\\spells\\Lightning_Bolt.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Shadow Nova",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Inflict 1 damage to all enemy minions.",
+                "image_path": "images\\spells\\Shadow_Nova.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Coven of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "You may summon up to 3 minions from your deck with a cost of 3. The cost of this card is the total lifeforce cost of the summoned minions plus 1.",
+                "image_path": "images\\spells\\Coven_of_Shadows.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Banish",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Discard a card from your hand, then remove an enemy minion from the game.",
+                "image_path": "images\\spells\\Banish.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Hex of Weakness",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Reduce an enemy minion's attack and defense to 1 until the end of the turn.",
+                "image_path": "images\\spells\\Hex_of_Weakness.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Eldritch Blast",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 4 damage to an enemy hero or minion.",
+                "image_path": "images\\spells\\Eldritch_Blast.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Mind Shatter",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Look at the hand of the enemy player and destroy a card.",
+                "image_path": "images\\spells\\Mind_Shatter.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Eldritch Recall",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Return up to two spell cards from your graveyard to your hand.",
+                "image_path": "images\\spells\\Eldritch_Recall.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Revelation",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Draw a card. Deal damage to all enemy minions equal to the drawn card's lifeforce cost, up to a maximum of 5 damage.",
+                "image_path": "images\\spells\\Dark_Revelation.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Tethered Spirits",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "You may summon up to 4 minions from your deck with a cost of 2. The cost of this card is the total lifeforce cost of the summoned minions plus 1.",
+                "image_path": "images\\spells\\Tethered_Spirits.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Witch's Cauldron",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "4",
+                "defense": 3,
+                "effects": "Once during each of your turns, reveal a minion or spell from your deck and add it to your hand.",
+                "image_path": "images\\artifacts\\Witch_s_Cauldron.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Book of Shadows",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 2,
+                "effects": "Your spells cost 1 less lifeforce to cast.",
+                "image_path": "images\\artifacts\\Book_of_Shadows.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ritual Altar",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "Once during each of your turns, cast a spell from your graveyard without paying its cost, then remove it from the game.",
+                "image_path": "images\\artifacts\\Ritual_Altar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Summoning Circle",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Once during each of your turns, summon a minion with a cost of 3 or less from your deck.",
+                "duration": 3,
+                "image_path": "images\\events\\Summoning_Circle.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Witch's Den",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "Twice per round, when you cast a spell, inflict 1 damage to all enemy minions.",
+                "image_path": "images\\lands\\Witch_s_Den.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "filename": "decklist-1742862171402.json"
+}
