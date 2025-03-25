@@ -1,0 +1,291 @@
+{
+    "id": 1742862614957,
+    "creator": "Sinister Pixel",
+    "deckName": "Arachnia's Structure Deck",
+    "hero": {
+        "card_name": "Arachnia, the Dread Weaver",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Early Entombment: At the start of the game you may send 4 minions from your deck that cost 1 or less to the graveyard.",
+        "ability2": "Toxic Webs: Ensured enemy minions have their defense reduced by 2.",
+        "ability3": "Web: Spend 2 lifeforce to target a minion for 1 round.",
+        "ability4": "Swarm: Spend 6 lifeforce to summon minions from the graveyard with a combined cost of 4 or less.",
+        "front_image_path": "images\\heroes\\Arachnia__the_Dread_Weaver_front.jpg",
+        "back_image_path": "images\\heroes\\Arachnia__the_Dread_Weaver_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Cocoon",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Construct",
+                "lifeforce_cost": "0",
+                "attack": 0,
+                "defense": 2,
+                "traits": "Immune to piercing damage. Cannot receive Minion Commands.",
+                "effects": "At the end of any turn, you may destroy this card and resurrect a 1-cost minion from your graveyard.",
+                "image_path": "images\\minions\\Cocoon.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Infested Zombie",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Zombie",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "Once per turn, this card cannot be destroyed by one enemy minion attack.",
+                "effects": "When this card takes damage, summon a 1-cost minion from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Infested_Zombie.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Spiderling",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "This minion gains +1 attack if it is adjacent to another minion.",
+                "image_path": "images\\minions\\Spiderling.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Broodmother",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 3,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On death, you may summon a minion that costs 2 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Vilefang_Broodmother.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Assassin",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 2,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, target and destroy an enemy minion with 2 or less defense.",
+                "image_path": "images\\minions\\Vilefang_Assassin.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Bloodweaver",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "When this minion destroys an ensnared minion, gain 2 lifeforce.",
+                "image_path": "images\\minions\\Vilefang_Bloodweaver.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, you may summon a 4 or less cost minion from your hand, deck or graveyard.",
+                "image_path": "images\\minions\\Vilefang_Summoner.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Venomous Webweaver",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 3,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, ensnare a minion in webs, preventing it from receiving Minion Commands for 1 round.",
+                "image_path": "images\\minions\\Venomous_Webweaver.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Giant Tomb Spider",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "This minion's attacks during your turn also damage an adjacent target.",
+                "image_path": "images\\minions\\Giant_Tomb_Spider.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ensnare",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Ensnare a target minion in a web, preventing it from receiving Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Ensnare.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Necrotic Infusion",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Resurrect up to 4 minions from your graveyard. The cost of this card is their total lifeforce cost. The total cost cannot exceed 10. At the end of the turn, they are destroyed.",
+                "image_path": "images\\spells\\Necrotic_Infusion.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Infested Swarm",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Inflict 2 damage to all enemy minions, then summon a 1 or lower cost minion from your hand, deck, or graveyard for each one destroyed.",
+                "image_path": "images\\spells\\Infested_Swarm.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Silk Bind",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Ensnare all enemy minions in a web, preventing them from receiving Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Silk_Bind.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Poison Spray",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Inflict 5 damage to a target and 3 damage to adjacent characters.",
+                "image_path": "images\\spells\\Poison_Spray.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nesting Ground",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Reveal two 0-cost minions from your deck or graveyard and add them to your hand.",
+                "image_path": "images\\spells\\Nesting_Ground.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dreadweaver's Eye",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "5",
+                "defense": 3,
+                "effects": "Once per turn, when this card is destroyed or a friendly minion dies, draw a card.",
+                "image_path": "images\\artifacts\\Dreadweaver_s_Eye.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nest of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "5",
+                "defense": 3,
+                "effects": "Once during each of your turns, summon a minion with a cost of 4 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\artifacts\\Nest_of_Shadows.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Frenzy",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "6",
+                "effects": "All of your minions gain +2 attack.",
+                "duration": 1,
+                "image_path": "images\\events\\Frenzy.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Spinneret Amulet",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Relic",
+                "lifeforce_cost": "2",
+                "effects": "During any turn, attach this to a friendly minion. When that minion is destroyed, return it to your hand.",
+                "image_path": "images\\relics\\Spinneret_Amulet.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Spider Cave",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "5",
+                "effects": "Once per turn, when a friendly minion dies, gain 2 lifeforce.",
+                "image_path": "images\\lands\\Spider_Cave.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "filename": "decklist-1742862614957.json"
+}
