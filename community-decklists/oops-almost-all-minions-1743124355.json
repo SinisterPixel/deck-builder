@@ -1,0 +1,296 @@
+{
+    "id": "deck_1743124351894_fc33ff43f9729",
+    "creator": "Zombro",
+    "deckName": "Oops (almost) all minions",
+    "hero": {
+        "card_name": "Ragnar the Malignant",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ability Name: Guided Hand; Ability Effect: Draw a minion and then draw another card.",
+        "ability2": "Ability Name: Reanimate; Ability Effect: Resurrect a minion from your graveyard for 2 lifeforce.",
+        "ability3": "Ability Name: Press the Advantage; Ability Effect: Increase attack of minions by 1 until end of turn.",
+        "ability4": "Ability Name: Corpse Explosion; Ability Effect: Deal 2 damage to all enemy minions.",
+        "front_image_path": "images\\heroes\\Ragnar_the_Malignant_front.jpg",
+        "back_image_path": "images\\heroes\\Ragnar_the_Malignant_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Blighted Bloodhound",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Beast",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This minion gains +1 attack for every other 2 or lower cost minion on your field.",
+                "effects": "Whenever this minion damages the enemy hero, gain 1 lifeforce.",
+                "image_path": "images\\minions\\Blighted_Bloodhound.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Maiden",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon a minion with a cost 4 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Bloodbound_Maiden.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Sentry",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "1",
+                "attack": 2,
+                "defense": 1,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "This card cost 0 if there is a minion on your field.",
+                "image_path": "images\\minions\\Bloodbound_Sentry.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Chaos Bolt",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Burn a target for 8 damage.",
+                "image_path": "images\\spells\\Chaos_Bolt.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cocoon",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Construct",
+                "lifeforce_cost": "0",
+                "attack": 0,
+                "defense": 2,
+                "traits": "Immune to piercing damage. Cannot receive Minion Commands.",
+                "effects": "At the end of any turn, you may destroy this card and resurrect a 1-cost minion from your graveyard.",
+                "image_path": "images\\minions\\Cocoon.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Archer",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "+1 Attack against heroes.",
+                "effects": "When this minion attacks and deals damage, it can inflict 1 extra damage to any target.",
+                "image_path": "images\\minions\\Dreadnaught_Archer.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 4,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once during each of your turns, you may summon a minion from your hand, deck, or graveyard with a cost 4 or less.",
+                "image_path": "images\\minions\\Dreadnaught_Summoner.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Echoes of the Underworld",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Summon 3 minions from your hand, deck, or graveyard that cost 1.",
+                "image_path": "images\\spells\\Echoes_of_the_Underworld.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Eternal Watcher",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost +1.",
+                "effects": "Costs 1 less for every other minion in your graveyard, up to a maximum of 3.",
+                "image_path": "images\\minions\\Eternal_Watcher.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Infested Zombie",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Zombie",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "Once per turn, this card cannot be destroyed by one enemy minion attack.",
+                "effects": "When this card takes damage, summon a 1-cost minion from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Infested_Zombie.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Jackal of Anubis",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On death, inflict 2 damage to an enemy Hero.",
+                "image_path": "images\\minions\\Jackal_of_Anubis.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Keeper of the Dark Woods",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Witch",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 5,
+                "traits": "+1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Once during each of your turns, you may summon a 2-cost minion from your deck or graveyard.",
+                "image_path": "images\\minions\\Keeper_of_the_Dark_Woods.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Lucky Trickster",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On summon, roll a die. On a 1, destroy this card. On a 6, roll again.",
+                "effects": "On a 1-2, gain 2 Lifeforce. On a 3-4, draw a card. On a 5-6, inflict 2 damage to an enemy Hero.",
+                "image_path": "images\\minions\\Lucky_Trickster.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mire Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Inflict 1 damage to the enemy hero at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Mire_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nightfall Harbinger",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon two 1-cost minions from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Nightfall_Harbinger.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Raven",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Draw a card once during each of your turns.",
+                "image_path": "images\\minions\\Nightmare_Raven.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Bat",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On summon, inflict 1 damage to a target.",
+                "image_path": "images\\minions\\Shadow_Bat.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, you may summon a 4 or less cost minion from your hand, deck or graveyard.",
+                "image_path": "images\\minions\\Vilefang_Summoner.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true
+}
