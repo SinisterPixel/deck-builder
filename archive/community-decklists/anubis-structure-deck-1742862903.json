@@ -1,0 +1,313 @@
+{
+    "id": 1742862902378,
+    "creator": "Sinister Pixel",
+    "deckName": "Anubis' Structure Deck",
+    "hero": {
+        "card_name": "Anubis, Ruler of the Underworld",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ability Name: Death's Harvest; Ability Effect: Once per round, when a minion dies on an enemy player\u2019s turn, gain 1 lifeforce.",
+        "ability2": "Ability Name: Keeper of the Dead; Ability Effect: At the end of your turn you may send 1 minion from your deck to your graveyard.",
+        "ability3": "Ability Name: Necrotic Strength; Ability Effect: During your turn, when you summon a minion from the graveyard, it gains +1 attack until the end of the turn.",
+        "ability4": "Ability Name: Death's Bargain; Ability Effect: Once during each of your turns, you can resurrect a minion from your graveyard by paying its cost. At the end of your turn, banish the minion from the game.",
+        "front_image_path": "images\\heroes\\Anubis__Ruler_of_the_Underworld_front.jpg",
+        "back_image_path": "images\\heroes\\Anubis__Ruler_of_the_Underworld_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Jackal of Anubis",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On death, inflict 2 damage to an enemy Hero.",
+                "image_path": "images\\minions\\Jackal_of_Anubis.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Restless Wanderer",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost -1.",
+                "effects": "When attacking a minion during your turn this gains +1 attack.",
+                "image_path": "images\\minions\\Restless_Wanderer.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Guardian of the Tomb",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 3,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost +1.",
+                "effects": "While on the field, this minion gains +1 attack for each minion in your graveyard, up to a maximum of 2.",
+                "image_path": "images\\minions\\Guardian_of_the_Tomb.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Eternal Watcher",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost +1.",
+                "effects": "Costs 1 less for every other minion in your graveyard, up to a maximum of 3.",
+                "image_path": "images\\minions\\Eternal_Watcher.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Crypt Keeper",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 2,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost +1.",
+                "effects": "Destroy this minion at the end of your turn. On death, during your turn or at its end, resurrect a minion with a cost of 7 or less from your graveyard.",
+                "image_path": "images\\minions\\Crypt_Keeper.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Corrupted Sphinx",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mythical Beast",
+                "lifeforce_cost": "6",
+                "attack": 5,
+                "defense": 5,
+                "traits": "When this minion takes damage, inflict half to an enemy Hero. (round down)",
+                "effects": "On summon, you can destroy an opponent's Magic card.",
+                "image_path": "images\\minions\\Corrupted_Sphinx.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ancient Nightmare",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 6,
+                "traits": "All enemy minions have their attack values reduced by 1.",
+                "effects": "On summon, target and destroy an enemy minion.",
+                "image_path": "images\\minions\\Ancient_Nightmare.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Avatar of Anubis",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Deity",
+                "lifeforce_cost": "10",
+                "attack": 6,
+                "defense": 8,
+                "traits": "Once during each of your turns, inflict 2 damage to all enemy minions.",
+                "effects": "On summon, resurrect a minion from the enemy graveyard.",
+                "image_path": "images\\minions\\Avatar_of_Anubis.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Wrath of Anubis",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Target and destroy a minion, inflicting damage to an enemy Hero equal to half its lifeforce cost (rounded down).",
+                "image_path": "images\\spells\\Wrath_of_Anubis.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dark Resurrection",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
+                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Anubis' Vengeance",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Inflict 2 damage to all enemy minions and heal 2 health for each destroyed.",
+                "image_path": "images\\spells\\Anubis__Vengeance.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Whispers of the Ba",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Resurrect a minion from your graveyard, then send one from your deck to the graveyard.",
+                "image_path": "images\\spells\\Whispers_of_the_Ba.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ka's Embrace",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Double a minion's attack until the end of the turn.",
+                "image_path": "images\\spells\\Ka_s_Embrace.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Electrocute",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to a target and 1 damage to all enemy characters.",
+                "image_path": "images\\spells\\Electrocute.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Lightning Obelisk",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once during each of your turns, inflict 2 damage to an enemy target.",
+                "image_path": "images\\artifacts\\Lightning_Obelisk.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Shrine of Anubis",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "5",
+                "defense": 3,
+                "effects": "Once during each of your turns, resurrect a 7 or less cost minion from your graveyard. The minion is destroyed at the end of your turn.",
+                "image_path": "images\\artifacts\\Shrine_of_Anubis.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Sarcophagus",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "5",
+                "defense": 3,
+                "effects": "Summon a minion that costs 7 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\artifacts\\Sarcophagus.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Sandstorm",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "All enemy minions have their attack values reduced by 1.",
+                "duration": 2,
+                "image_path": "images\\events\\Sandstorm.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Tomb Raider's Bane",
+                "card_type": "Magic",
+                "rarity": "Common",
+                "magic_type": "Relic",
+                "lifeforce_cost": "2",
+                "effects": "Attach this to an enemy minion. The attached minion loses its trait and effect.",
+                "image_path": "images\\relics\\Tomb_Raider_s_Bane.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Amulet of Eternity",
+                "card_type": "Magic",
+                "rarity": "Common",
+                "magic_type": "Relic",
+                "lifeforce_cost": "2",
+                "effects": "Attach this to a minion, it gains +2 attack on your turn.",
+                "image_path": "images\\relics\\Amulet_of_Eternity.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Pyramid of Eternity",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "6",
+                "effects": "Once during each of your turns, resurrect a minion from your graveyard at half the cost (rounded up), then send a card from your hand or deck to the graveyard.",
+                "image_path": "images\\lands\\Pyramid_of_Eternity.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Catacombs of the Cursed",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "5",
+                "effects": "All enemy minions lose their traits and have their defense values reduced by 1.",
+                "image_path": "images\\lands\\Catacombs_of_the_Cursed.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "filename": "decklist-1742862902378.json"
+}

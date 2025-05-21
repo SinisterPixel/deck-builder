@@ -1,0 +1,322 @@
+{
+    "id": 1742862432993,
+    "creator": "Sinister Pixel",
+    "deckName": "Valeria's Structure Deck",
+    "hero": {
+        "card_name": "Blood Queen Valeria",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ability Name: Blood Harvest; Ability Effect: Gain 1 health whenever a minion dies during your turn, up to a maximum of 4 health per turn.",
+        "ability2": "Ability Name: Blood Magic; Ability Effect: Once during each of your turns, you can cast the Draw or Destroy Magic Hero Abilities using Health instead of lifeforce.",
+        "ability3": "Ability Name: Dominate Will; Ability Effect: Once during each of your turns, you may spend 4 lifeforce to temporarily take control of an enemy minion.",
+        "ability4": "Ability Name: Judgment of the Dead; Ability Effect: Once during each of your turns, you may spend 6 lifeforce. The cards you play this turn cost health instead of lifeforce, up to 10 health.",
+        "front_image_path": "images\\heroes\\Blood_Queen_Valeria_front.jpg",
+        "back_image_path": "images\\heroes\\Blood_Queen_Valeria_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Shadow Bat",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On summon, inflict 1 damage to a target.",
+                "image_path": "images\\minions\\Shadow_Bat.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Sentry",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "1",
+                "attack": 2,
+                "defense": 1,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "This card cost 0 if there is a minion on your field.",
+                "image_path": "images\\minions\\Bloodbound_Sentry.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Acolyte",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "When this minion destroys an enemy minion, gain 1 lifeforce.",
+                "image_path": "images\\minions\\Bloodbound_Acolyte.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Knight",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 4,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, give this or another minion +2 attack this turn.",
+                "image_path": "images\\minions\\Bloodbound_Knight.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Maiden",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon a minion with a cost 4 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Bloodbound_Maiden.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Flayer",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "6",
+                "attack": 5,
+                "defense": 5,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "This minion's attacks cannot be defended against. If it destroys an enemy minion, it may attack again this turn.",
+                "image_path": "images\\minions\\Bloodbound_Flayer.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blighted Bloodhound",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Beast",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This minion gains +1 attack for every other 2 or lower cost minion on your field.",
+                "effects": "Whenever this minion damages the enemy hero, gain 1 lifeforce.",
+                "image_path": "images\\minions\\Blighted_Bloodhound.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nightfall Harbinger",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon two 1-cost minions from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Nightfall_Harbinger.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Eternal Bloodmage",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "When this minion destroys an enemy minion, draw a card.",
+                "image_path": "images\\minions\\Eternal_Bloodmage.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Blood Baron",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "7",
+                "attack": 5,
+                "defense": 7,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, resurrect a minion that costs 5 or less from your graveyard.",
+                "image_path": "images\\minions\\Blood_Baron.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blood King Lucius",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "10",
+                "attack": 5,
+                "defense": 8,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "Once during each of your turns, when this card deals damage while attacking target, inflict 4 damage to 2 adjacent targets.",
+                "image_path": "images\\minions\\Blood_King_Lucius.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Soul Drain",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Inflict 2 damage to all enemy minions. Heal your hero for each enemy damaged this way.",
+                "image_path": "images\\spells\\Soul_Drain.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Veil of Darkness",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "All friendly minions gain invisibility, becoming untargetable until they attack or are damaged.",
+                "image_path": "images\\spells\\Veil_of_Darkness.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Vampiric Touch",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to a target and heal your hero for 2.",
+                "image_path": "images\\spells\\Vampiric_Touch.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Dark Resurrection",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
+                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Echoes of the Underworld",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Summon 3 minions from your hand, deck, or graveyard that cost 1.",
+                "image_path": "images\\spells\\Echoes_of_the_Underworld.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Coffin of Reawakening",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "When a friendly minion is destroyed, you may place it in this coffin instead of the graveyard. At the start of your next turn, return the minion to the field. Only one minion can be held in the coffin at a time.",
+                "image_path": "images\\artifacts\\Coffin_of_Reawakening.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodcurdling Scream",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "Enemy minions on the field lose 2 attack and defense.",
+                "duration": 1,
+                "image_path": "images\\events\\Bloodcurdling_Scream.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Blood Moon Ritual",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Give all friendly minions +1 attack during your turn and +1 defense during the enemy's turn.",
+                "duration": 2,
+                "image_path": "images\\events\\Blood_Moon_Ritual.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blood Oath Ceremony",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "When you summon a minion, restore 1 health to your hero.",
+                "duration": 3,
+                "image_path": "images\\events\\Blood_Oath_Ceremony.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodforged Blade",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Relic",
+                "lifeforce_cost": "3",
+                "effects": "Attach to a minion. It gains +2 attack. When this minion deals damage, heal your Hero for 2 health.",
+                "image_path": "images\\relics\\Bloodforged_Blade.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blood Crypt",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "When a minion is destroyed, inflict 1 damage to the enemy hero.",
+                "image_path": "images\\lands\\Blood_Crypt.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "filename": "decklist-1742862432993.json"
+}

@@ -10,8 +10,8 @@
         "ability2": "Ability Name: Moment of Ascension; Ability Effect: Once during your turn, when you draw a card from your deck or graveyard that costs 5 or less, you may play it for free this turn. If you do, banish it at the end of the turn.",
         "ability3": "Ability Name: Hand of the Forgotten King; Ability Effect: Once during your turn, you may pay 2 Lifeforce to return a banished card to your deck.",
         "ability4": "Ability Name: Path to the Afterlife; Ability Effect: Once during your turn, you may pay 2 Lifeforce to send a card from your deck to the graveyard.",
-        "front_image_path": "images\\heroes\\Osiris__The_Undying_King_front.png",
-        "back_image_path": "images\\heroes\\Osiris__The_Undying_King_back.png"
+        "front_image_path": "images\\heroes\\Osiris__The_Undying_King_front.jpeg",
+        "back_image_path": "images\\heroes\\Osiris__The_Undying_King_back.jpeg"
     },
     "mainDeck": [
         {
@@ -22,7 +22,7 @@
                 "lifeforce_cost": "0",
                 "effects": "Take 4 damage and gain 2 lifeforce.",
                 "magic_type": "Spell",
-                "image_path": "images\\spells\\Bloodletting.png"
+                "image_path": "images\\spells\\Bloodletting.jpeg"
             },
             "quantity": 3
         },
@@ -35,7 +35,7 @@
                 "lifeforce_cost": "3",
                 "defense": 2,
                 "effects": "Your spells cost 1 less lifeforce to cast.",
-                "image_path": "images\\artifacts\\Book_of_Shadows.jpg"
+                "image_path": "images\\artifacts\\Book_of_Shadows.jpeg"
             },
             "quantity": 3
         },
@@ -47,7 +47,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "3",
                 "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
-                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+                "image_path": "images\\spells\\Dark_Resurrection.jpeg"
             },
             "quantity": 3
         },
@@ -59,7 +59,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "4",
                 "effects": "Target and destroy a minion.",
-                "image_path": "images\\spells\\Disintegrate.jpg"
+                "image_path": "images\\spells\\Disintegrate.jpeg"
             },
             "quantity": 3
         },
@@ -71,7 +71,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "3",
                 "effects": "Negate and destroy an enemy magic card.",
-                "image_path": "images\\spells\\Dispel_Magic.jpg"
+                "image_path": "images\\spells\\Dispel_Magic.jpeg"
             },
             "quantity": 2
         },
@@ -83,7 +83,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "3",
                 "effects": "Return up to two spell cards from your graveyard to your hand.",
-                "image_path": "images\\spells\\Eldritch_Recall.jpg"
+                "image_path": "images\\spells\\Eldritch_Recall.jpeg"
             },
             "quantity": 2
         },
@@ -95,7 +95,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "1",
                 "effects": "Ensnare a target minion in a web, preventing it from receiving Minion Commands for 1 round.",
-                "image_path": "images\\spells\\Ensnare.jpg"
+                "image_path": "images\\spells\\Ensnare.jpeg"
             },
             "quantity": 3
         },
@@ -107,7 +107,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "2",
                 "effects": "Heal your hero for 6 health.",
-                "image_path": "images\\spells\\Healing_Potion.jpg"
+                "image_path": "images\\spells\\Healing_Potion.jpeg"
             },
             "quantity": 2
         },
@@ -119,7 +119,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "2",
                 "effects": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from taking Minion Commands for 1 round.",
-                "image_path": "images\\spells\\Ice_Bolt.jpg"
+                "image_path": "images\\spells\\Ice_Bolt.jpeg"
             },
             "quantity": 3
         },
@@ -131,7 +131,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "6",
                 "effects": "Double a minion's attack until the end of the turn.",
-                "image_path": "images\\spells\\Ka_s_Embrace.jpg"
+                "image_path": "images\\spells\\Ka_s_Embrace.jpeg"
             },
             "quantity": 1
         },
@@ -146,7 +146,7 @@
                 "defense": 5,
                 "traits": "+1 attack for each spell you cast this turn until the end of the turn.",
                 "effects": "Once during each of your turns, you may summon a 2-cost minion from your deck or graveyard.",
-                "image_path": "images\\minions\\Keeper_of_the_Dark_Woods.jpg"
+                "image_path": "images\\minions\\Keeper_of_the_Dark_Woods.jpeg"
             },
             "quantity": 2
         },
@@ -161,7 +161,7 @@
                 "defense": 2,
                 "traits": "On summon, roll a die. On a 1, destroy this card. On a 6, roll again.",
                 "effects": "On a 1-2, gain 2 Lifeforce. On a 3-4, draw a card. On a 5-6, inflict 2 damage to an enemy Hero.",
-                "image_path": "images\\minions\\Lucky_Trickster.png"
+                "image_path": "images\\minions\\Lucky_Trickster.jpeg"
             },
             "quantity": 1
         },
@@ -173,7 +173,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "5",
                 "effects": "Look at the hand of the enemy player and destroy a card.",
-                "image_path": "images\\spells\\Mind_Shatter.jpg"
+                "image_path": "images\\spells\\Mind_Shatter.jpeg"
             },
             "quantity": 2
         },
@@ -185,7 +185,7 @@
                 "magic_type": "Land",
                 "lifeforce_cost": "4",
                 "effects": "Draw a card during each of your turns.",
-                "image_path": "images\\lands\\Necroforge_Citadel.jpg"
+                "image_path": "images\\lands\\Necroforge_Citadel.jpeg"
             },
             "quantity": 1
         },
@@ -200,7 +200,7 @@
                 "defense": 2,
                 "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
                 "effects": "Draw a card once during each of your turns.",
-                "image_path": "images\\minions\\Nightmare_Raven.jpg"
+                "image_path": "images\\minions\\Nightmare_Raven.jpeg"
             },
             "quantity": 1
         },
@@ -212,7 +212,7 @@
                 "magic_type": "Spell",
                 "lifeforce_cost": "1",
                 "effects": "Inflict 1 damage to all enemy minions.",
-                "image_path": "images\\spells\\Shadow_Nova.jpg"
+                "image_path": "images\\spells\\Shadow_Nova.jpeg"
             },
             "quantity": 3
         },
@@ -224,7 +224,7 @@
                 "magic_type": "Relic",
                 "lifeforce_cost": "5",
                 "effects": "Attach this to a minion. It gains 1 extra attack.",
-                "image_path": "images\\relics\\Stormcaller_s_Signet.jpg"
+                "image_path": "images\\relics\\Stormcaller_s_Signet.jpeg"
             },
             "quantity": 1
         },
@@ -236,7 +236,7 @@
                 "magic_type": "Relic",
                 "lifeforce_cost": "2",
                 "effects": "Attach this to an enemy minion. The attached minion loses its trait and effect.",
-                "image_path": "images\\relics\\Tomb_Raider_s_Bane.jpg"
+                "image_path": "images\\relics\\Tomb_Raider_s_Bane.jpeg"
             },
             "quantity": 4
         }
