@@ -10,8 +10,8 @@
         "ability2": "Soul For Power; Ability Effect: Once during your turn, you may spend 2 Lifeforce and destroy a friendly minion. If you do, cast one of your shared Hero abilities at no cost.",
         "ability3": "Call of the Forgotten; Ability Effect: Once during your turn, you can summon a minion with a cost up to 3 from your deck or graveyard by paying its cost +1.",
         "ability4": "The Final Offering; Ability Effect: Once during your turn, you may spend 2 Lifeforce to destroy two friendly minions. If you do, summon a minion from your hand with a cost less than or equal to the combined cost of the destroyed minions. The summoned minion's effects and traits are negated until the start of your opponent's turn.",
-        "front_image_path": "images\\heroes\\Mictlantecuhtli,_God_of_the_Dead_front.jpeg",
-        "back_image_path": "images\\heroes\\Mictlantecuhtli,_God_of_the_Dead_back.jpeg"
+        "front_image_path": "images\\heroes\\Mictlantecuhtli,_God_of_the_Dead_front.png",
+        "back_image_path": "images\\heroes\\Mictlantecuhtli,_God_of_the_Dead_back.png"
     },
     "mainDeck": [
         {
@@ -22,7 +22,7 @@
                 "lifeforce_cost": "4",
                 "effects": "Sacrifice a friendly minion on the field, sending it to the graveyard, for the rest of your turn all your minions have +2 attack.",
                 "magic_type": "Spell",
-                "image_path": "images\\spells\\Blood_Sacrifice.jpeg"
+                "image_path": "images\\spells\\Blood_Sacrifice.png"
             },
             "quantity": 1
         },
@@ -35,7 +35,7 @@
                 "defense": 4,
                 "effects": "When an enemy minion attacks, inflict 2 damage to an enemy Hero.",
                 "magic_type": "Artifact",
-                "image_path": "images\\artifacts\\Blood_Ward.jpeg"
+                "image_path": "images\\artifacts\\Blood_Ward.png"
             },
             "quantity": 2
         },
@@ -47,7 +47,7 @@
                 "lifeforce_cost": "0",
                 "effects": "Take 4 damage and gain 2 lifeforce.",
                 "magic_type": "Spell",
-                "image_path": "images\\spells\\Bloodletting.jpeg"
+                "image_path": "images\\spells\\Bloodletting.png"
             },
             "quantity": 2
         },
@@ -59,7 +59,7 @@
                 "lifeforce_cost": "4",
                 "effects": "Once during your turn, you can take damage equal to the equipped minion\ufffds attack to allow that minion to attack again.",
                 "magic_type": "Relic",
-                "image_path": "images\\relics\\Bloodstone_Talisman.jpeg"
+                "image_path": "images\\relics\\Bloodstone_Talisman.png"
             },
             "quantity": 1
         },
@@ -71,7 +71,7 @@
                 "lifeforce_cost": "5",
                 "effects": "Destroy an enemy minion and heal your hero for half the lifeforce cost of the minion (rounded up).",
                 "magic_type": "Spell",
-                "image_path": "images\\spells\\Cannibalize.jpeg"
+                "image_path": "images\\spells\\Cannibalize.png"
             },
             "quantity": 1
         },
@@ -86,7 +86,7 @@
                 "defense": 6,
                 "traits": "When this minion takes damage, inflict half to an enemy Hero. (round down)",
                 "effects": "When this minion destroys another minion, gain lifeforce equal to half of the destroyed minion's cost. (round down)",
-                "image_path": "images\\minions\\Cipactli.jpeg"
+                "image_path": "images\\minions\\Cipactli.png"
             },
             "quantity": 1
         },
@@ -101,7 +101,7 @@
                 "defense": 4,
                 "traits": "+1 Attack against heroes.",
                 "effects": "Once during each of your turns, destroy another friendly minion to summon one costing 5 or less from your hand, deck, or graveyard. It cannot attack this turn.",
-                "image_path": "images\\minions\\Gatekeeper_of_Mictlan.jpeg"
+                "image_path": "images\\minions\\Gatekeeper_of_Mictlan.png"
             },
             "quantity": 1
         },
@@ -114,7 +114,7 @@
                 "defense": 3,
                 "effects": "Once during each of your turns, resurrect a number of minions with a combined cost of 5 or less from your graveyard. These minions are destroyed at the end of the turn.",
                 "magic_type": "Artifact",
-                "image_path": "images\\artifacts\\Miquiztli_Tlapitzalli.jpeg"
+                "image_path": "images\\artifacts\\Miquiztli_Tlapitzalli.png"
             },
             "quantity": 1
         },
@@ -126,7 +126,7 @@
                 "lifeforce_cost": "3",
                 "effects": "Attach this to a minion. Once during your turn, when the attached minion destroys an enemy minion, it gains 1 additional attack until the end of the turn.",
                 "magic_type": "Relic",
-                "image_path": "images\\relics\\Obsidian_Blade.jpeg"
+                "image_path": "images\\relics\\Obsidian_Blade.png"
             },
             "quantity": 1
         },
@@ -138,7 +138,7 @@
                 "lifeforce_cost": "6",
                 "effects": "Once during your turn, you may sacrifice a friendly minion by sending it to the graveyard. If you do, summon a minion from your deck with a cost equal to or less than the sacrificed minion\ufffds cost plus 1.",
                 "magic_type": "Land",
-                "image_path": "images\\lands\\Pyramid_of_Sacrifice.jpeg"
+                "image_path": "images\\lands\\Pyramid_of_Sacrifice.png"
             },
             "quantity": 1
         },
@@ -152,7 +152,7 @@
                 "magic_type": "Event",
                 "rounds_active": 2,
                 "duration": 2,
-                "image_path": "images\\events\\Rise_of_the_Fifth_Sun.jpeg"
+                "image_path": "images\\events\\Rise_of_the_Fifth_Sun.png"
             },
             "quantity": 1
         },
@@ -166,7 +166,7 @@
                 "magic_type": "Event",
                 "rounds_active": 3,
                 "duration": 3,
-                "image_path": "images\\events\\Rise_of_the_First_Sun.jpeg"
+                "image_path": "images\\events\\Rise_of_the_First_Sun.png"
             },
             "quantity": 1
         },
@@ -180,7 +180,7 @@
                 "magic_type": "Event",
                 "rounds_active": 2,
                 "duration": 2,
-                "image_path": "images\\events\\Rise_of_the_Fourth_Sun.jpeg"
+                "image_path": "images\\events\\Rise_of_the_Fourth_Sun.png"
             },
             "quantity": 1
         },
@@ -194,7 +194,7 @@
                 "magic_type": "Event",
                 "rounds_active": 3,
                 "duration": 3,
-                "image_path": "images\\events\\Rise_of_the_Second_Sun.jpeg"
+                "image_path": "images\\events\\Rise_of_the_Second_Sun.png"
             },
             "quantity": 1
         },
@@ -208,7 +208,7 @@
                 "magic_type": "Event",
                 "rounds_active": 3,
                 "duration": 3,
-                "image_path": "images\\events\\Rise_of_the_Third_Sun.jpeg"
+                "image_path": "images\\events\\Rise_of_the_Third_Sun.png"
             },
             "quantity": 1
         },
@@ -220,7 +220,7 @@
                 "lifeforce_cost": "5",
                 "effects": "Sacrifice a friendly minion, sending it to the graveyard. Deal damage to all enemy minions equal to the sacrificed minion's lifeforce cost, up to a maximum of 3.",
                 "magic_type": "Spell",
-                "image_path": "images\\spells\\Sacrificial_Lamb.jpeg"
+                "image_path": "images\\spells\\Sacrificial_Lamb.png"
             },
             "quantity": 2
         },
@@ -233,7 +233,7 @@
                 "defense": 2,
                 "effects": "Twice during each of your turns, when a friendly minion dies, draw a card. If the drawn card is a minion that costs 4 or less, summon it to the field.",
                 "magic_type": "Artifact",
-                "image_path": "images\\artifacts\\Skull_Rack.jpeg"
+                "image_path": "images\\artifacts\\Skull_Rack.png"
             },
             "quantity": 1
         },
@@ -248,7 +248,7 @@
                 "defense": 2,
                 "traits": "+1 Attack against heroes.",
                 "effects": "On death, gain 2 lifeforce.",
-                "image_path": "images\\minions\\Tzitzimitl_Blood_Mage.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Blood_Mage.png"
             },
             "quantity": 3
         },
@@ -263,7 +263,7 @@
                 "defense": 5,
                 "traits": "+1 Attack against heroes.",
                 "effects": "On death, return a different minion from your graveyard to your hand.",
-                "image_path": "images\\minions\\Tzitzimitl_Dark_Shaman.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Dark_Shaman.png"
             },
             "quantity": 2
         },
@@ -278,7 +278,7 @@
                 "defense": 4,
                 "traits": "+1 Attack against heroes.",
                 "effects": "On death, heal your hero for 1 health for each minion in your graveyard, including this one, up to a maximum of 4 health.",
-                "image_path": "images\\minions\\Tzitzimitl_Death_Priest.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Death_Priest.png"
             },
             "quantity": 2
         },
@@ -293,7 +293,7 @@
                 "defense": 3,
                 "traits": "+1 Attack against heroes.",
                 "effects": "Once per turn, if a friendly minion died this turn, this minion gains +2 Attack until the end of the turn.",
-                "image_path": "images\\minions\\Tzitzimitl_Eagle_Warrior.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Eagle_Warrior.png"
             },
             "quantity": 3
         },
@@ -308,7 +308,7 @@
                 "defense": 4,
                 "traits": "Trait: +1 Attack against heroes.",
                 "effects": "Effect: On death, play an Event card from your hand or deck with a cost of 6 or less.",
-                "image_path": "images\\minions\\Tzitzimitl_Firecaller.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Firecaller.png"
             },
             "quantity": 2
         },
@@ -323,7 +323,7 @@
                 "defense": 2,
                 "traits": "+1 Attack against heroes",
                 "effects": "On death, inflict 1 damage to a target.",
-                "image_path": "images\\minions\\Tzitzimitl_Jaguar_Warrior.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Jaguar_Warrior.png"
             },
             "quantity": 4
         },
@@ -338,7 +338,7 @@
                 "defense": 6,
                 "traits": "+1 Attack against heroes.",
                 "effects": "Effect: At the end of your turn, you may summon up to three Common and\/or Rare minions with a total cost of 6 or less from your hand, deck, or graveyard.",
-                "image_path": "images\\minions\\Tzitzimitl_Necromancer.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Necromancer.png"
             },
             "quantity": 1
         },
@@ -353,7 +353,7 @@
                 "defense": 2,
                 "traits": "+1 Attack against heroes.",
                 "effects": "If this minion is adjacent to another, it can attack twice.",
-                "image_path": "images\\minions\\Tzitzimitl_Warrior.jpeg"
+                "image_path": "images\\minions\\Tzitzimitl_Warrior.png"
             },
             "quantity": 3
         }
