@@ -1833,5 +1833,254 @@
         "effects": "Once during your turn, you may sacrifice a friendly minion by sending it to the graveyard. If you do, summon a minion from your deck with a cost equal to or less than the sacrificed minion’s cost plus 1.",
         "magic_type": "Land",
         "image_path": "images\\lands\\Pyramid_of_Sacrifice.png"
+    },
+     {
+        "card_name": "Lysandra, Shadow Matron",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ability Name: Ghostly Presence; Ability Effect: At the start of your turn, if you control an Invisible minion, gain 2 Lifeforce.",
+        "ability2": "Ability Name: Hidden Strength; Ability Effect: Invisible friendly minions gain +1 Attack.",
+        "ability3": "Ability Name: Fade Into Darkness; Ability Effect: When one of your minions attacks, destroys an enemy minion, and survives, it immediately gains Invisibility. Invisible minions can't be targeted until they attack again or take damage.",
+        "ability4": "Ability Name: Shadowmeld; Ability Effect: Spend 2 lifeforce to make a friendly minion Invisible, making them untargetable until they attack or take damage.",
+        "front_image_path": "images\\heroes\\Lysandra,_Shadow_Matron_front.jpeg",
+        "back_image_path": "images\\heroes\\Lysandra,_Shadow_Matron_back.jpeg"
+    },
+    {
+        "card_name": "Nightveil Rogue",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "lifeforce_cost": "1",
+        "minion_type": "Dark Elf",
+        "attack": 2,
+        "defense": 1,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "On summon, this minion gains invisibility, becoming untargetable until it attacks or takes damage.",
+        "image_path": "images\\minions\\Nightveil_Rogue.jpeg"
+    },
+    {
+        "card_name": "Nightveil Mystic",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "lifeforce_cost": "3",
+        "minion_type": "Dark Elf",
+        "attack": 3,
+        "defense": 2,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "On summon, reveal a minion from your deck and add it to your hand.",
+        "image_path": "images\\minions\\Nightveil_Mystic.jpeg"
+    },
+    {
+        "card_name": "Nightveil Archer",
+        "card_type": "Minion",
+        "rarity": "Common",
+        "lifeforce_cost": "2",
+        "minion_type": "Dark Elf",
+        "attack": 3,
+        "defense": 1,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "Effect: When this minion gains invisibility, inflict 2 damage to a target. This does not break invisibility.",
+        "image_path": "images\\minions\\Nightveil_Archer.jpeg"
+    },
+    {
+        "card_name": "Nightveil Shadowcaster",
+        "card_type": "Minion",
+        "rarity": "Common",
+        "lifeforce_cost": "3",
+        "minion_type": "Dark Elf",
+        "attack": 3,
+        "defense": 3,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "On summon, inflict 1 damage to two different enemy targets.",
+        "image_path": "images\\minions\\Nightveil_Shadowcaster.jpeg"
+    },
+    {
+        "card_name": "Nightveil Shadowslayer",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "lifeforce_cost": "4",
+        "minion_type": "Dark Elf",
+        "attack": 4,
+        "defense": 3,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "Effect: When this minion attacks and destroys a target, freely cast a 2 or less cost spell from your deck.",
+        "image_path": "images\\minions\\Nightveil_Shadowslayer.jpeg"
+    },
+    {
+        "card_name": "Nightveil Commander",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "lifeforce_cost": "7",
+        "minion_type": "Dark Elf",
+        "attack": 6,
+        "defense": 6,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "When this minion attacks, all other friendly minions gain +2 attack until the end of the turn.",
+        "image_path": "images\\minions\\Nightveil_Commander.jpeg"
+    },
+    {
+        "card_name": "Nightveil Dark Paladin",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "lifeforce_cost": "6",
+        "minion_type": "Dark Elf",
+        "attack": 4,
+        "defense": 8,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "This minion can use the Defend Minion Command twice per turn.",
+        "image_path": "images\\minions\\Nightveil_Dark_Paladin.jpeg"
+    },
+    {
+        "card_name": "Nightveil Priestess",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "lifeforce_cost": "4",
+        "minion_type": "Dark Elf",
+        "attack": 4,
+        "defense": 3,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "Once during each of your turns, heal a hero for 3 health.",
+        "image_path": "images\\minions\\Nightveil_Priestess.jpeg"
+    },
+    {
+        "card_name": "Nightveil Shade Stalker",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "lifeforce_cost": "3",
+        "minion_type": "Dark Elf",
+        "attack": 3,
+        "defense": 3,
+        "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+        "effects": "When this minion gains invisibility, draw a card.",
+        "image_path": "images\\minions\\Nightveil_Shade_Stalker.jpeg"
+    },
+    {
+        "card_name": "Umbral Ward",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "lifeforce_cost": "3",
+        "defense": 3,
+        "effects": "When an enemy activates a magic card effect, inflict 2 damage to their hero. If the enemy uses Destroy Magic, inflict 4 damage instead.",
+        "magic_type": "Artifact",
+        "image_path": "images\\artifacts\\Umbral_Ward.jpeg"
+    },
+    {
+        "card_name": "Banner of the Shadow Legion",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "lifeforce_cost": "4",
+        "defense": 3,
+        "effects": "Twice during your turn, when you destroy an enemy minion, you may summon a minion with a lifeforce cost of 3 or less from your deck.",
+        "magic_type": "Artifact",
+        "image_path": "images\\artifacts\\Banner_of_the_Shadow_Legion.jpeg"
+    },
+    {
+        "card_name": "Cloak of Shadows",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "lifeforce_cost": "3",
+        "effects": "Attach to a minion. It gains Invisibility at the end of each turn and takes 1 less damage from all sources.",
+        "magic_type": "Relic",
+        "image_path": "images\\relics\\Cloak_of_Shadows.jpeg"
+    },
+    {
+        "card_name": "Umbral Mask",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "lifeforce_cost": "3",
+        "effects": "Attach this to a minion. This minion can avoid taking damage from the first minion attack it receives each turn. The attached minion cannot use the Defend Minion Command.",
+        "magic_type": "Relic",
+        "image_path": "images\\relics\\Umbral_Mask.jpeg"
+    },
+    {
+        "card_name": "Ambush",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "lifeforce_cost": "3",
+        "effects": "At the end of your turn, you can inflict 2 damage to any enemy target for each friendly invisible minion.",
+        "magic_type": "Event",
+        "duration": 3,
+        "image_path": "images\\events\\Ambush.jpeg"
+    },
+    {
+        "card_name": "Dark Miasma",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "lifeforce_cost": "4",
+        "effects": "At the end of each of your opponent's turns, gain lifeforce equal to half of the total lifeforce they spent during that turn, rounded down.",
+        "magic_type": "Event",
+        "duration": 3,
+        "image_path": "images\\events\\Dark_Miasma.jpeg"
+    },
+    {
+        "card_name": "Shadow Volley",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "lifeforce_cost": "2",
+        "effects": "Unleash a barrage of shadowy arrows, inflicting 1 damage to all enemy characters on the field. This card can be played on any turn.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Shadow_Volley.jpeg"
+    },
+    {
+        "card_name": "Ethereal Arrow",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "lifeforce_cost": "4",
+        "effects": "Inflict 4 damage to an enemy target. If a minion is destroyed by this, gain 2 lifeforce.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Ethereal_Arrow.jpeg"
+    },
+    {
+        "card_name": "Strike From The Shadows",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "lifeforce_cost": "2",
+        "effects": "Inflict 2 damage to an enemy minion. If it dies, summon a 1-cost minion from your deck or graveyard.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Strike_From_The_Shadows.jpeg"
+    },
+    {
+        "card_name": "Nightfall Strike",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "lifeforce_cost": "2",
+        "effects": "Inflict 2 damage to a target. If the target is destroyed, give a friendly minion Invisibility, causing it to become untargetable until it attacks or takes damage.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Nightfall_Strike.jpeg"
+    },
+    {
+        "card_name": "Ensnare",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "lifeforce_cost": "1",
+        "effects": "Ensnare a target minion in a shadowy bind, preventing it from receiving Minion Commands for 1 round. This card can be played on any turn.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Ensnare.jpeg"
+    },
+    {
+        "card_name": "Shadow Strike",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "lifeforce_cost": "2",
+        "effects": "Inflict 3 damage to any target. This card can be played on any turn.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Shadow_Strike.jpeg"
+    },
+    {
+        "card_name": "Shadow Infusion",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "lifeforce_cost": "2",
+        "effects": "Empower a minion with shadow essence, granting it +2 Attack until end of turn. The minion also becomes invisible, and its attacks this turn don't break invisibility.",
+        "magic_type": "Spell",
+        "image_path": "images\\spells\\Shadow_Infusion.jpeg"
+    },
+    {
+        "card_name": "Kingdom of Shadows",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "lifeforce_cost": "4",
+        "effects": "Your Invisible minions gain +2 Attack.",
+        "magic_type": "Land",
+        "image_path": "images\\lands\\Kingdom_of_Shadows.jpeg"
     }
 ]
