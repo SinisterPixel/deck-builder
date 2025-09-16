@@ -2349,5 +2349,17 @@
         "effects": "Your Magic cards Cost 1 less \nLifeforce to play from your Hand.",
         "magic_type": "Land",
         "image_path": "images\\lands\\Crumbled_Sanctuary.png"
+    },
+    {
+        "card_name": "Blackfyre Warrior",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "2",
+        "attack": 2,
+        "defense": 2,
+        "traits": "On summon, gain +1 attack and defense until the end of the turn.",
+        "effects": "When this minion attacks an enemy minion during your turn it takes 2 less damage.",
+        "image_path": "images\\minions\\Blackfyre_Warrior.png"
     }
 ]
