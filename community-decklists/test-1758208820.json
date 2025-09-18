@@ -1,0 +1,429 @@
+{
+    "id": "deck_1758208819136",
+    "creator": "test",
+    "deckName": "test",
+    "hero": {
+        "card_name": "Arachnia, the Dread Weaver",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Early Entombment: At the start of the game you may send 4 minions from your deck that cost 1 or less to the graveyard.",
+        "ability2": "Toxic Webs: Ensured enemy minions have their defense reduced by 2.",
+        "ability3": "Web: Spend 2 lifeforce to target a minion for 1 round.",
+        "ability4": "Swarm: Spend 6 lifeforce to summon minions from the graveyard with a combined cost of 4 or less.",
+        "front_image_path": "images\\heroes\\Arachnia__the_Dread_Weaver_front.jpg",
+        "back_image_path": "images\\heroes\\Arachnia__the_Dread_Weaver_back.jpg"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Banner of the Shadow Legion",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "defense": 3,
+                "effects": "Twice during your turn, when you destroy an enemy minion, you may summon a minion with a lifeforce cost of 3 or less from your deck.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Banner_of_the_Shadow_Legion.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blood Crypt",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "When a minion is destroyed, inflict 1 damage to the enemy hero.",
+                "image_path": "images\\lands\\Blood_Crypt.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blood Moon Ritual",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Give all friendly minions +1 attack during your turn and +1 defense during the enemy's turn.",
+                "duration": 2,
+                "image_path": "images\\events\\Blood_Moon_Ritual.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Blood Sacrifice",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "4",
+                "effects": "Sacrifice a friendly minion on the field, sending it to the graveyard, for the rest of your turn all your minions have +2 attack.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Blood_Sacrifice.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Flayer",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "6",
+                "attack": 5,
+                "defense": 5,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "This minion's attacks cannot be defended against. If it destroys an enemy minion, it may attack again this turn.",
+                "image_path": "images\\minions\\Bloodbound_Flayer.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Maiden",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon a minion with a cost 4 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Bloodbound_Maiden.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Call Minions",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Summon any number of minions from your hand, deck, or graveyard paying the lifeforce cost for each +1. The combined lifeforce cost cannot exceed 10.",
+                "image_path": "images\\spells\\Call_Minions.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Demonic Convergence",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "When a friendly minion dies, attach it to this card. When this card leaves play, summon a minion from your hand, deck, or graveyard with a cost up to the combined total lifeforce cost of the attached minions (max 10).",
+                "duration": 2,
+                "image_path": "images\\events\\Demonic_Convergence.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Drain Soul",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to a target. If the target is destroyed, gain 1 lifeforce.",
+                "image_path": "images\\spells\\Drain_Soul.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Echoes of the Underworld",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Summon 3 minions from your hand, deck, or graveyard that cost 1.",
+                "image_path": "images\\spells\\Echoes_of_the_Underworld.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Frenzy",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "6",
+                "effects": "All of your minions gain +2 attack.",
+                "duration": 1,
+                "image_path": "images\\events\\Frenzy.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Hellgate",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "When this card is played, reveal and add two minions from your deck to your hand. While this card is on the field, your minions cost 2 less to summon.",
+                "image_path": "images\\artifacts\\Hellgate.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ice Bolt",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from taking Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Ice_Bolt.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Infested Zombie",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Zombie",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "Once per turn, this card cannot be destroyed by one enemy minion attack.",
+                "effects": "When this card takes damage, summon a 1-cost minion from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Infested_Zombie.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Jackal of Anubis",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On death, inflict 2 damage to an enemy Hero.",
+                "image_path": "images\\minions\\Jackal_of_Anubis.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Lost Soul",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Immune to piercing damage.",
+                "effects": "On death, this minion explodes, dealing its attack value as damage to all enemy minions. If this minion deals damage while attacking, it is destroyed.",
+                "image_path": "images\\minions\\Lost_Soul.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Miquiztli Tlapitzalli",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "Once during each of your turns, resurrect a number of minions with a combined cost of 5 or less from your graveyard. These minions are destroyed at the end of the turn.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Miquiztli_Tlapitzalli.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Necropolis of the Damned",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "6",
+                "effects": "Once per turn, when a minion you control is destroyed, you may summon a minion with a different name from your hand or deck with a cost 5 or less.",
+                "image_path": "images\\lands\\Necropolis_of_the_Damned.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Necrotic Infusion",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Resurrect up to 4 minions from your graveyard. The cost of this card is their total lifeforce cost. The total cost cannot exceed 10. At the end of the turn, they are destroyed.",
+                "image_path": "images\\spells\\Necrotic_Infusion.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightfall Harbinger",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon two 1-cost minions from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Nightfall_Harbinger.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightveil Commander",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "7",
+                "minion_type": "Dark Elf",
+                "attack": 6,
+                "defense": 6,
+                "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+                "effects": "When this minion attacks, all other friendly minions gain +2 attack until the end of the turn.",
+                "image_path": "images\\minions\\Nightveil_Commander.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Phylactery",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 4,
+                "effects": "When your minions are destroyed, attach them to this card instead of sending them to the graveyard. You can resummon them at the start of your next turn. If this card is destroyed, so are the attached minions.",
+                "image_path": "images\\artifacts\\Phylactery.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Silk Bind",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Ensnare all enemy minions in a web, preventing them from receiving Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Silk_Bind.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Skull Rack",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "defense": 2,
+                "effects": "Twice during each of your turns, when a friendly minion dies, draw a card. If the drawn card is a minion that costs 4 or less, summon it to the field.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Skull_Rack.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Strike From The Shadows",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to an enemy minion. If it dies, summon a 1-cost minion from your deck or graveyard.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Strike_From_The_Shadows.jpeg"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [
+        {
+            "card": {
+                "card_name": "Dreadnaught Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 4,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once during each of your turns, you may summon a minion from your hand, deck, or graveyard with a cost 4 or less.",
+                "image_path": "images\\minions\\Dreadnaught_Summoner.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Grave",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 2,
+                "effects": "Resurrects a minion from your graveyard with a cost of 5 or less. The minion is destroyed if this card is destroyed.",
+                "image_path": "images\\artifacts\\Grave.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ice Bolt",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from taking Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Ice_Bolt.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Tomb Raider's Bane",
+                "card_type": "Magic",
+                "rarity": "Common",
+                "magic_type": "Relic",
+                "lifeforce_cost": "2",
+                "effects": "Attach this to an enemy minion. The attached minion loses its trait and effect.",
+                "image_path": "images\\relics\\Tomb_Raider_s_Bane.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, you may summon a 4 or less cost minion from your hand, deck or graveyard.",
+                "image_path": "images\\minions\\Vilefang_Summoner.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "published": true
+}
