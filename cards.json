@@ -2448,5 +2448,16 @@
      "defense": 4,
      "effects": "Once during your turn, when you Attack and deal damage with this Weapon, give a Minion +2 Attack, then reduce the cost of a Minion in your Hand with a cost of 6 or more by 2 until the end of the turn.",
      "image_path": "images\\weapons\\Pyrestorm,_Herald_of_Ashes.jpg"
+ },
+ {
+        "card_name": "Nyxara, Keeper of the Eternal Flame",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Coven's Might: If you control 3 or more minions, they gain +1 Attack during your turn and +1 Defense during your opponent's turn.",
+        "ability2": "Born In Flames: Once during your turn, you may spend 3 Lifeforce to summon a minion with cost 3 or less from your deck.",
+        "ability3": "Walpurgis Flames: At the start of your turn, if you control 3 or more minions, inflict 3 damage to an enemy Hero and draw a card.",
+        "ability4": "Harvest Essence: At the end of your turn, if you control 3 or more minions, siphon 1 Lifeforce from a target Hero (if available) and gain it.",
+        "back_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_back.png",
+        "front_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_front.png"
  }
 ]
