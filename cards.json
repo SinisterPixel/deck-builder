@@ -2459,5 +2459,237 @@
         "ability4": "Harvest Essence: At the end of your turn, if you control 3 or more minions, siphon 1 Lifeforce from a target Hero (if available) and gain it.",
         "back_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_back.png",
         "front_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_front.png"
- }
+ },
+ {
+        "card_name": "Blackfyre Bolt",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Spell",
+        "lifeforce_cost": "3",
+        "effects": "Inflict 1 damage to a Target. If that Target is destroyed, inflict 1 damage to all other enemy Minions and 3 damage to an enemy Hero.",
+        "image_path": "images/spells/Blackfyre_Bolt.png"
+    },
+    {
+        "card_name": "Airwen Blackfyre, Witch Hunter",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Blackfyre State: When an enemy Minion dies during your turn, you enter the Blackfyre State until end of turn.The first time you enter this state each turn, you gain 1 Lifeforce.",
+        "ability2": "Blackfyre Artillery: Once during your turn, while in the Blackfyre State, you may spend 1 Lifeforce to play a 3 or lower cost Weapon or Artifact from your Deck.",
+        "ability3": "Echoes of the Blackfyre: Once during your turn, while in the Blackfyre State, you may spend 1 Lifeforce to add a Weapon or Magic Card from your Graveyard to your Deck.",
+        "ability4": "Blackfyre Ward: Your Artifacts cannot be destroyed by Destroy Magic.",
+        "back_image_path": "images/heroes/Airwen_Blackfyre,_Witch_Hunter_back.png",
+        "front_image_path": "images/heroes/Airwen_Blackfyre,_Witch_Hunter_front.png"
+    },
+    {
+        "card_name": "Blackfyre Warrior",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "2",
+        "attack": 2,
+        "defense": 2,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "When this Minion attacks an enemy Minion during your turn it takes 2 less damage.",
+        "image_path": "images/minions/Blackfyre_Warrior.png"
+    },
+    {
+        "card_name": "Blackfyre Archer",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "3",
+        "attack": 2,
+        "defense": 3,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "During your turn, when this Minion attacks and deals damage to an enemy Minion, you may inflict 1 damage to up to two different enemy Targets.",
+        "image_path": "images/minions/Blackfyre_Archer.png"
+    },
+    {
+        "card_name": "Blackfyre Mage",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "4",
+        "attack": 4,
+        "defense": 3,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "On Summon, inflict 2 damage to one Target or 1 damage to two different Targets.",
+        "image_path": "images/minions/Blackfyre_Mage.png"
+    },
+    {
+        "card_name": "Revenant Knight",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "5",
+        "attack": 3,
+        "defense": 4,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "All other friendly Minions gain +1 Attack and Defense while this Minion is on the field.",
+        "image_path": "images/minions/Revenant_Knight.png"
+    },
+    {
+        "card_name": "Wraith Lord",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "6",
+        "attack": 5,
+        "defense": 4,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "During your turn, when this Minion attacks, it takes no damage from the target Minion.",
+        "image_path": "images/minions/Wraith_Lord.png"
+    },
+    {
+        "card_name": "Veiled Deathcaller",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "7",
+        "attack": 5,
+        "defense": 6,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "After this destroys an enemy Minion, it becomes Invisible and untargetable until it attacks or takes damage. If it's your turn, it may attack again instead.",
+        "image_path": "images/minions/Veiled_Deathcaller.png"
+    },
+    {
+        "card_name": "Valkor Darkbane",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Revenant",
+        "lifeforce_cost": "10",
+        "attack": 7,
+        "defense": 7,
+        "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+        "effects": "At the start of your turn, inflict 2 damage to all enemy Characters and heal 1 for each enemy damaged this way.",
+        "image_path": "images/minions/Valkor_Darkbane.png"
+    },
+    {
+        "card_name": "Skull of Resurrection",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Artifact",
+        "lifeforce_cost": "9",
+        "defense": 6,
+        "effects": "Immune to Destroy Magic. Attach up to 4 Minions from your Graveyard to this Artifact. Once during your turn, Summon Minions attached to this Artifact with a combined cost of 7 or less. When your Minions die, you may attach them to this Artifact.",
+        "image_path": "images/artifacts/Skull_of_Resurrection.png"
+    },
+    {
+        "card_name": "Witch Hunter's Manual",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Artifact",
+        "lifeforce_cost": "5",
+        "defense": 4,
+        "effects": "Declare a Minion type. Minions of that type always have their Traits negated. During your turn, they also have their Defense reduced by 2. You may declare a Minion type once during your turn.",
+        "image_path": "images/artifacts/Witch_Hunter's_Manual.png"
+    },
+    {
+        "card_name": "Destruction Turret",
+        "card_type": "Magic",
+        "rarity": "Common",
+        "magic_type": "Artifact",
+        "lifeforce_cost": "2",
+        "defense": 2,
+        "effects": "This card can be played during any turn. Once during any turn, inflict 1 damage to any Target.",
+        "image_path": "images/artifacts/Destruction_Turret.png"
+    },
+    {
+        "card_name": "Blackfyre Quiver",
+        "card_type": "Weapon",
+        "rarity": "Legendary",
+        "weapon_type": "Off-Hand",
+        "lifeforce_cost": "3",
+        "attack": 0,
+        "defense": 2,
+        "effects": "When you equip this Weapon, you may equip a Main-Hand Weapon with a cost of 3 or less from your Deck or Graveyard. When you destroy a Minion with a Main-Hand Weapon Attack, you may freely cast a Spell with a cost of 3 or less from your Deck.",
+        "image_path": "images/weapons/Blackfyre_Quiver.png"
+    },
+    {
+        "card_name": "Blackfyre Crossbow",
+        "card_type": "Weapon",
+        "rarity": "Legendary",
+        "weapon_type": "Main-Hand",
+        "lifeforce_cost": "3",
+        "attack": 2,
+        "defense": 2,
+        "effects": "During your turn, when this Weapon attacks, it takes no damage in return. When your Hero inflicts damage with this Weapon, you may inflict 1 damage to up to two Targets.",
+        "image_path": "images/weapons/Blackfyre_Crossbow.png"
+    },
+    {
+        "card_name": "Rapid Fire Turret",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Artifact",
+        "lifeforce_cost": "3",
+        "defense": 3,
+        "effects": "Once during your turn, inflict 1 damage up to 3 times, divided as you choose among any number of Minions or Heroes.",
+        "image_path": "images/artifacts/Rapid_Fire_Turret.png"
+    },
+    {
+        "card_name": "Blackfyre's Vengeance",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Event",
+        "lifeforce_cost": "5",
+        "effects": "When an enemy Minion attacks your Hero, inflict 2 damage to that enemy Hero.",
+        "duration": 3,
+        "image_path": "images/events/Blackfyre's_Vengeance.png"
+    },
+    {
+        "card_name": "Blackfyre's Wrath",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Event",
+        "lifeforce_cost": "3",
+        "effects": "Inflict 2 damage to all enemy Heroes, Minions, and Artifacts at the start of each of your turns.",
+        "duration": 3,
+        "image_path": "images/events/Blackfyre's_Wrath.png"
+    },
+    {
+        "card_name": "Thrill of the Hunt",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Event",
+        "lifeforce_cost": "4",
+        "effects": "Declare a Minion type. Your damage dealt to Minions of that type is increased by 2. You may declare a Minion type once during your turn.",
+        "duration": 2,
+        "image_path": "images/events/Thrill_of_the_Hunt.png"
+    },
+    {
+        "card_name": "Rapid Deployment",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "?",
+        "effects": "You may play any number of different Artifacts from your Deck or Graveyard. This card's cost becomes the total cost of all Artifacts Summoned this way, plus 1.",
+        "image_path": "images/spells/Rapid_Deployment.png"
+    },
+    {
+        "card_name": "Explosive Shot",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "3",
+        "effects": "Inflict 2 damage to a Target and all Characters or Targets adjacent to it. This can be used on any turn.",
+        "image_path": "images/spells/Explosive_Shot.png"
+    },
+    {
+        "card_name": "Cluster Shot",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Spell",
+        "lifeforce_cost": "2",
+        "effects": "Inflict 2 damage to a Character and Ensnare adjacent Characters, preventing them from taking Combat Actions for 1 round.",
+        "image_path": "images/spells/Cluster_Shot.png"
+    },
+    {
+        "card_name": "Molotov Cocktail",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Spell",
+        "lifeforce_cost": "4",
+        "effects": "Inflict 3 damage to a Target, 2 damage to adjacent Targets, and 1 damage to all other enemy Minions. This card can be played during any turn.",
+        "image_path": "images/spells/Molotov_Cocktail.png"
+    }
 ]
