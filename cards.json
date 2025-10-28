@@ -2691,5 +2691,88 @@
         "lifeforce_cost": "4",
         "effects": "Inflict 3 damage to a Target, 2 damage to adjacent Targets, and 1 damage to all other enemy Minions. This card can be played during any turn.",
         "image_path": "images/spells/Molotov_Cocktail.png"
+    },
+    {
+        "card_name": "Nightmare, the Eldritch Hollow",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Hollow Mirror: Once during your turn, you may spend 3 Lifeforce to copy a Hero's Ability. You keep that Ability until you copy another. Use it as if it were your own.",
+        "ability2": "Assimilate the Flesh: Once during your turn, you may spend 5 Lifeforce to gain control of target enemy Minion with a Cost of 5 or less. If it dies or is Dismissed, return it to its owner's field, or to their Graveyard if their field is full.",
+        "ability3": "Devour the Spark: Once during your turn, if you control no Minions, target an enemy Minion and Summon from your Deck a Minion with the same Cost, paying that Cost.",
+        "ability4": "Twisted Form: Once during your turn, you may spend half the Lifeforce cost (rounded up) of a Minion you control to Dismiss it. If you do, Summon from your Deck a different Minion with a Lifeforce either 1 higher or 1 lower than the Dismissed Minion.",
+        "back_image_path": "images/heroes/Nightmare,_the_Eldritch_Hollow_back.png",
+        "front_image_path": "images/heroes/Nightmare,_the_Eldritch_Hollow_front.png"
+    },
+    {
+        "card_name": "Nightmare Airwen",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "5",
+        "attack": 2,
+        "defense": 5,
+        "traits": "When this Minion deals damage with its attack, you may deal 1 damage up to two times to any Targets.",
+        "effects": "Once during your turn, if this Minion destroys an enemy Target, Summon a 3 or less cost Artifact from your Deck.",
+        "image_path": "images/minions/Nightmare_Airwen.png"
+    },
+    {
+        "card_name": "Nightmare Morgana",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "5",
+        "attack": 4,
+        "defense": 3,
+        "traits": "Twice during any turn, when you cast a Spell gain 1 Lifeforce.",
+        "effects": "When this Minion attacks and destroys a Minion, you may cast a Spell from your Graveyard with a cost of 3 or less, then shuffle it into your Deck.",
+        "image_path": "images/minions/Nightmare_Morgana.png"
+    },
+    {
+        "card_name": "Nightmare Ragnar",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "6",
+        "attack": 3,
+        "defense": 5,
+        "traits": "When this attacks during your turn, all your Minions get +1 Attack this turn.",
+        "effects": "When this destroys a Minion in combat during any turn, you may Resurrect a Minion with a cost of 3 or less from your Graveyard.",
+        "image_path": "images/minions/Nightmare_Ragnar.png"
+    },
+    {
+        "card_name": "Nightmare Mordekai",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "6",
+        "attack": 3,
+        "defense": 3,
+        "traits": "End of turn, if you control 4 Legendary Minions with cost 3, 4, 5, and 6, you may play a 6-cost or less Event from your Deck.",
+        "effects": "End of turn, Summon a 3, 4 or 5 cost Minion from your Deck or Graveyard with a cost that differs from your others.",
+        "image_path": "images/minions/Nightmare_Mordekai.png"
+    },
+    {
+        "card_name": "Nightmare Lysandra",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "7",
+        "attack": 5,
+        "defense": 5,
+        "traits": "On Summon, make two of your other Minions Invisible. Your Invisible Minions have +1 Attack while this is on the Field.",
+        "effects": "At the end of your turn, this Minion becomes Invisible. If it's Invisible at the start of your turn, gain 2 Lifeforce.",
+        "image_path": "images/minions/Nightmare_Lysandra.png"
+    },
+    {
+        "card_name": "Nightmare Valeria",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Visage",
+        "lifeforce_cost": "7",
+        "attack": 4,
+        "defense": 5,
+        "traits": "During your turn, your Hero restores 1 additional Health when healed, up to 4.",
+        "effects": "While this Minion is on the Field, you may use up to 4 of your Health each turn to help pay for cards.",
+        "image_path": "images/minions/Nightmare_Valeria.png"
     }
 ]
