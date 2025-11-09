@@ -1,0 +1,275 @@
+{
+    "id": "deck_1762651759215_1",
+    "creator": "D3monicAdvocate",
+    "deckName": "A Little Bit of This, and a Little Bit of That",
+    "hero": {
+        "card_name": "Nightmare, the Eldritch Hollow",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Hollow Mirror: Once during your turn, you may spend 3 Lifeforce to copy a Hero's Ability. You keep that Ability until you copy another. Use it as if it were your own.",
+        "ability2": "Assimilate the Flesh: Once during your turn, you may spend 5 Lifeforce to gain control of target enemy Minion with a Cost of 5 or less. If it dies or is Dismissed, return it to its owner's field, or to their Graveyard if their field is full.",
+        "ability3": "Devour the Spark: Once during your turn, if you control no Minions, target an enemy Minion and Summon from your Deck a Minion with the same Cost, paying that Cost.",
+        "ability4": "Twisted Form: Once during your turn, you may spend half the Lifeforce cost (rounded up) of a Minion you control to Dismiss it. If you do, Summon from your Deck a different Minion with a Lifeforce either 1 higher or 1 lower than the Dismissed Minion.",
+        "back_image_path": "images\/heroes\/Nightmare,_the_Eldritch_Hollow_back.png",
+        "front_image_path": "images\/heroes\/Nightmare,_the_Eldritch_Hollow_front.png"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Ashen Fiend",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Demon",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "Once per turn, when this minion attacks and deals damage, immediately burn two adjacent targets for 2 damage.",
+                "image_path": "images\\minions\\Ashen_Fiend.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Blackfyre Archer",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Revenant",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 3,
+                "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+                "effects": "During your turn, when this Minion attacks and deals damage to an enemy Minion, you may inflict 1 damage to up to two different enemy Targets.",
+                "image_path": "images\/minions\/Blackfyre_Archer.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Blackfyre Mage",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Revenant",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 3,
+                "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+                "effects": "On Summon, inflict 2 damage to one Target or 1 damage to two different Targets.",
+                "image_path": "images\/minions\/Blackfyre_Mage.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Blazing Hellion",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 5,
+                "traits": "On summon, burn a target for 2 damage.",
+                "effects": "When this minion attacks and deals damage, immediately burn two adjacent targets for 2 damage.",
+                "image_path": "images\\minions\\Blazing_Hellion.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Blood Ward",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "5",
+                "defense": 4,
+                "effects": "When an enemy minion attacks, inflict 2 damage to an enemy Hero.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Blood_Ward.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Bloodletting",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "lifeforce_cost": "0",
+                "effects": "Take 4 damage and gain 2 lifeforce.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Bloodletting.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Cannibalize",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "5",
+                "effects": "Destroy an enemy minion and heal your hero for half the lifeforce cost of the minion (rounded up).",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Cannibalize.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Cipactli",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "8",
+                "minion_type": "Mythical Beast",
+                "attack": 6,
+                "defense": 6,
+                "traits": "When this minion takes damage, inflict half to an enemy Hero. (round down)",
+                "effects": "When this minion destroys another minion, gain lifeforce equal to half of the destroyed minion's cost. (round down)",
+                "image_path": "images\\minions\\Cipactli.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Firebrand Ravager",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "Burn the enemy Hero for 1 damage for every other minion on your field at the end of your turn.",
+                "image_path": "images\\minions\\Firebrand_Ravager.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Flame Imp",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Demon",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "This minion costs 0 if there is another minion on your field.",
+                "image_path": "images\\minions\\Flame_Imp.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Hellfire Brute",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "5",
+                "attack": 5,
+                "defense": 3,
+                "traits": "On summon, burn a target for 2 damage.",
+                "effects": "During your turn, when this minion destroys a target, burn all enemy minions for 1 damage.",
+                "image_path": "images\\minions\\Hellfire_Brute.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Hellguard",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "6",
+                "attack": 5,
+                "defense": 6,
+                "traits": "On summon, burn a target for 2 damage.",
+                "effects": "This minion receives 1 less damage from minion attacks.",
+                "image_path": "images\\minions\\Hellguard.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Hellspawn",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Demon",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 4,
+                "traits": "On summon, burn a target for 2 damage.",
+                "effects": "When attacking a minion during your turn this gains +2 attack.",
+                "image_path": "images\\minions\\Hellspawn.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Infested Zombie",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Zombie",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "Once per turn, this card cannot be destroyed by one enemy minion attack.",
+                "effects": "When this card takes damage, summon a 1-cost minion from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Infested_Zombie.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Molten Terror",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Demon",
+                "lifeforce_cost": "10",
+                "attack": 8,
+                "defense": 8,
+                "traits": "On summon, burn a target for 3 damage.",
+                "effects": "Once per turn, when this minion attacks and deals damage, immediately burn two other minions for 2 damage.",
+                "image_path": "images\\minions\\Molten_Terror.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Pyramid of Sacrifice",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "6",
+                "effects": "Once during your turn, you may sacrifice a friendly minion by sending it to the graveyard. If you do, summon a minion from your deck with a cost equal to or less than the sacrificed minion\ufffds cost plus 1.",
+                "magic_type": "Land",
+                "image_path": "images\\lands\\Pyramid_of_Sacrifice.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Sacrificial Lamb",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "5",
+                "effects": "Sacrifice a friendly minion, sending it to the graveyard. Deal damage to all enemy minions equal to the sacrificed minion's lifeforce cost, up to a maximum of 3.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Sacrificial_Lamb.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Skull Rack",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "defense": 2,
+                "effects": "Twice during each of your turns, when a friendly minion dies, draw a card. If the drawn card is a minion that costs 4 or less, summon it to the field.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Skull_Rack.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": false,
+    "notes": "An attempt to build a deck around stealing your opponent's stuff and sacrificing it."
+}
