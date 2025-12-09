@@ -1730,7 +1730,7 @@
         "card_type": "Magic",
         "rarity": "Legendary",
         "lifeforce_cost": "4",
-        "effects": "Once during your turn, you can take damage equal to the equipped minion’s attack to allow that minion to attack again.",
+        "effects": "Once during your turn, you can take damage equal to the equipped minionï¿½s attack to allow that minion to attack again.",
         "magic_type": "Relic",
         "image_path": "images\\relics\\Bloodstone_Talisman.png"
     },
@@ -1830,7 +1830,7 @@
         "card_type": "Magic",
         "rarity": "Legendary",
         "lifeforce_cost": "6",
-        "effects": "Once during your turn, you may sacrifice a friendly minion by sending it to the graveyard. If you do, summon a minion from your deck with a cost equal to or less than the sacrificed minion’s cost plus 1.",
+        "effects": "Once during your turn, you may sacrifice a friendly minion by sending it to the graveyard. If you do, summon a minion from your deck with a cost equal to or less than the sacrificed minionï¿½s cost plus 1.",
         "magic_type": "Land",
         "image_path": "images\\lands\\Pyramid_of_Sacrifice.png"
     },
@@ -2250,7 +2250,7 @@
         "card_type": "Magic",
         "rarity": "Epic",
         "lifeforce_cost": "3",
-        "effects": "Once during your turn, target an \nenemy Minion—or all enemy Minions\n if you control another Event. \n\nThey become Silenced, losing all Traits and Effects until your next turn.",
+        "effects": "Once during your turn, target an \nenemy Minionï¿½or all enemy Minions\n if you control another Event. \n\nThey become Silenced, losing all Traits and Effects until your next turn.",
         "magic_type": "Event",
         "duration": 2,
         "image_path": "images\\events\\Desolation.png"
@@ -2260,7 +2260,7 @@
         "card_type": "Magic",
         "rarity": "Legendary",
         "lifeforce_cost": "6",
-        "effects": "Once during your turn, you may pay Health equal to a Magic card’s Cost instead of Lifeforce to play it from your Hand.",
+        "effects": "Once during your turn, you may pay Health equal to a Magic cardï¿½s Cost instead of Lifeforce to play it from your Hand.",
         "magic_type": "Event",
         "duration": 3,
         "image_path": "images\\events\\Covenant_of_the_Damned.png"
@@ -2319,7 +2319,7 @@
         "card_type": "Magic",
         "rarity": "Epic",
         "lifeforce_cost": "5",
-        "effects": "Reveal the top 4 cards of your Deck. \n\nYou may play a 6-Cost or lower Minion with a different Cost than any Minion you control.\n\nIf you don’t, shuffle the cards into your \nDeck and gain 3 Lifeforce.",
+        "effects": "Reveal the top 4 cards of your Deck. \n\nYou may play a 6-Cost or lower Minion with a different Cost than any Minion you control.\n\nIf you donï¿½t, shuffle the cards into your \nDeck and gain 3 Lifeforce.",
         "magic_type": "Spell",
         "image_path": "images\\spells\\Rite_of_the_Horsemen.png"
     },
@@ -2328,7 +2328,7 @@
         "card_type": "Magic",
         "rarity": "Epic",
         "lifeforce_cost": "5",
-        "effects": "Reveal the top 4 cards of your Deck. You may play an Event among them. If you don’t, shuffle the cards into your Deck and gain 3 Lifeforce.",
+        "effects": "Reveal the top 4 cards of your Deck. You may play an Event among them. If you donï¿½t, shuffle the cards into your Deck and gain 3 Lifeforce.",
         "magic_type": "Spell",
         "image_path": "images\\spells\\Apocalyptic_Vision.png"
     },
@@ -2774,5 +2774,16 @@
         "traits": "During your turn, your Hero restores 1 additional Health when healed, up to 4.",
         "effects": "While this Minion is on the Field, you may use up to 4 of your Health each turn to help pay for cards.",
         "image_path": "images/minions/Nightmare_Valeria.png"
+    },
+    {
+        "card_name": "Krampus, The Winter Terror",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Unholy Carol: Once during your turn, you may spend 3 Lifeforce to cast a Spell from any Graveyard with a Lifeforce cost of 3 or less, then Banish it to the Void.",
+        "ability2": "Naughty List: Once during your turn, you may spend up to 3 Lifeforce to target an enemy Minion on the field. For each Lifeforce spent, reduce its Lifeforce cost by 2, and its Attack and Defense by 1 until the end of the turn.",
+        "ability3": "Into the Sack!: Once during your turn, you may spend 4 Lifeforce to Banish all Minions on the field with a cost of 2 or less to the Void.",
+        "ability4": "What's in the Sack?: Once during your turn, you may spend Lifeforce equal to a Banished Minion's cost to return it to the field under your control until the end of the turn. Then it is Bansihd to the Void again.",
+        "back_image_path": "images/heroes/Krampus,_The_Winter_Terror_back.png",
+        "front_image_path": "images/heroes/Krampus,_The_Winter_Terror_front.png"
     }
 ]
