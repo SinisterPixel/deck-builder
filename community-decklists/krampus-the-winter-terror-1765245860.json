@@ -1,0 +1,352 @@
+{
+    "id": "deck_1765245858442_1",
+    "creator": "Sinister Pixel",
+    "deckName": "Krampus, The Winter Terror",
+    "hero": {
+        "card_name": "Krampus, The Winter Terror",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Unholy Carol: Once during your turn, you may spend 3 Lifeforce to cast a Spell from any Graveyard with a Lifeforce cost of 3 or less, then Banish it to the Void.",
+        "ability2": "Naughty List: Once during your turn, you may spend up to 3 Lifeforce to target an enemy Minion on the field. For each Lifeforce spent, reduce its Lifeforce cost by 2, and its Attack and Defense by 1 until the end of the turn.",
+        "ability3": "Into the Sack!: Once during your turn, you may spend 4 Lifeforce to Banish all Minions on the field with a cost of 2 or less to the Void.",
+        "ability4": "What's in the Sack?: Once during your turn, you may spend Lifeforce equal to a Banished Minion's cost to return it to the field under your control until the end of the turn. Then it is Bansihd to the Void again.",
+        "back_image_path": "images\/heroes\/Krampus,_The_Winter_Terror_back.png",
+        "front_image_path": "images\/heroes\/Krampus,_The_Winter_Terror_front.png"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Blood Moon Ritual",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Give all friendly minions +1 attack during your turn and +1 defense during the enemy's turn.",
+                "duration": 2,
+                "image_path": "images\\events\\Blood_Moon_Ritual.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bloodcurdling Scream",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "Enemy minions on the field lose 2 attack and defense.",
+                "duration": 1,
+                "image_path": "images\\events\\Bloodcurdling_Scream.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Book of Bound Souls",
+                "card_type": "Weapon",
+                "rarity": "Rare",
+                "weapon_type": "Off-Hand",
+                "lifeforce_cost": "2",
+                "attack": 0,
+                "defense": 3,
+                "effects": "Once during your turn, when you destroy an enemy Minion, you may Summon a Minion with a cost of 2 or less from your Deck or Graveyard.",
+                "image_path": "images\\weapons\\Book_of_Bound_Souls.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cloak of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "3",
+                "effects": "Attach to a minion. It gains Invisibility at the end of each turn and takes 1 less damage from all sources.",
+                "magic_type": "Relic",
+                "image_path": "images\\relics\\Cloak_of_Shadows.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Resurrection",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
+                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Rider",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "lifeforce_cost": "2",
+                "minion_type": "Forsaken",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On Death, inflict 1 damage to an enemy Hero.",
+                "effects": "This Minion may Attack twice the turn it is Summoned.",
+                "image_path": "images\\minions\\Dark_Rider.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Sorcerer",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 5,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "On summon, inflict 2 damage to 2 targets.",
+                "image_path": "images\\minions\\Dark_Sorcerer.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Sorcerer",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 4,
+                "traits": "+1 Attack against heroes.",
+                "effects": "On summon, ensnare a minion in ice, preventing it from receiving Minion Commands for 1 round.",
+                "image_path": "images\\minions\\Dreadnaught_Sorcerer.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Echoes of the Underworld",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Summon 3 minions from your hand, deck, or graveyard that cost 1.",
+                "image_path": "images\\spells\\Echoes_of_the_Underworld.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Frozen Horror",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "1",
+                "attack": 2,
+                "defense": 1,
+                "traits": "On death, return this minion to your hand.",
+                "effects": "Once during each of your turns, inflict 1 damage to an enemy minion.",
+                "image_path": "images\\minions\\Frozen_Horror.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Haunted Window",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 2,
+                "effects": "Once during each of your turns, empower a minion increasing its attack and defense by 2 until the end of your turn.",
+                "image_path": "images\\artifacts\\Haunted_Window.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Healing Potion",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Heal your hero for 6 health.",
+                "image_path": "images\\spells\\Healing_Potion.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ice Bolt",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from taking Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Ice_Bolt.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Necropolis of the Damned",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "6",
+                "effects": "Once per turn, when a minion you control is destroyed, you may summon a minion with a different name from your hand or deck with a cost 5 or less.",
+                "image_path": "images\\lands\\Necropolis_of_the_Damned.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightfall Harbinger",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon two 1-cost minions from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Nightfall_Harbinger.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Prowler",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Gain 1 lifeforce once during each of your turns.",
+                "image_path": "images\\minions\\Nightmare_Prowler.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Raven",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Familiar",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+                "effects": "Draw a card once during each of your turns.",
+                "image_path": "images\\minions\\Nightmare_Raven.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Bat",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Beast",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+                "effects": "On summon, inflict 1 damage to a target.",
+                "image_path": "images\\minions\\Shadow_Bat.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Shadow Harvest",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to an enemy minion. If it is destroyed, summon a 2-cost minion from your deck or graveyard.",
+                "image_path": "images\\spells\\Shadow_Harvest.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Shadow Nova",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Inflict 1 damage to all enemy minions.",
+                "image_path": "images\\spells\\Shadow_Nova.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Strike From The Shadows",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to an enemy minion. If it dies, summon a 1-cost minion from your deck or graveyard.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Strike_From_The_Shadows.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Tethered Spirits",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "You may summon up to 4 minions from your deck with a cost of 2. The cost of this card is the total lifeforce cost of the summoned minions plus 1.",
+                "image_path": "images\\spells\\Tethered_Spirits.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Veil of Darkness",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "All friendly minions gain invisibility, becoming untargetable until they attack or are damaged.",
+                "image_path": "images\\spells\\Veil_of_Darkness.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Veilpiercer",
+                "card_type": "Weapon",
+                "rarity": "Epic",
+                "weapon_type": "One-Handed",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "effects": "This Weapon's Attack cannot be defended. During your turn, if this Weapon's Attack would destroy its target, it takes no damage from the attack.",
+                "image_path": "images\\weapons\\Veilpiercer.jpg"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
