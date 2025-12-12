@@ -1,0 +1,320 @@
+{
+    "id": "deck_1765563966878_13",
+    "creator": "Sinister Pixel",
+    "deckName": "Kalindra, Seer of Shadows",
+    "hero": {
+        "card_name": "Kalindra, Seer of Shadows",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Foresight of the Void: At the start of your turn, draw 2 cards instead, then Discard 1.",
+        "ability2": "Fate's Toll: The first five times you Discard cards from your Hand or Deck each turn, inflict 1 damage to a Hero. This does not work with Sacrifce Card.",
+        "ability3": "Arcane Inversion: You may play any card in Reversed orientation (facing your opponent) to reduce its Lifeforce cost by 1. If you do, your Hero takes 2 damage.",
+        "ability4": "Threads of Destiny: Once during each of your turns, you may shuffle your Hand into your Deck then draw that many cards.",
+        "back_image_path": "images\/heroes\/Kalindra,_Seer_of_Shadows_back.png",
+        "front_image_path": "images\/heroes\/Kalindra,_Seer_of_Shadows_front.png"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Death",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "10",
+                "effects": "Upright: Destroy all cards on the field. Each player shuffles their Graveyard into their Deck. Costs 1 less for each card you control. \n\nReversed: Negate all card text on Enemy Minions, then Destroy them. Gain 1 Lifeforce for each Destroyed.",
+                "image_path": "images\/spells\/Death.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Judgement",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "7",
+                "effects": "Upright: Resurrect 2 Minions from your Graveyard with a combined cost of 8 or less. \n\nReversed: Choose up to 2 Minions from your Graveyard; Shuffle one into your Deck and Resurrect the other to the field.",
+                "image_path": "images\/spells\/Judgement.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Justice",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Upright: If you control a Minion but an enemy Hero controls more than you, Destroy their lowest cost Minions until you control the same amount. \n\nReversed: Draw cards until you have the same amount as an enemy Hero.",
+                "image_path": "images\/spells\/Justice.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Strength",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Upright: Target a friendly Minion; it gains +3 Attack until end of turn. \n\nReversed: During any turn, you may Target a friendly Minion, it gains +3 Defense until end of turn.",
+                "image_path": "images\/spells\/Strength.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Temperance",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Upright: Draw 1 card. \n\nReversed: Discard 1 card, gain 3 Lifeforce.",
+                "image_path": "images\/spells\/Temperance.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Chariot",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Upright: This Minion can attack twice.",
+                "effects": "Reversed: On your turn, if this Minion\u2019s attack would destroy it\u2019s Target, avoid taking damage.",
+                "image_path": "images\/minions\/The_Chariot.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Devil",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 6,
+                "traits": "Upright: At the end of your turn, inflict 3 damage to an enemy Hero.",
+                "effects": "Reversed: When this minion Destroys an enemy Minion, gain 2 Lifeforce.",
+                "image_path": "images\/minions\/The_Devil.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Emperor",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 6,
+                "traits": "Upright: Once during your turn, Target an enemy Minion with less Attack than this card's Defense and force it to be Dismissed.",
+                "effects": "Reversed: When enemy Minions enter the field, their Attack values are reduced by 2 until the end of the turn.",
+                "image_path": "images\/minions\/The_Emperor.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Empress",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 3,
+                "traits": "Upright: On Summon, Heal any Hero for 5 Health.",
+                "effects": "Reversed: All friendly Minions cost 1 less Lifeforce to play from your Hand while this card is on the field.",
+                "image_path": "images\/minions\/The_Empress.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Fool",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Upright: On Summon, you may Summon a 1-cost Minion from your Hand, Deck, or Graveyard.",
+                "effects": "Reversed: Summon this card on an enemy Minion slot. On Death, the original owner draws 1 card. Cannot be Dismissed.",
+                "image_path": "images\/minions\/The_Fool.png"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "The Hanged Man",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Upright: At end of your turn, Destroy this Minion to Resurrect a Minion of cost 3 or less from your Graveyard. If destroyed this way, Resurrect this at the start of your next turn.",
+                "effects": "Reversed: Destroy a Minion. Resurrect it to the owner\u2019s field at your turn\u2019s start.",
+                "image_path": "images\/minions\/The_Hanged_Man.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Hermit",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Upright: If this is your only Minion on the field, it gains +3 Attack and +3 Defense.",
+                "effects": "Reversed: On Summon, Target an enemy Hero, if they only control 1 Minion, inflict 2 damage to them and draw a card.",
+                "image_path": "images\/minions\/The_Hermit.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Hierophant",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Upright: Once during your turn, you may cast a 4 or less cost Spell from your Graveyard, then Banish it to the Void.",
+                "effects": "Reversed: Once during your turn, when you cast a Spell of cost 3 or less, draw 1 card and gain 1 Lifeforce.",
+                "image_path": "images\/minions\/The_Hierophant.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The High Priestess",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Upright: On Summon, draw 3 cards, then Discard 2 from your Hand.",
+                "effects": "Reversed: While this is on the field, enemy Minions lose their Traits.",
+                "image_path": "images\/minions\/The_High_Priestess.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Lovers",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Upright: Choose two friendly Minions. Each gains +2 Attack until the end of the turn. \n\nReversed: During any turn, choose two enemy Minions. Each loses 2 Defense until the end of the turn.",
+                "image_path": "images\/spells\/The_Lovers.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Magician",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Upright: On Summon, declare a card name; Banish all cards with that name from all Graveyards sending them to the Void.",
+                "effects": "Reversed: Playable any turn. If used in response to a non-Spell Magic, negate that card's effects until the next turn.",
+                "image_path": "images\/minions\/The_Magician.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Moon",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Upright: At the end of your turn, your Minions gain Invisibility, becoming untargetable until they attack or take damage. \n\nReversed: Enemy Minions cannot attack the turn they are Summoned.",
+                "duration": 3,
+                "image_path": "images\/events\/The_Moon.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Star",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Upright: Shuffle 3 cards in your Graveyard into your Deck, then Draw a card.\n\nReversed: Reveal the top 3 cards of your Deck, add 1 to your Hand, place one on top of your Deck, Discard the last one.",
+                "image_path": "images\/spells\/The_Star.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Sun",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "Upright: While active, your Minions are not Ensnared and cannot be Ensnared. \n\nReversed: While active, enemy Minions are not Invisible and cannot be Invisible.",
+                "duration": 3,
+                "image_path": "images\/events\/The_Sun.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Tower",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "4",
+                "defense": 3,
+                "effects": "Upright: Your Magic cards cannot be destroyed by Destroy Magic.\n\nReversed: While active, all enemy Magic Cards have their effects negated.",
+                "image_path": "images\/artifacts\/The_Tower.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The World",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "5",
+                "effects": "At the start of your turn: \n\nUpright: Draw 1 card for each Minion you control. (Max 3) \n\nReversed: Gain 1 Lifeforce for each Minion you control.",
+                "duration": 3,
+                "image_path": "images\/events\/The_World.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Wheel of Fortune",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "5",
+                "effects": "Once during your turn, Discard the top card of your Deck. \n\nUpright: If it's a Minion, draw 2 cards. \n\nReversed: If it's a Magic card, inflict 4 damage to an enemy Hero.",
+                "duration": 3,
+                "image_path": "images\/events\/Wheel_of_Fortune.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
