@@ -1834,7 +1834,7 @@
         "magic_type": "Land",
         "image_path": "images\\lands\\Pyramid_of_Sacrifice.png"
     },
-     {
+    {
         "card_name": "Lysandra, Shadow Matron",
         "card_type": "Hero",
         "rarity": "",
@@ -2350,106 +2350,106 @@
         "magic_type": "Land",
         "image_path": "images\\lands\\Crumbled_Sanctuary.png"
     },
-     {
-     "card_name": "Crimson Fang",
-     "card_type": "Weapon",
-     "rarity": "Rare",
-     "weapon_type": "One-Handed",
-     "lifeforce_cost": "2",
-     "attack": 2,
-     "defense": 2,
-     "effects": "When your Hero attacks and deals damage with this Weapon, Heal your Hero for 2 Health.",
-     "image_path": "images\\weapons\\Crimson_Fang.jpg"
- },
- {
-     "card_name": "Book of Bound Souls",
-     "card_type": "Weapon",
-     "rarity": "Rare",
-     "weapon_type": "Off-Hand",
-     "lifeforce_cost": "2",
-     "attack": 0,
-     "defense": 3,
-     "effects": "Once during your turn, when you destroy an enemy Minion, you may Summon a Minion with a cost of 2 or less from your Deck or Graveyard.",
-     "image_path": "images\\weapons\\Book_of_Bound_Souls.jpg"
- },
- {
-     "card_name": "Tome of Forgotten Knowledge",
-     "card_type": "Weapon",
-     "rarity": "Legendary",
-     "weapon_type": "Off-Hand",
-     "lifeforce_cost": "3",
-     "attack": 0,
-     "defense": 2,
-     "effects": "On Equip, declare a Minion type. Minions of that type have their Lifeforce costs reduced by 1 while in the Graveyard, but not below 1.",
-     "image_path": "images\\weapons\\Tome_of_Forgotten_Knowledge.jpg"
- },
- {
-     "card_name": "Obsidian Bone Harvester",
-     "card_type": "Weapon",
-     "rarity": "Epic",
-     "weapon_type": "One-Handed",
-     "lifeforce_cost": "6",
-     "attack": 2,
-     "defense": 2,
-     "effects": "Once during your turn, you may destroy one of your Minions to give this Weapon +2 Attack until end of the turn. If this Weapon destroys an enemy Minion the same turn, Summon a Minion from your Deck or Graveyard with a cost of 5 or less.",
-     "image_path": "images\\weapons\\Obsidian_Bone_Harvester.jpg"
- },
- {
-     "card_name": "Dreadweaver's Talons",
-     "card_type": "Weapon",
-     "rarity": "Epic",
-     "weapon_type": "One-Handed",
-     "lifeforce_cost": "3",
-     "attack": 3,
-     "defense": 3,
-     "effects": "Ensnared Minions have their Defense reduced by 1. When this Weapon Attacks and destroys an Ensanred Minion, gain 1 Lifeforce.",
-     "image_path": "images\\weapons\\Dreadweaver's_Talons.jpg"
- },
- {
-     "card_name": "Veilpiercer",
-     "card_type": "Weapon",
-     "rarity": "Epic",
-     "weapon_type": "One-Handed",
-     "lifeforce_cost": "3",
-     "attack": 3,
-     "defense": 3,
-     "effects": "This Weapon's Attack cannot be defended. During your turn, if this Weapon's Attack would destroy its target, it takes no damage from the attack.",
-     "image_path": "images\\weapons\\Veilpiercer.jpg"
- },
- {
-     "card_name": "Sorcery's End",
-     "card_type": "Weapon",
-     "rarity": "Epic",
-     "weapon_type": "Two-Handed",
-     "lifeforce_cost": "4",
-     "attack": 3,
-     "defense": 4,
-     "effects": "During your turn, if your Hero destroys a target with this Weapon, you may cast a Spell with a cost of 3 or less from your Graveyard. Then, Banish the Spell, removing it from the game.",
-     "image_path": "images\\weapons\\Sorcery's_End.jpg"
- },
- {
-     "card_name": "Scepter of Final Judgment",
-     "card_type": "Weapon",
-     "rarity": "Legendary",
-     "weapon_type": "Main-Hand",
-     "lifeforce_cost": "3",
-     "attack": 1,
-     "defense": 1,
-     "effects": "Your Resurrected Minions gain +2 Attack during this turn.",
-     "image_path": "images\\weapons\\Scepter_of_Final_Judgment.jpg"
- },
- {
-     "card_name": "Pyrestorm, Herald of Ashes",
-     "card_type": "Weapon",
-     "rarity": "Legendary",
-     "weapon_type": "Two-Handed",
-     "lifeforce_cost": "6",
-     "attack": 4,
-     "defense": 4,
-     "effects": "Once during your turn, when you Attack and deal damage with this Weapon, give a Minion +2 Attack, then reduce the cost of a Minion in your Hand with a cost of 6 or more by 2 until the end of the turn.",
-     "image_path": "images\\weapons\\Pyrestorm,_Herald_of_Ashes.jpg"
- },
- {
+    {
+        "card_name": "Crimson Fang",
+        "card_type": "Weapon",
+        "rarity": "Rare",
+        "weapon_type": "One-Handed",
+        "lifeforce_cost": "2",
+        "attack": 2,
+        "defense": 2,
+        "effects": "When your Hero attacks and deals damage with this Weapon, Heal your Hero for 2 Health.",
+        "image_path": "images\\weapons\\Crimson_Fang.jpg"
+    },
+    {
+        "card_name": "Book of Bound Souls",
+        "card_type": "Weapon",
+        "rarity": "Rare",
+        "weapon_type": "Off-Hand",
+        "lifeforce_cost": "2",
+        "attack": 0,
+        "defense": 3,
+        "effects": "Once during your turn, when you destroy an enemy Minion, you may Summon a Minion with a cost of 2 or less from your Deck or Graveyard.",
+        "image_path": "images\\weapons\\Book_of_Bound_Souls.jpg"
+    },
+    {
+        "card_name": "Tome of Forgotten Knowledge",
+        "card_type": "Weapon",
+        "rarity": "Legendary",
+        "weapon_type": "Off-Hand",
+        "lifeforce_cost": "3",
+        "attack": 0,
+        "defense": 2,
+        "effects": "On Equip, declare a Minion type. Minions of that type have their Lifeforce costs reduced by 1 while in the Graveyard, but not below 1.",
+        "image_path": "images\\weapons\\Tome_of_Forgotten_Knowledge.jpg"
+    },
+    {
+        "card_name": "Obsidian Bone Harvester",
+        "card_type": "Weapon",
+        "rarity": "Epic",
+        "weapon_type": "One-Handed",
+        "lifeforce_cost": "6",
+        "attack": 2,
+        "defense": 2,
+        "effects": "Once during your turn, you may destroy one of your Minions to give this Weapon +2 Attack until end of the turn. If this Weapon destroys an enemy Minion the same turn, Summon a Minion from your Deck or Graveyard with a cost of 5 or less.",
+        "image_path": "images\\weapons\\Obsidian_Bone_Harvester.jpg"
+    },
+    {
+        "card_name": "Dreadweaver's Talons",
+        "card_type": "Weapon",
+        "rarity": "Epic",
+        "weapon_type": "One-Handed",
+        "lifeforce_cost": "3",
+        "attack": 3,
+        "defense": 3,
+        "effects": "Ensnared Minions have their Defense reduced by 1. When this Weapon Attacks and destroys an Ensanred Minion, gain 1 Lifeforce.",
+        "image_path": "images\\weapons\\Dreadweaver's_Talons.jpg"
+    },
+    {
+        "card_name": "Veilpiercer",
+        "card_type": "Weapon",
+        "rarity": "Epic",
+        "weapon_type": "One-Handed",
+        "lifeforce_cost": "3",
+        "attack": 3,
+        "defense": 3,
+        "effects": "This Weapon's Attack cannot be defended. During your turn, if this Weapon's Attack would destroy its target, it takes no damage from the attack.",
+        "image_path": "images\\weapons\\Veilpiercer.jpg"
+    },
+    {
+        "card_name": "Sorcery's End",
+        "card_type": "Weapon",
+        "rarity": "Epic",
+        "weapon_type": "Two-Handed",
+        "lifeforce_cost": "4",
+        "attack": 3,
+        "defense": 4,
+        "effects": "During your turn, if your Hero destroys a target with this Weapon, you may cast a Spell with a cost of 3 or less from your Graveyard. Then, Banish the Spell, removing it from the game.",
+        "image_path": "images\\weapons\\Sorcery's_End.jpg"
+    },
+    {
+        "card_name": "Scepter of Final Judgment",
+        "card_type": "Weapon",
+        "rarity": "Legendary",
+        "weapon_type": "Main-Hand",
+        "lifeforce_cost": "3",
+        "attack": 1,
+        "defense": 1,
+        "effects": "Your Resurrected Minions gain +2 Attack during this turn.",
+        "image_path": "images\\weapons\\Scepter_of_Final_Judgment.jpg"
+    },
+    {
+        "card_name": "Pyrestorm, Herald of Ashes",
+        "card_type": "Weapon",
+        "rarity": "Legendary",
+        "weapon_type": "Two-Handed",
+        "lifeforce_cost": "6",
+        "attack": 4,
+        "defense": 4,
+        "effects": "Once during your turn, when you Attack and deal damage with this Weapon, give a Minion +2 Attack, then reduce the cost of a Minion in your Hand with a cost of 6 or more by 2 until the end of the turn.",
+        "image_path": "images\\weapons\\Pyrestorm,_Herald_of_Ashes.jpg"
+    },
+    {
         "card_name": "Nyxara, Keeper of the Eternal Flame",
         "card_type": "Hero",
         "rarity": "",
@@ -2459,8 +2459,8 @@
         "ability4": "Harvest Essence: At the end of your turn, if you control 3 or more minions, siphon 1 Lifeforce from a target Hero (if available) and gain it.",
         "back_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_back.png",
         "front_image_path": "images/heroes/Nyxara,_Keeper_of_the_Eternal_Flame_front.png"
- },
- {
+    },
+    {
         "card_name": "Blackfyre Bolt",
         "card_type": "Magic",
         "rarity": "Epic",
@@ -2785,5 +2785,237 @@
         "ability4": "What's in the Sack?: Once during your turn, you may spend Lifeforce equal to a Banished Minion's cost to return it to the field under your control until the end of the turn. Then it is Bansihd to the Void again.",
         "back_image_path": "images/heroes/Krampus,_The_Winter_Terror_back.png",
         "front_image_path": "images/heroes/Krampus,_The_Winter_Terror_front.png"
+    },
+    {
+        "card_name": "Kalindra, Seer of Shadows",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Foresight of the Void: At the start of your turn, draw 2 cards instead, then Discard 1.",
+        "ability2": "Fate's Toll: The first five times you Discard cards from your Hand or Deck each turn, inflict 1 damage to a Hero. This does not work with Sacrifce Card.",
+        "ability3": "Arcane Inversion: You may play any card in Reversed orientation (facing your opponent) to reduce its Lifeforce cost by 1. If you do, your Hero takes 2 damage.",
+        "ability4": "Threads of Destiny: Once during each of your turns, you may shuffle your Hand into your Deck then draw that many cards.",
+        "back_image_path": "images/heroes/Kalindra,_Seer_of_Shadows_back.png",
+        "front_image_path": "images/heroes/Kalindra,_Seer_of_Shadows_front.png"
+    },
+    {
+        "card_name": "The Fool",
+        "card_type": "Minion",
+        "rarity": "Common",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "1",
+        "attack": 1,
+        "defense": 1,
+        "traits": "Upright: On Summon, you may Summon a 1-cost Minion from your Hand, Deck, or Graveyard.",
+        "effects": "Reversed: Summon this card on an enemy Minion slot. On Death, the original owner draws 1 card. Cannot be Dismissed.",
+        "image_path": "images/minions/The_Fool.png"
+    },
+    {
+        "card_name": "The Magician",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "4",
+        "attack": 3,
+        "defense": 3,
+        "traits": "Upright: On Summon, declare a card name; Banish all cards with that name from all Graveyards sending them to the Void.",
+        "effects": "Reversed: Playable any turn. If used in response to a non-Spell Magic, negate that card's effects until the next turn.",
+        "image_path": "images/minions/The_Magician.png"
+    },
+    {
+        "card_name": "The High Priestess",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "3",
+        "attack": 3,
+        "defense": 3,
+        "traits": "Upright: On Summon, draw 3 cards, then Discard 2 from your Hand.",
+        "effects": "Reversed: While this is on the field, enemy Minions lose their Traits.",
+        "image_path": "images/minions/The_High_Priestess.png"
+    },
+    {
+        "card_name": "The Empress",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "5",
+        "attack": 4,
+        "defense": 3,
+        "traits": "Upright: On Summon, Heal any Hero for 5 Health.",
+        "effects": "Reversed: All friendly Minions cost 1 less Lifeforce to play from your Hand while this card is on the field.",
+        "image_path": "images/minions/The_Empress.png"
+    },
+    {
+        "card_name": "The Emperor",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "7",
+        "attack": 6,
+        "defense": 6,
+        "traits": "Upright: Once during your turn, Target an enemy Minion with less Attack than this card's Defense and force it to be Dismissed.",
+        "effects": "Reversed: When enemy Minions enter the field, their Attack values are reduced by 2 until the end of the turn.",
+        "image_path": "images/minions/The_Emperor.png"
+    },
+    {
+        "card_name": "The Chariot",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "5",
+        "attack": 4,
+        "defense": 4,
+        "traits": "Upright: This Minion can attack twice.",
+        "effects": "Reversed: On your turn, if this Minion’s attack would destroy it’s Target, avoid taking damage.",
+        "image_path": "images/minions/The_Chariot.png"
+    },
+    {
+        "card_name": "The Hermit",
+        "card_type": "Minion",
+        "rarity": "Rare",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "2",
+        "attack": 2,
+        "defense": 2,
+        "traits": "Upright: If this is your only Minion on the field, it gains +3 Attack and +3 Defense.",
+        "effects": "Reversed: On Summon, Target an enemy Hero, if they only control 1 Minion, inflict 2 damage to them and draw a card.",
+        "image_path": "images/minions/The_Hermit.png"
+    },
+    {
+        "card_name": "The Hanged Man",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "3",
+        "attack": 2,
+        "defense": 2,
+        "traits": "Upright: At end of your turn, Destroy this Minion to Resurrect a Minion of cost 3 or less from your Graveyard. If destroyed this way, Resurrect this at the start of your next turn.",
+        "effects": "Reversed: Destroy a Minion. Resurrect it to the owner’s field at your turn’s start.",
+        "image_path": "images/minions/The_Hanged_Man.png"
+    },
+    {
+        "card_name": "The Devil",
+        "card_type": "Minion",
+        "rarity": "Legendary",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "6",
+        "attack": 6,
+        "defense": 6,
+        "traits": "Upright: At the end of your turn, inflict 3 damage to an enemy Hero.",
+        "effects": "Reversed: When this minion Destroys an enemy Minion, gain 2 Lifeforce.",
+        "image_path": "images/minions/The_Devil.png"
+    },
+    {
+        "card_name": "Strength",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "3",
+        "effects": "Upright: Target a friendly Minion; it gains +3 Attack until end of turn. \n\nReversed: During any turn, you may Target a friendly Minion, it gains +3 Defense until end of turn.",
+        "image_path": "images/spells/Strength.png"
+    },
+    {
+        "card_name": "Justice",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Spell",
+        "lifeforce_cost": "6",
+        "effects": "Upright: If you control a Minion but an enemy Hero controls more than you, Destroy their lowest cost Minions until you control the same amount. \n\nReversed: Draw cards until you have the same amount as an enemy Hero.",
+        "image_path": "images/spells/Justice.png"
+    },
+    {
+        "card_name": "Death",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Spell",
+        "lifeforce_cost": "10",
+        "effects": "Upright: Destroy all cards on the field. Each player shuffles their Graveyard into their Deck. Costs 1 less for each card you control. \n\nReversed: Negate all card text on Enemy Minions, then Destroy them. Gain 1 Lifeforce for each Destroyed.",
+        "image_path": "images/spells/Death.png"
+    },
+    {
+        "card_name": "Temperance",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "1",
+        "effects": "Upright: Draw 1 card. \n\nReversed: Discard 1 card, gain 3 Lifeforce.",
+        "image_path": "images/spells/Temperance.png"
+    },
+    {
+        "card_name": "The Star",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "4",
+        "effects": "Upright: Shuffle 3 cards in your Graveyard into your Deck, then Draw a card.\n\nReversed: Reveal the top 3 cards of your Deck, add 1 to your Hand, place one on top of your Deck, Discard the last one.",
+        "image_path": "images/spells/The_Star.png"
+    },
+    {
+        "card_name": "The Lovers",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Spell",
+        "lifeforce_cost": "3",
+        "effects": "Upright: Choose two friendly Minions. Each gains +2 Attack until the end of the turn. \n\nReversed: During any turn, choose two enemy Minions. Each loses 2 Defense until the end of the turn.",
+        "image_path": "images/spells/The_Lovers.png"
+    },
+    {
+        "card_name": "Judgement",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Spell",
+        "lifeforce_cost": "7",
+        "effects": "Upright: Resurrect 2 Minions from your Graveyard with a combined cost of 8 or less. \n\nReversed: Choose up to 2 Minions from your Graveyard; Shuffle one into your Deck and Resurrect the other to the field.",
+        "image_path": "images/spells/Judgement.png"
+    },
+    {
+        "card_name": "The Tower",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Artifact",
+        "lifeforce_cost": "4",
+        "defense": 3,
+        "effects": "Upright: Your Magic cards cannot be destroyed by Destroy Magic.\n\nReversed: While active, all enemy Magic Cards have their effects negated.",
+        "image_path": "images/artifacts/The_Tower.png"
+    },
+    {
+        "card_name": "Wheel of Fortune",
+        "card_type": "Magic",
+        "rarity": "Legendary",
+        "magic_type": "Event",
+        "lifeforce_cost": "5",
+        "effects": "Once during your turn, Discard the top card of your Deck. \n\nUpright: If it's a Minion, draw 2 cards. \n\nReversed: If it's a Magic card, inflict 4 damage to an enemy Hero.",
+        "duration": 3,
+        "image_path": "images/events/Wheel_of_Fortune.png"
+    },
+    {
+        "card_name": "The Moon",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Event",
+        "lifeforce_cost": "4",
+        "effects": "Upright: At the end of your turn, your Minions gain Invisibility, becoming untargetable until they attack or take damage. \n\nReversed: Enemy Minions cannot attack the turn they are Summoned.",
+        "duration": 3,
+        "image_path": "images/events/The_Moon.png"
+    },
+    {
+        "card_name": "The Sun",
+        "card_type": "Magic",
+        "rarity": "Rare",
+        "magic_type": "Event",
+        "lifeforce_cost": "3",
+        "effects": "Upright: While active, your Minions are not Ensnared and cannot be Ensnared. \n\nReversed: While active, enemy Minions are not Invisible and cannot be Invisible.",
+        "duration": 3,
+        "image_path": "images/events/The_Sun.png"
+    },
+    {
+        "card_name": "The World",
+        "card_type": "Magic",
+        "rarity": "Epic",
+        "magic_type": "Event",
+        "lifeforce_cost": "5",
+        "effects": "At the start of your turn: \n\nUpright: Draw 1 card for each Minion you control. (Max 3) \n\nReversed: Gain 1 Lifeforce for each Minion you control.",
+        "duration": 3,
+        "image_path": "images/events/The_World.png"
     }
 ]
