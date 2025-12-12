@@ -3017,5 +3017,17 @@
         "effects": "At the start of your turn: \n\nUpright: Draw 1 card for each Minion you control. (Max 3) \n\nReversed: Gain 1 Lifeforce for each Minion you control.",
         "duration": 3,
         "image_path": "images/events/The_World.png"
+    },
+    {
+        "card_name": "The Hierophant",
+        "card_type": "Minion",
+        "rarity": "Epic",
+        "minion_type": "Manifestation",
+        "lifeforce_cost": "5",
+        "attack": 4,
+        "defense": 4,
+        "traits": "Upright: Once during your turn, you may cast a 4 or less cost Spell from your Graveyard, then Banish it to the Void.",
+        "effects": "Reversed: Once during your turn, when you cast a Spell of cost 3 or less, draw 1 card and gain 1 Lifeforce.",
+        "image_path": "images/minions/The_Hierophant.png"
     }
 ]
