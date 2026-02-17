@@ -1,0 +1,369 @@
+{
+    "id": "deck_1771359682495_1",
+    "creator": "Sinister Pixel",
+    "deckName": "Cthulhu, Vessel of Ruin",
+    "hero": {
+        "card_name": "Cthulhu, Vessel of Ruin",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Prelude to Madness: At the End of your Turn, you may send a Minion from your Deck or Graveyard to your Void.",
+        "ability2": "A dream of ruin stirs the deep. : At the End of your Turn, Summon Minions from your Void with a combined Cost of 1 or less.",
+        "ability3": "The abyss rends the world open. : The total Cost of Minions you may Summon from your Void at the End of your Turn increases by 2 for every 10 Health your Hero is below its starting Health.",
+        "ability4": "Time collapses, the sleeper awakens. : Once per game, if your Hero would be reduced to 0 Health, instead set your Hero\u2019s current and maximum Health to 5. Then Summon a Minion with a Cost of 10 or less from your Void.",
+        "back_image_path": "images\/heroes\/Cthulhu,_Vessel_of_Ruin_back.png",
+        "front_image_path": "images\/heroes\/Cthulhu,_Vessel_of_Ruin_front.png"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Conjunction of Doom",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Attach a Minion with a Cost of 6 or less from your Void to this card. At the Start of your Turn, Summon the attached Minion.\nIf this card is Destroyed, Banish this card and the attached Minion to your Void.",
+                "duration": 1,
+                "image_path": "images\/events\/Conjunction_of_Doom.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Cthulhu, The Sleeper Awakened",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "10",
+                "attack": 10,
+                "defense": 10,
+                "traits": "This card starts the game in your Void and may only be Summoned while your Hero is at or below 5 Health.",
+                "effects": "This Minion cannot be Ensnared and its Effect and Trait cannot be lost or negated.",
+                "image_path": "images\/minions\/Cthulhu,_The_Sleeper_Awakened.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dagon, Lord of the Depths",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "18",
+                "attack": 6,
+                "defense": 6,
+                "traits": "This Minion's Cost is reduced by 1 for each Minion in your Void, minimum 4.",
+                "effects": "Once during your turn, you may Summon a Minion with a Cost of 4 or less from your Void.",
+                "image_path": "images\/minions\/Dagon,_Lord_of_the_Depths.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Deep One Hunter",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 3,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "On Summon, inflict 1 damage to a Target for each Minion in your Void, up to three times.",
+                "image_path": "images\/minions\/Deep_One_Hunter.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Deep One Hybrid",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "If your Hero is below 25 Health, this Minion gains +1 Attack and Defense.",
+                "image_path": "images\/minions\/Deep_One_Hybrid.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Deep One Priest",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 3,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "On Summon, Heal your Hero for Health equal to the number of Minions in your Void, up to a maximum of 3.",
+                "image_path": "images\/minions\/Deep_One_Priest.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Deep One Summoner",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 2,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "On Summon, choose a Minion in your Void. Reduce its Cost by 2 until the Start of the next player\u2019s Turn.",
+                "image_path": "images\/minions\/Deep_One_Summoner.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Deep One Warrior",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 3,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "Your other Minions gain +2 Defense.",
+                "image_path": "images\/minions\/Deep_One_Warrior.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Howl of the Void",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Choose a Minion from your Void and Summon it.\nThis card's Cost is equal to that Minion's Cost plus 1.",
+                "image_path": "images\/spells\/Howl_of_the_Void.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Idol of Cthulhu",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Minions in your Void have their Cost reduced by 1, to a minimum of 1.",
+                "image_path": "images\/artifacts\/Idol_of_Cthulhu.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Innsmouth Cultist",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "2",
+                "attack": 1,
+                "defense": 3,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "On Summon, each player Banishes a card from their Deck or Graveyard, sending it to their Void.",
+                "image_path": "images\/minions\/Innsmouth_Cultist.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Maddening Echo",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 1 damage to all enemy Minions. If a Minion is Destroyed this way, repeat this effect.",
+                "image_path": "images\/spells\/Maddening_Echo.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Master of the Order",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Deep One",
+                "lifeforce_cost": "5",
+                "attack": 2,
+                "defense": 4,
+                "traits": "If your Hero is below 15 Health, this Minion gains +1 Attack and Defense.",
+                "effects": "While this Minion is on the field, you may Summon Minions from your Void by paying their Cost.",
+                "image_path": "images\/minions\/Master_of_the_Order.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mother Hydra",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "18",
+                "attack": 6,
+                "defense": 6,
+                "traits": "This Minion's Cost is reduced by 1 for each Minion in your Void, minimum 4.",
+                "effects": "While this Minion is on the field, Minions in your Void Cost 2 less.",
+                "image_path": "images\/minions\/Mother_Hydra.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "R'lyeh, the Sunken City",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "Once during your turn or at the End of your Turn, when a Minion is Summoned from your Void, you may send a Minion from your Deck or Graveyard to your Void, then Draw 1 card.",
+                "image_path": "images\/lands\/R'lyeh,_the_Sunken_City.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Rift to the Depths",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Send 3 cards from your Deck or Graveyard to your Void, then Draw 1 card.",
+                "image_path": "images\/spells\/Rift_to_the_Depths.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Star-Spawn Brute",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "8",
+                "attack": 5,
+                "defense": 5,
+                "traits": "If your Hero is below 10 Health, this Minion gains +3 Attack and +3 Defense.",
+                "effects": "This Minion starts the game Banished. If your Hero is below 10 Health, you may pay its Cost to Summon it from your Void.",
+                "image_path": "images\/minions\/Star-Spawn_Brute.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Star-Spawn of Cthulhu",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "14",
+                "attack": 3,
+                "defense": 3,
+                "traits": "This card's Cost is reduced by 1 for each Minion in your Void, minimum 3.",
+                "effects": "On Summon, inflict 2 damage to all enemy Minions; On Death, Summon a 1-Cost Minion from your Void, then Banish this Minion to your Void.",
+                "image_path": "images\/minions\/Star-Spawn_of_Cthulhu.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Star-Spawn Scout",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 6,
+                "traits": "During your turn, this Minion may declare an Attack against each enemy Hero and each enemy Minion once.",
+                "effects": "This Minion starts the game Banished. If your Hero is below 10 Health, you may pay its Cost to Summon it from your Void.",
+                "image_path": "images\/minions\/Star-Spawn_Scout.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Star-Spawn Shambler",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "?",
+                "traits": "This Minion's Cost, Attack, and Defense are each equal to the number of Minions in your Void, up to 9.",
+                "effects": "This Minion starts the game Banished. If your Hero is below 10 Health, you may pay its Cost to Summon it from your Void.",
+                "image_path": "images\/minions\/Star-Spawn_Shambler.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Star-Spawn Siren",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "5",
+                "attack": 5,
+                "defense": 5,
+                "traits": "On Summon, enemy Minions have their Attack and Defense reduced by 2 until the End of Turn.",
+                "effects": "This Minion starts the game Banished. If your Hero is below 10 Health, you may pay its Cost to Summon it from your Void.",
+                "image_path": "images\/minions\/Star-Spawn_Siren.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Synaptic Scour",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Each player Discards their Hand, then Draws 3 cards.",
+                "image_path": "images\/spells\/Synaptic_Scour.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Tendril of the Drowned God",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "1",
+                "attack": 0,
+                "defense": 1,
+                "traits": "Draw 1 extra card at the start of your turn.",
+                "effects": "On Death, Banish this card to your Void, then inflict 1 damage to all enemy Minions.",
+                "image_path": "images\/minions\/Tendril_of_the_Drowned_God.png"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "The Call of Cthulhu",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Set your Hero\u2019s current Health to 1, gain 10 Lifeforce, then Banish this card to your Void. This Effect can only be used once per game, and only if your Hero is at or above 25 Health.",
+                "image_path": "images\/spells\/The_Call_of_Cthulhu.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Price of Madness",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Inflict 5 damage to your Hero. Gain 4 Lifeforce. Banish three Minions from your Deck or Graveyard to your Void. Draw 2 cards. After this card resolves, Banish it to your Void.",
+                "image_path": "images\/spells\/The_Price_of_Madness.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": false,
+    "notes": ""
+}
