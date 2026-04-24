@@ -1,0 +1,422 @@
+{
+    "id": "deck_1776994803046_2",
+    "creator": "Sinister Pixel",
+    "deckName": "Abe no Seimei",
+    "hero": {
+        "card_name": "Abe No Seimei, Yang Aspect",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Offering to the Kami: At your Start of Turn, you may Discard a card from your Hand to gain 3 Lifeforce. If you do, cards cannot be added to your Hand outside your Draw Phase this turn.",
+        "ability2": "Kami's Favor: The first card you play from your Hand During your Turn with a cost of 3 or lower costs 1 less Lifeforce.",
+        "ability3": "Guidance of the Spirits: At your End of Turn, you may spend 1 Lifeforce to Summon a Minion with a Cost of 2 or less from your Deck or Graveyard.",
+        "ability4": "Embrace the Yin: During any Turn you may switch your active Hero to Abe No Seimei, Yin Aspect. You can only switch between Yin Aspect and Yang Aspect once During any Turn.",
+        "back_image_path": "images\/heroes\/Abe_No_Seimei,_Yang_Aspect_back.png",
+        "front_image_path": "images\/heroes\/Abe_No_Seimei,_Yang_Aspect_front.png"
+    },
+    "secondaryHero": {
+        "card_name": "Abe No Seimei, Yin Aspect",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Dual Vision: During your Draw Phase you may Spend 1 Lifeforce to Draw an additional card. If you do, you cannot use Sacrifce Card this Turn.",
+        "ability2": "Subjugating Presence: The first card you play from your Hand During your Turn with a cost of 4 or more costs 1 less Lifeforce.",
+        "ability3": "Way of the Diviner: At your End of Turn, look at the top three cards of your Deck. You may place them back in any order or Shuffle your Deck.",
+        "ability4": "Embrace the Yang: During any Turn you may switch your active Hero to Abe No Seimei, Yang Aspect. You can only switch between Yin Aspect and Yang Aspect once During any Turn.",
+        "back_image_path": "images\/heroes\/Abe_No_Seimei,_Yin_Aspect_back.png",
+        "front_image_path": "images\/heroes\/Abe_No_Seimei,_Yin_Aspect_front.png"
+    },
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Divination Ritual",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Look at the top four cards of your Deck. Add one to your Hand and place the other three back on top of your Deck in any order.",
+                "image_path": "images\/spells\/Divination_Ritual.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Echoing Kodama",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "On Death, you may inflict 2 damage to a Minion.",
+                "effects": "Once During your Turn, you may Resurrect this Minion from the Graveyard by paying its cost.",
+                "image_path": "images\/minions\/Echoing_Kodama.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Exiled Tengu",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 5,
+                "traits": "This Minion cannot be damaged by Minions with a Lifeforce cost of 3 or less.",
+                "effects": "Once During any Turn, If this Minion would be Destroyed by an opponent's card effect, Negate that effect and return this Minion to your Hand.",
+                "image_path": "images\/minions\/Exiled_Tengu.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Fearborn Ao Andon",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "7",
+                "attack": 3,
+                "defense": 6,
+                "traits": "At your End of Turn, if this Minion Destroyed an enemy Minion this Turn, all enemy Heroes Discard a card.",
+                "effects": "During your Turn, this Minion gains +1 Attack for each Minion in enemy Graveyards up to a maximum of +4.",
+                "image_path": "images\/minions\/Fearborn_Ao_Andon.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Five-Element Incantation",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Choose 3 different effects: Ensnare a Minion; Draw a card; Inflict 3 damage to a Target; Restore 3 Health to a Hero; or Give a minion +2 Attack and Defense until End of Turn. Ensnared Minions cannot Attack, Defend or be Dismissed for 1 Round.",
+                "image_path": "images\/spells\/Five-Element_Incantation.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gashadokuro",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "20",
+                "attack": 8,
+                "defense": 8,
+                "traits": "This Minion costs 1 less Lifeforce to Summon for each Minion in all Graveyards, but not less than 4.",
+                "effects": "On Summon, halve the Defense of all other Minions, rounding up, until the End of Turn.",
+                "image_path": "images\/minions\/Gashadokuro.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Grimefeeder Akaname",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 2,
+                "traits": "On Summon, inflict 1 damage to a Minion, if it survives, this Minion gains +1 Attack until the End of Turn.",
+                "effects": "When this attacks and destroys a Minion that was already damaged, gain 2 Lifeforce.",
+                "image_path": "images\/minions\/Grimefeeder_Akaname.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Haunted Chochin",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 3,
+                "traits": "A Minion Across from this one has it's Attack reduced by 2.",
+                "effects": "Once During your Turn, inflict 2 damage to the Minion Across from this one.",
+                "image_path": "images\/minions\/Haunted_Chochin.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Ichijo Modoribashi Bridge",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "3",
+                "effects": "At your Start of Turn, you may Summon a Minion with a Cost of 2 or less from your Deck or Graveyard.",
+                "image_path": "images\/lands\/Ichijo_Modoribashi_Bridge.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Kijo of Uji",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 4,
+                "traits": "When an enemy Minion enters the Field, you may inflict 1 damage to it.",
+                "effects": "If a Minion damaged by this Minion's Trait survives, this Minion gains +1 Attack until the End of Turn.",
+                "image_path": "images\/minions\/Kijo_of_Uji.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Kuzunoha",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Kitsune",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 4,
+                "traits": "This Minion cannot be Destroyed by enemy Magic Cards.",
+                "effects": "Once During your Turn, you may Give a another Friendly Minion Invisibility. They also gain +2 Attack until the End of Turn. Invisible Minions cannot be Targeted.",
+                "image_path": "images\/minions\/Kuzunoha.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Kyubi no Kitsune",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 6,
+                "traits": "This Minion cannot be Destroyed by enemy Magic Cards.",
+                "effects": "When this Minion Destroys a Minion During your Turn, it gains Invisibility and can't be Targeted. It loses Invisibility when it deals or takes damage.",
+                "image_path": "images\/minions\/Kyubi_no_Kitsune.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mirror of Truth",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once During your Turn, you may choose one: Reveal all Invisible enemy Minions, causing them to lose Invisibility; or make a Friendly Minion Invisible. Invisible Minions cannot be Targeted and lose Invisibility when they deal or take damage.",
+                "image_path": "images\/artifacts\/Mirror_of_Truth.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ofuda of Banishment",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Banish a Minion sending it to the Void.",
+                "image_path": "images\/spells\/Ofuda_of_Banishment.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Okami Spirit",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "While this Minion is on the Field, your other Invisible Minions take 1 less damage from all sources.",
+                "image_path": "images\/minions\/Okami_Spirit.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Paper Effigy",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "1",
+                "defense": 2,
+                "effects": "On Death, gain 1 Lifeforce.\nAt your Start of Turn, gain 2 Lifeforce.",
+                "image_path": "images\/artifacts\/Paper_Effigy.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Parade of One Hundred Demons",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "4",
+                "effects": "Once During your Turn, you may Summon up to two Minions with an exact cost of 1 from your Hand, Deck, or Graveyard. At your Start of Turn, increase the exact cost of Minions this can Summon by 1.",
+                "duration": 5,
+                "image_path": "images\/events\/Parade_of_One_Hundred_Demons.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Possessed Kameosa",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 3,
+                "traits": "This Minion cannot be damaged by Minions with a Lifeforce cost of 2 or less.",
+                "effects": "This Minion gains +1 Attack until the end of the turn for each of your Minions that attacked this turn to a max of +3.",
+                "image_path": "images\/minions\/Possessed_Kameosa.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Rotwood Karakasa",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "You may play this Minion any Turn in response to an opponent playing a Minion.",
+                "effects": "On Summon, you may return another one of your Minions to your Hand to gain 1 Lifeforce.",
+                "image_path": "images\/minions\/Rotwood_Karakasa.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Sealing Talisman",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Force a Target Minion on the Field or attached to a card back into its Hero\u2019s Deck.",
+                "image_path": "images\/spells\/Sealing_Talisman.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Seimei Jinja",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "Once During your Turn, you may Reveal the top card of your Deck. If its cost is 3 or less, you may freely play it. If you do not play it, add it to your Hand.",
+                "image_path": "images\/lands\/Seimei_Jinja.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Senji Ryakketsu",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once During your Turn, you may choose one: Restore 2 Health to your Hero; or Draw a card, then place a card from your Hand on top of your Deck.",
+                "image_path": "images\/artifacts\/Senji_Ryakketsu.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Spirit Container",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 4,
+                "effects": "On Summon, you may attach a Minion to this Artifact. When this Artifact is Destroyed, Summon that Minion back to the Field. You may play this card During any Turn.",
+                "image_path": "images\/artifacts\/Spirit_Container.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Suffocating Ittan-momen",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 3,
+                "traits": "This Minion has +3 Attack when attacking an Ensnared Minion.",
+                "effects": "On Summon, Ensnare a Target Minion. Ensnared Minions cannot Attack, Defend, or be Dismissed for 1 Round.",
+                "image_path": "images\/minions\/Suffocating_Ittan-momen.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Ushi no koku mairi",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "1",
+                "effects": "When Played, choose a Hero. At your Start of Turn, it takes 1 damage, increasing by 1 each Round. If this card is Destroyed before it expires, you take damage equal to its current damage.",
+                "duration": 7,
+                "image_path": "images\/events\/Ushi_no_koku_mairi.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Veilwalker Kitsune",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "When this Minion attacks and deals damage, Restore 1 Health to your Hero.",
+                "image_path": "images\/minions\/Veilwalker_Kitsune.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Warbound Oni",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "5",
+                "attack": 5,
+                "defense": 4,
+                "traits": "If this Minion's attack is Defended, it gains +2 Attack until the End of Turn.",
+                "effects": "When this Minion's attack gets Defended, this Minion inflicts it's Piercing damage to it's original Target instead of the Hero.",
+                "image_path": "images\/minions\/Warbound_Oni.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "White Serpent",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "Once During any Turn, when this Minion is Destroyed, return it to your Hand.",
+                "image_path": "images\/minions\/White_Serpent.png"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": false,
+    "notes": ""
+}
