@@ -1,0 +1,495 @@
+{
+    "id": "deck_1782831219608_3",
+    "creator": "Sinister Pixel",
+    "deckName": "Harlequin of Fate",
+    "hero": {
+        "card_name": "Harlequin of Fate",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Hands of Fate: Once During your Turn, you may Reveal cards from your Hand that form one of the listed Hands to trigger its Effects, then place one of the Revealed cards at the bottom of your Deck and Draw a card. Cards with ?-Cost can count as any number.",
+        "ability2": "Pair: Move a Minion on a Player\u2019s Field to another Minion slot on their Field. Then gain 1 Lifeforce.",
+        "ability3": "Two Pair: Draw 2 cards, then Discard any card in Hand.",
+        "ability4": "Three of a Kind: Destroy a Magic Card.",
+        "ability5": "Straight: Cast a Spell from your Deck or Graveyard with cost no higher than the highest-cost card used to form this Hand. Then banish the Spell to the Void.",
+        "ability6": "Full House: Inflict 3 damage to a Target and gain 2 Lifeforce.",
+        "ability7": "Four of a Kind: Summon a Minion from your Deck with Lifeforce cost no higher than half the total cost of the cards used to form this Hand. At your End of Turn, place it on the bottom of your Deck.",
+        "back_image_path": "images\/heroes\/Harlequin_of_Fate_back.png",
+        "front_image_path": "images\/heroes\/Harlequin_of_Fate_front.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Ace of Spades",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "?",
+                "attack": "?",
+                "defense": "?",
+                "traits": "This Minion\u2019s Lifeforce cost, Attack and Defense are equal to the amount of Minions in your Graveyard (max 10).",
+                "effects": "This Minion can only attack during an opponent\u2019s turn and only after a Minion of theirs finishes an Attack.",
+                "image_path": "images\/minions\/Ace_of_Spades.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "All In",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "This card\u2019s Cost is equal to all of your current Lifeforce. When you play this card Discard all the cards in your Hand. Distribute +1 Attack and Defense among your Minions for each Lifeforce you spent to play this card and all cards you Discarded until End of Turn.",
+                "image_path": "images\/spells\/All_In.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bet",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Pay any amount of Lifeforce to play this card, then give a Minion +1 Attack and +1 Defense for each Lifeforce paid until End of Turn.",
+                "image_path": "images\/spells\/Bet.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Bluff",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Draw a card and announce its Type. You may tell the truth or lie. The next player in the turn order decides whether to believe you. Reveal it. If they guessed wrong, draw another card.",
+                "image_path": "images\/spells\/Bluff.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Call",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Target an opponent\u2019s Minion, then summon a Minion from your Deck with the same Lifeforce cost.",
+                "image_path": "images\/spells\/Call.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Check",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Draw two cards, then place one card from your Hand on top of your Deck.\n\nIf it is your turn, your turn ends.",
+                "image_path": "images\/spells\/Check.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Distorting Mime",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "1",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "On Summon, you may switch the Attack and Defense of a target Minion until the End of Turn.",
+                "image_path": "images\/minions\/Distorting_Mime.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Echo of Comedy",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "5",
+                "attack": "0",
+                "defense": "5",
+                "traits": "This Minion cannot Attack and is Immune to Piercing damage.",
+                "effects": "Once During your Turn, you may spend 1 Lifeforce to Resurrect a Minion from your Graveyard with a Lifeforce Cost equal to the Minion across from this one.",
+                "image_path": "images\/minions\/Echo_of_Comedy.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Draw 3 cards.",
+                "image_path": "images\/spells\/Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Fold",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Return one of your Minions on the Field to your Hand.",
+                "image_path": "images\/spells\/Fold.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gaze of Tragedy",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "5",
+                "attack": "0",
+                "defense": "5",
+                "traits": "This Minion cannot Attack and is Immune to Piercing damage.",
+                "effects": "Once During your Turn, you may spend 1 Lifeforce to Destroy the Minion across from this one.",
+                "image_path": "images\/minions\/Gaze_of_Tragedy.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gilded Jester",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Jester",
+                "lifeforce_cost": "1",
+                "attack": "0",
+                "defense": "0",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +3 Attack.",
+                "effects": "On Summon, you may Discard a card from your Hand, then Draw a card.",
+                "image_path": "images\/minions\/Gilded_Jester.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Heart of the Cards",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Draw a card and Reveal it.\n\nThe card you Draw has its Lifeforce cost reduced by 2 until your End of Turn.",
+                "image_path": "images\/spells\/Heart_of_the_Cards.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "High Card",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Both players Discard the top card of their Deck. If your card had a higher Lifeforce cost, Draw a card.\n\nYou may treat cards with ? Cost as any Lifeforce Cost for this effect.",
+                "image_path": "images\/spells\/High_Card.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Jack of Clubs",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "8",
+                "attack": "4",
+                "defense": "4",
+                "traits": "Once During your Turn, call Odd or Even then Discard the top card of your Deck.",
+                "effects": "Three times During your Turn, when you Discard a card matching your Trait\u2019s call, this Minion gains +2 Attack and +1 Defense until your End of Turn.",
+                "image_path": "images\/minions\/Jack_of_Clubs.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Jester of Chaos",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Jester",
+                "lifeforce_cost": "7",
+                "attack": "1",
+                "defense": "5",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +4 Attack.",
+                "effects": "On Summon, all players Draw 3 cards, Summon any Minions Drawn, Discard the rest, then you Destroy any Minion.",
+                "image_path": "images\/minions\/Jester_of_Chaos.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Jester of Sorrows",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Jester",
+                "lifeforce_cost": "2",
+                "attack": "1",
+                "defense": "1",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +3 Attack.",
+                "effects": "Once During your Turn when a Minion is Destroyed, Draw a card.",
+                "image_path": "images\/minions\/Jester_of_Sorrows.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "King of Diamonds",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "10",
+                "attack": "5",
+                "defense": "5",
+                "traits": "Once During your Turn, call Odd or Even then Discard the top card of your Deck.",
+                "effects": "Three times During your Turn, when you Discard a card matching your Trait\u2019s call, you may choose to Draw a card.",
+                "image_path": "images\/minions\/King_of_Diamonds.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Malevolent Marionette",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Puppet",
+                "lifeforce_cost": "5",
+                "attack": "3",
+                "defense": "5",
+                "traits": "Trait: Once During your Turn, choose a Minion. Any damage dealt to this Minion is also dealt to the chosen one.",
+                "effects": "Effect: Once During your Turn, force an enemy Minion to Attack this Minion.",
+                "image_path": "images\/minions\/Malevolent_Marionette.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mask of Twisted Fate",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Relic",
+                "lifeforce_cost": "4",
+                "effects": "You may Attach this card to any Minion. A Friendly Minion gains +2 Attack and Defense. An Enemy Minion loses 2 Attack and Defense. If this card is Destroyed, you may Attach it to another Minion without paying its cost or return it to your Hand.",
+                "image_path": "images\/relics\/Mask_of_Twisted_Fate.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mime of Forms",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "6",
+                "attack": "4",
+                "defense": "3",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "Once During your Turn, you may copy the Effect of a Minion until your End of Turn.",
+                "image_path": "images\/minions\/Mime_of_Forms.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Queen of Hearts",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "9",
+                "attack": "4",
+                "defense": "4",
+                "traits": "Once During your Turn, call Odd or Even then Discard the top card of your Deck.",
+                "effects": "Three times During your Turn, when you Discard a Minion card matching your Trait\u2019s call, with a cost of 4 or less, you may Resurrect it from your Graveyard.",
+                "image_path": "images\/minions\/Queen_of_Hearts.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Raise",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "0",
+                "effects": "During any turn, when an enemy player pays Lifeforce to summon a Minion, you may play this card. That player must either pay 2 additional Lifeforce or have that Minion destroyed.",
+                "image_path": "images\/spells\/Raise.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Royal Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "10",
+                "effects": "Inflict 1 damage to a Target for each card in your Graveyard (Max 15).\n\nThis damage cannot be increased or decreased by other card effects.",
+                "image_path": "images\/spells\/Royal_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Silent Mime",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "2",
+                "attack": "0",
+                "defense": "0",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "On Summon, Silence a Minion, causing it to lose its Trait and Effect while this Minion is on the Field.",
+                "image_path": "images\/minions\/Silent_Mime.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Soul Siphoning Puppet",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Puppet",
+                "lifeforce_cost": "2",
+                "attack": "1",
+                "defense": "3",
+                "traits": "Once During your Turn, choose a Minion. Any damage dealt to this Minion is also dealt to the chosen one.",
+                "effects": "Once During your Turn, Restore 2 missing Health or Defense from a Target and inflict it as damage to this Minion.",
+                "image_path": "images\/minions\/Soul_Siphoning_Puppet.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Staff of Twisted Fate",
+                "card_type": "Weapon",
+                "rarity": "Legendary",
+                "weapon_type": "Two-Handed",
+                "lifeforce_cost": "4",
+                "attack": "2",
+                "defense": "3",
+                "effects": "Once During your Turn, you may Discard the top card of your Deck. If its Lifeforce cost is odd, inflict 2 damage to one Target. If it's even, inflict 1 damage to up to two different Targets. Gain 1 Lifeforce for each target Destroyed this way.",
+                "image_path": "images\/weapons\/Staff_of_Twisted_Fate.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Still Mannequin",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Mannequin",
+                "lifeforce_cost": "1",
+                "attack": "1",
+                "defense": "4",
+                "traits": "This Minion cannot be Defended. A Minion Across from this one and the cards Adjacent to it, can only Attack Minions with this Trait.",
+                "effects": "When this Minion takes damage, inflict 1 damage to a Hero.",
+                "image_path": "images\/minions\/Still_Mannequin.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Straight Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "8",
+                "effects": "Draw 5 cards.",
+                "image_path": "images\/spells\/Straight_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Fool King",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Jester",
+                "lifeforce_cost": "6",
+                "attack": "1",
+                "defense": "6",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +4 Attack.",
+                "effects": "Once During your Turn, you may Discard up to 2 cards from your Hand to inflict 2 damage to a Minion for each.",
+                "image_path": "images\/minions\/The_Fool_King.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Hollow Page",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "4",
+                "attack": "2",
+                "defense": "2",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "After copying a Minion's Stats gain +1 Attack and Defense until your End of Turn",
+                "image_path": "images\/minions\/The_Hollow_Page.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Joker, Lord of Chaos",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "10",
+                "attack": "5",
+                "defense": "5",
+                "traits": "On Summon, Shuffle all of your cards in your Hand and Graveyard into your Deck.",
+                "effects": "On Summon, after your Trait, Draw 5. Once During your Turn, you may reduce a card's Lifeforce cost in your Hand by 5.",
+                "image_path": "images\/minions\/The_Joker,_Lord_of_Chaos.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Vengeful Puppet",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Puppet",
+                "lifeforce_cost": "4",
+                "attack": "2",
+                "defense": "4",
+                "traits": "Once During your Turn, choose a Minion. Any damage dealt to this Minion is also dealt to the chosen one.",
+                "effects": "Once During your Turn, when this Minion takes damage, inflict 2 damage to a Minion or Hero.",
+                "image_path": "images\/minions\/Vengeful_Puppet.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Volatile Effigy",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mannequin",
+                "lifeforce_cost": "5",
+                "attack": "3",
+                "defense": "5",
+                "traits": "This Minion cannot be Defended. A Minion Across from this one and the cards Adjacent to it, can only Attack Minions with this Trait.",
+                "effects": "When this Minion is Destroyed, inflict 2 damage to all enemy Minions.",
+                "image_path": "images\/minions\/Volatile_Effigy.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
