@@ -1,0 +1,326 @@
+{
+    "id": "deck_1784814812047_5",
+    "creator": "Yagtag",
+    "deckName": "Nyxara Deck",
+    "hero": {
+        "card_name": "Nyxara, Keeper of the Eternal Flame",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Coven's Might: If you control 3 or more minions, they gain +1 Attack during your turn and +1 Defense during your opponent's turn.",
+        "ability2": "Born In Flames: Once during your turn, you may spend 3 Lifeforce to summon a minion with cost 3 or less from your deck.",
+        "ability3": "Walpurgis Flames: At the start of your turn, if you control 3 or more minions, inflict 3 damage to an enemy Hero and draw a card.",
+        "ability4": "Harvest Essence: At the end of your turn, if you control 3 or more minions, siphon 1 Lifeforce from a target Hero (if available) and gain it.",
+        "back_image_path": "images\/heroes\/Nyxara,_Keeper_of_the_Eternal_Flame_back.png",
+        "front_image_path": "images\/heroes\/Nyxara,_Keeper_of_the_Eternal_Flame_front.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Bone Pile",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "5",
+                "defense": 3,
+                "effects": "Once during each of your turns, summon a minion from your hand, deck or graveyard with a cost of 6 or less.\n\nIf this card is destroyed so are all of the minions summoned this way.",
+                "image_path": "images\\artifacts\\Bone_Pile.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Book of Shadows",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 2,
+                "effects": "Your spells cost 1 less lifeforce to cast.",
+                "image_path": "images\\artifacts\\Book_of_Shadows.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Darkheart Succubus",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Once per turn, if a minion dies while this card is on the field, gain 1 lifeforce.",
+                "effects": "Once during each of your turns, you may force an enemy minion with a cost of 4 or less to attack another minion.",
+                "image_path": "images\\minions\\Darkheart_Succubus.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Doombringer Cultist",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "lifeforce_cost": "3",
+                "minion_type": "Forsaken",
+                "attack": 2,
+                "defense": 1,
+                "traits": "On Death, inflict 1 damage to an enemy Hero.",
+                "effects": "On Death, gain Lifeforce equal to this card's cost.",
+                "image_path": "images\\minions\\Doombringer_Cultist.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Drain Soul",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to a target. If the target is destroyed, gain 1 lifeforce.",
+                "image_path": "images\\spells\\Drain_Soul.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Berserker",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once per turn, when this card attacks and deals damage to a target, inflict 2 damage to an adjacent target.",
+                "image_path": "images\\minions\\Dreadnaught_Berserker.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Firebrand Ravager",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "Burn the enemy Hero for 1 damage for every other minion on your field at the end of your turn.",
+                "image_path": "images\\minions\\Firebrand_Ravager.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Grove Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Heal your hero for 1 at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Grove_Hag.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Healing Potion",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Heal your hero for 6 health.",
+                "image_path": "images\\spells\\Healing_Potion.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Hellgate",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "When this card is played, reveal and add two minions from your deck to your hand. While this card is on the field, your minions cost 2 less to summon.",
+                "image_path": "images\\artifacts\\Hellgate.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Infested Zombie",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Zombie",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "Once per turn, this card cannot be destroyed by one enemy minion attack.",
+                "effects": "When this card takes damage, summon a 1-cost minion from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Infested_Zombie.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Lightning Obelisk",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once during each of your turns, inflict 2 damage to an enemy target.",
+                "image_path": "images\\artifacts\\Lightning_Obelisk.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Mire Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Inflict 1 damage to the enemy hero at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Mire_Hag.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Necroforge Citadel",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "4",
+                "effects": "Draw a card during each of your turns.",
+                "image_path": "images\\lands\\Necroforge_Citadel.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Necropolis of the Damned",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "6",
+                "effects": "Once per turn, when a minion you control is destroyed, you may summon a minion with a different name from your hand or deck with a cost 5 or less.",
+                "image_path": "images\\lands\\Necropolis_of_the_Damned.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Soul Drain",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Inflict 2 damage to all enemy minions. Heal your hero for each enemy damaged this way.",
+                "image_path": "images\\spells\\Soul_Drain.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Still Mannequin",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Mannequin",
+                "lifeforce_cost": "1",
+                "attack": "1",
+                "defense": "4",
+                "traits": "This Minion cannot be Defended. A Minion Across from this one and the cards Adjacent to it, can only Attack Minions with this Trait.",
+                "effects": "When this Minion takes damage, inflict 1 damage to a Hero.",
+                "image_path": "images\/minions\/Still_Mannequin.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Temperance",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Upright: Draw 1 card. \n\nReversed: Discard 1 card, gain 3 Lifeforce.",
+                "image_path": "images\/spells\/Temperance.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Devil",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 6,
+                "traits": "Upright: At the end of your turn, inflict 3 damage to an enemy Hero.",
+                "effects": "Reversed: When this minion Destroys an enemy Minion, gain 2 Lifeforce.",
+                "image_path": "images\/minions\/The_Devil.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Fool",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Upright: On Summon, you may Summon a 1-cost Minion from your Hand, Deck, or Graveyard.",
+                "effects": "Reversed: Summon this card on an enemy Minion slot. On Death, the original owner draws 1 card. Cannot be Dismissed.",
+                "image_path": "images\/minions\/The_Fool.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Hanged Man",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Upright: At end of your turn, Destroy this Minion to Resurrect a Minion of cost 3 or less from your Graveyard. If destroyed this way, Resurrect this at the start of your next turn.",
+                "effects": "Reversed: Destroy a Minion. Resurrect it to the owner\u2019s field at your turn\u2019s start.",
+                "image_path": "images\/minions\/The_Hanged_Man.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Assassin",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 2,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, target and destroy an enemy minion with 2 or less defense.",
+                "image_path": "images\\minions\\Vilefang_Assassin.jpg"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
