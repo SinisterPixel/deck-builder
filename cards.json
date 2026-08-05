@@ -4023,5 +4023,14 @@
     "lifeforce_cost": "1",
     "effects": "Return one of your Minions on the Field to your Hand.",
     "image_path": "images/spells/Fold.png"
+  },
+  {
+    "card_name": "Fireworks",
+    "card_type": "Magic",
+    "rarity": "Rare",
+    "magic_type": "Spell",
+    "lifeforce_cost": "2",
+    "effects": "Inflict 1 damage to a target and heal a Hero for 1.\nRepeat this effect for all Fireworks in your graveyard.",
+    "image_path": "images/spells/Fireworks.png"
   }
 ]
