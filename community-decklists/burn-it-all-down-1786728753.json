@@ -1,0 +1,397 @@
+{
+    "id": "deck_1786719740552_1",
+    "creator": "Zombro",
+    "deckName": "burn it all down",
+    "hero": {
+        "card_name": "Harlequin of Fate",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Hands of Fate: Once During your Turn, you may Reveal cards from your Hand that form one of the listed Hands to trigger its Effects, then place one of the Revealed cards at the bottom of your Deck and Draw a card. Cards with ?-Cost can count as any number.",
+        "ability2": "Pair: Move a Minion on a Player\u2019s Field to another Minion slot on their Field. Then gain 1 Lifeforce.",
+        "ability3": "Two Pair: Draw 2 cards, then Discard any card in Hand.",
+        "ability4": "Three of a Kind: Destroy a Magic Card.",
+        "ability5": "Straight: Cast a Spell from your Deck or Graveyard with cost no higher than the highest-cost card used to form this Hand. Then banish the Spell to the Void.",
+        "ability6": "Full House: Inflict 3 damage to a Target and gain 2 Lifeforce.",
+        "ability7": "Four of a Kind: Summon a Minion from your Deck with Lifeforce cost no higher than half the total cost of the cards used to form this Hand. At your End of Turn, place it on the bottom of your Deck.",
+        "back_image_path": "images\/heroes\/Harlequin_of_Fate_back.png",
+        "front_image_path": "images\/heroes\/Harlequin_of_Fate_front.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "All In",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "This card\u2019s Cost is equal to all of your current Lifeforce. When you play this card Discard all the cards in your Hand. Distribute +1 Attack and Defense among your Minions for each Lifeforce you spent to play this card and all cards you Discarded until End of Turn.",
+                "image_path": "images\/spells\/All_In.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Call",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Target an opponent\u2019s Minion, then summon a Minion from your Deck with the same Lifeforce cost.",
+                "image_path": "images\/spells\/Call.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Chaos Bolt",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Burn a target for 8 damage.",
+                "image_path": "images\\spells\\Chaos_Bolt.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cipactli",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "8",
+                "minion_type": "Mythical Beast",
+                "attack": 6,
+                "defense": 6,
+                "traits": "When this minion takes damage, inflict half to an enemy Hero. (round down)",
+                "effects": "When this minion destroys another minion, gain lifeforce equal to half of the destroyed minion's cost. (round down)",
+                "image_path": "images\\minions\\Cipactli.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Coven of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "You may summon up to 3 minions from your deck with a cost of 3. The cost of this card is the total lifeforce cost of the summoned minions plus 1.",
+                "image_path": "images\\spells\\Coven_of_Shadows.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Death",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "10",
+                "effects": "Upright: Destroy all cards on the field. Each player shuffles their Graveyard into their Deck. Costs 1 less for each card you control. \n\nReversed: Negate all card text on Enemy Minions, then Destroy them. Gain 1 Lifeforce for each Destroyed.",
+                "image_path": "images\/spells\/Death.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Eldritch Blast",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 4 damage to an enemy hero or minion.",
+                "image_path": "images\\spells\\Eldritch_Blast.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Eldritch Recall",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Return up to two spell cards from your graveyard to your hand.",
+                "image_path": "images\\spells\\Eldritch_Recall.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Draw 3 cards.",
+                "image_path": "images\/spells\/Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Fold",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Return one of your Minions on the Field to your Hand.",
+                "image_path": "images\/spells\/Fold.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gashadokuro",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "20",
+                "attack": 8,
+                "defense": 8,
+                "traits": "This Minion costs 1 less Lifeforce to Summon for each Minion in all Graveyards, but not less than 4.",
+                "effects": "On Summon, halve the Defense of all other Minions, rounding up, until the End of Turn.",
+                "image_path": "images\/minions\/Gashadokuro.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gilded Jester",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Jester",
+                "lifeforce_cost": "1",
+                "attack": "0",
+                "defense": "0",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +3 Attack.",
+                "effects": "On Summon, you may Discard a card from your Hand, then Draw a card.",
+                "image_path": "images\/minions\/Gilded_Jester.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Hellfire",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "7",
+                "effects": "Burn all enemy characters for 4 damage.",
+                "image_path": "images\\spells\\Hellfire.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Jester of Sorrows",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Jester",
+                "lifeforce_cost": "2",
+                "attack": "1",
+                "defense": "1",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +3 Attack.",
+                "effects": "Once During your Turn when a Minion is Destroyed, Draw a card.",
+                "image_path": "images\/minions\/Jester_of_Sorrows.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Judgement",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "7",
+                "effects": "Upright: Resurrect 2 Minions from your Graveyard with a combined cost of 8 or less. \n\nReversed: Choose up to 2 Minions from your Graveyard; Shuffle one into your Deck and Resurrect the other to the field.",
+                "image_path": "images\/spells\/Judgement.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Justice",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Upright: If you control a Minion but an enemy Hero controls more than you, Destroy their lowest cost Minions until you control the same amount. \n\nReversed: Draw cards until you have the same amount as an enemy Hero.",
+                "image_path": "images\/spells\/Justice.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Necrotic Infusion",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Resurrect up to 4 minions from your graveyard. The cost of this card is their total lifeforce cost. The total cost cannot exceed 10. At the end of the turn, they are destroyed.",
+                "image_path": "images\\spells\\Necrotic_Infusion.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Queen of Hearts",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "9",
+                "attack": "4",
+                "defense": "4",
+                "traits": "Once During your Turn, call Odd or Even then Discard the top card of your Deck.",
+                "effects": "Three times During your Turn, when you Discard a Minion card matching your Trait\u2019s call, with a cost of 4 or less, you may Resurrect it from your Graveyard.",
+                "image_path": "images\/minions\/Queen_of_Hearts.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Raise",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "0",
+                "effects": "During any turn, when an enemy player pays Lifeforce to summon a Minion, you may play this card. That player must either pay 2 additional Lifeforce or have that Minion destroyed.",
+                "image_path": "images\/spells\/Raise.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Royal Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "10",
+                "effects": "Inflict 1 damage to a Target for each card in your Graveyard (Max 15).\n\nThis damage cannot be increased or decreased by other card effects.",
+                "image_path": "images\/spells\/Royal_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Strike",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 3 damage to any target. This card can be played on any turn.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Shadow_Strike.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Straight Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "8",
+                "effects": "Draw 5 cards.",
+                "image_path": "images\/spells\/Straight_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Synaptic Scour",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Each player Discards their Hand, then Draws 3 cards.",
+                "image_path": "images\/spells\/Synaptic_Scour.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Temperance",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "1",
+                "effects": "Upright: Draw 1 card. \n\nReversed: Discard 1 card, gain 3 Lifeforce.",
+                "image_path": "images\/spells\/Temperance.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Devil",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 6,
+                "traits": "Upright: At the end of your turn, inflict 3 damage to an enemy Hero.",
+                "effects": "Reversed: When this minion Destroys an enemy Minion, gain 2 Lifeforce.",
+                "image_path": "images\/minions\/The_Devil.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The High Priestess",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Upright: On Summon, draw 3 cards, then Discard 2 from your Hand.",
+                "effects": "Reversed: While this is on the field, enemy Minions lose their Traits.",
+                "image_path": "images\/minions\/The_High_Priestess.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "The Star",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Upright: Shuffle 3 cards in your Graveyard into your Deck, then Draw a card.\n\nReversed: Reveal the top 3 cards of your Deck, add 1 to your Hand, place one on top of your Deck, Discard the last one.",
+                "image_path": "images\/spells\/The_Star.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Tzitzimitl Necromancer",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "9",
+                "minion_type": "Skeleton",
+                "attack": 6,
+                "defense": 6,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Effect: At the end of your turn, you may summon up to three Common and\/or Rare minions with a total cost of 6 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Tzitzimitl_Necromancer.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": false,
+    "notes": ""
+}
