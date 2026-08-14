@@ -1,0 +1,440 @@
+{
+    "id": "deck_1786728733550_2",
+    "creator": "Zombro",
+    "deckName": "Mordekai fast",
+    "hero": {
+        "card_name": "Mordekai, Harbinger of the End",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Covenant of Power: At the end of your turn, if you control 2 or more Minions with different costs, you gain 1 Lifeforce.",
+        "ability2": "Immutable Prophecy: If you control a Minion, your Event cards can't be destroyed by Destroy Magic.",
+        "ability3": "Final Reckoning: Once during your turn, if you control four Legendary Minions with costs 3, 4, 5, and 6, you may play an Event card from your Hand, Deck, or Graveyard.",
+        "ability4": "Eldritch Summoning: Once during your turn, you may Summon a 5-cost or lower Minion from your Hand, Deck, or Graveyard by paying its cost -1. It must have a different cost than all Minions you control.",
+        "front_image_path": "images\\heroes\\Mordekai,_Harbinger_of_the_End_front.png",
+        "back_image_path": "images\\heroes\\Mordekai,_Harbinger_of_the_End_back.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Apocalypse",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "10",
+                "effects": "At the end of your turn, if you control a Minion with a cost of 3 or more, you may Summon a 6-Cost or lower Minion from your Hand, Deck, or Graveyard. Its cost must differ from all other Minions you control.",
+                "magic_type": "Event",
+                "duration": 3,
+                "image_path": "images\\events\\Apocalypse.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Apocalyptic Vision",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "5",
+                "effects": "Reveal the top 4 cards of your Deck. You may play an Event among them. If you don\ufffdt, shuffle the cards into your Deck and gain 3 Lifeforce.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Apocalyptic_Vision.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Bloodbound Maiden",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "On summon, you may summon a minion with a cost 4 or less from your hand, deck, or graveyard.",
+                "image_path": "images\\minions\\Bloodbound_Maiden.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Conquest",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "3",
+                "minion_type": "Eldritch",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Trait: Once during your turn, take control of an enemy Minion with an Attack of 3 or less until the end of the turn. Cannot be Dismissed.",
+                "effects": "Effect: If you control a 10-cost Legendary Event card, your Trait can control a Minion with an Attack of 5 or less instead.",
+                "image_path": "images\\minions\\Conquest.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Covenant of the Damned",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "6",
+                "effects": "Once during your turn, you may pay Health equal to a Magic card\ufffds Cost instead of Lifeforce to play it from your Hand.",
+                "magic_type": "Event",
+                "duration": 3,
+                "image_path": "images\\events\\Covenant_of_the_Damned.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Crypt Keeper",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mummy",
+                "lifeforce_cost": "5",
+                "attack": 3,
+                "defense": 2,
+                "traits": "Resurrect this minion from your graveyard by paying its lifeforce cost +1.",
+                "effects": "Destroy this minion at the end of your turn. On death, during your turn or at its end, resurrect a minion with a cost of 7 or less from your graveyard.",
+                "image_path": "images\\minions\\Crypt_Keeper.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Miasma",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "effects": "At the end of each of your opponent's turns, gain lifeforce equal to half of the total lifeforce they spent during that turn, rounded down.",
+                "magic_type": "Event",
+                "duration": 3,
+                "image_path": "images\\events\\Dark_Miasma.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Resurrection",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
+                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Dawn of the Apocalypse",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "6",
+                "effects": "Once during your turn, if you control a Minion with a cost of 3 or more, you may Summon a 6-Cost or lower Minion from your Hand, Deck, or Graveyard. Its cost must differ from all other Minions you control.",
+                "magic_type": "Event",
+                "duration": 2,
+                "image_path": "images\\events\\Dawn_of_the_Apocalypse.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Death",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "6",
+                "minion_type": "Eldritch",
+                "attack": 6,
+                "defense": 6,
+                "traits": "Trait: When this destroys a Minion during your turn, you may Summon a 4-Cost or lower Minion from your Hand, Deck, or Graveyard.",
+                "effects": "Effect: If you control a 10-Cost Legendary Event, you may Summon a 7-cost or lower Minion using your Trait instead.",
+                "image_path": "images\\minions\\Death.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Demonic Convergence",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "When a friendly minion dies, attach it to this card. When this card leaves play, summon a minion from your hand, deck, or graveyard with a cost up to the combined total lifeforce cost of the attached minions (max 10).",
+                "duration": 2,
+                "image_path": "images\\events\\Demonic_Convergence.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Distorting Mime",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "1",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "On Summon, you may switch the Attack and Defense of a target Minion until the End of Turn.",
+                "image_path": "images\/minions\/Distorting_Mime.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Doom Foretold",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "10",
+                "effects": "If your Graveyard contains four Legendary Minions with Costs 3, 4, 5, and 6, Resurrect them all to the field.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Doom_Foretold.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 4,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once during each of your turns, you may summon a minion from your hand, deck, or graveyard with a cost 4 or less.",
+                "image_path": "images\\minions\\Dreadnaught_Summoner.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "End Times Prophet",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "lifeforce_cost": "5",
+                "minion_type": "Forsaken",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Forsaken",
+                "effects": "On Death, inflict 2 damage to an enemy Hero. Effect: On Summon, look at the top 3 cards of your Deck. You may reveal and play an Event from among them. Shuffle the rest into your Deck.",
+                "image_path": "images\\minions\\End_Times_Prophet.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Famine",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "minion_type": "Eldritch",
+                "attack": 5,
+                "defense": 5,
+                "traits": "When this Minion damages an enemy Hero, they discard a card from their Hand.",
+                "effects": "If you control a 10-cost Legendary Event card, they discard two cards instead.",
+                "image_path": "images\\minions\\Famine.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Gilded Jester",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Jester",
+                "lifeforce_cost": "1",
+                "attack": "0",
+                "defense": "0",
+                "traits": "During your Turn, this Minion has +1 Attack for each card you have Drawn or Discarded this turn, up to +3 Attack.",
+                "effects": "On Summon, you may Discard a card from your Hand, then Draw a card.",
+                "image_path": "images\/minions\/Gilded_Jester.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Kuzunoha",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Kitsune",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 4,
+                "traits": "This Minion cannot be Destroyed by enemy Magic Cards.",
+                "effects": "Once During your Turn, you may Give a another Friendly Minion Invisibility. They also gain +2 Attack until the End of Turn. Invisible Minions cannot be Targeted.",
+                "image_path": "images\/minions\/Kuzunoha.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Morgana",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Visage",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 3,
+                "traits": "Twice during any turn, when you cast a Spell gain 1 Lifeforce.",
+                "effects": "When this Minion attacks and destroys a Minion, you may cast a Spell from your Graveyard with a cost of 3 or less, then shuffle it into your Deck.",
+                "image_path": "images\/minions\/Nightmare_Morgana.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightveil Mystic",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "lifeforce_cost": "3",
+                "minion_type": "Dark Elf",
+                "attack": 3,
+                "defense": 2,
+                "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+                "effects": "On summon, reveal a minion from your deck and add it to your hand.",
+                "image_path": "images\\minions\\Nightveil_Mystic.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Rise of the Fourth Sun",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "effects": "Enemy minions have their attack reduced to 1.",
+                "magic_type": "Event",
+                "rounds_active": 2,
+                "duration": 2,
+                "image_path": "images\\events\\Rise_of_the_Fourth_Sun.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ritual Altar",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "Once during each of your turns, cast a spell from your graveyard without paying its cost, then remove it from the game.",
+                "image_path": "images\\artifacts\\Ritual_Altar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Senji Ryakketsu",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once During your Turn, you may choose one: Restore 2 Health to your Hero; or Draw a card, then place a card from your Hand on top of your Deck.",
+                "image_path": "images\/artifacts\/Senji_Ryakketsu.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Straight Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "8",
+                "effects": "Draw 5 cards.",
+                "image_path": "images\/spells\/Straight_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The High Priestess",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Upright: On Summon, draw 3 cards, then Discard 2 from your Hand.",
+                "effects": "Reversed: While this is on the field, enemy Minions lose their Traits.",
+                "image_path": "images\/minions\/The_High_Priestess.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Tzitzimitl Firecaller",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "lifeforce_cost": "7",
+                "minion_type": "Skeleton",
+                "attack": 5,
+                "defense": 4,
+                "traits": "Trait: +1 Attack against heroes.",
+                "effects": "Effect: On death, play an Event card from your hand or deck with a cost of 6 or less.",
+                "image_path": "images\\minions\\Tzitzimitl_Firecaller.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Ushi no koku mairi",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "1",
+                "effects": "When Played, choose a Hero. At your Start of Turn, it takes 1 damage, increasing by 1 each Round. If this card is Destroyed before it expires, you take damage equal to its current damage.",
+                "duration": 7,
+                "image_path": "images\/events\/Ushi_no_koku_mairi.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Summoner",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, you may summon a 4 or less cost minion from your hand, deck or graveyard.",
+                "image_path": "images\\minions\\Vilefang_Summoner.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "War",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "minion_type": "Eldritch",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Once during your turn, inflict 3 damage to a Target.",
+                "effects": "If you control a 10-cost Legendary Event, your Trait inflicts 5 damage to a Target instead.",
+                "image_path": "images\\minions\\War.png"
+            },
+            "quantity": 1
+        }
+    ],
+    "sideDeck": [],
+    "published": false,
+    "notes": ""
+}
