@@ -1,0 +1,287 @@
+{
+    "id": "deck_1789255460865_1",
+    "creator": "FizzyDrPepper",
+    "deckName": "Now You see me, now you don\u2019t",
+    "hero": {
+        "card_name": "Lysandra, Shadow Matron",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Ghostly Presence; At the start of your turn, if you control an Invisible minion, gain 2 Lifeforce.",
+        "ability2": "Hidden Strength; Invisible friendly minions gain +1 Attack.",
+        "ability3": "Fade Into Darkness; When one of your minions attacks, destroys an enemy minion, and survives, it immediately gains Invisibility. Invisible minions can't be targeted until they attack again or take damage.",
+        "ability4": "Shadowmeld; Spend 2 lifeforce to make a friendly minion Invisible, making them untargetable until they attack or take damage.",
+        "front_image_path": "images\\heroes\\Lysandra,_Shadow_Matron_front.jpeg",
+        "back_image_path": "images\\heroes\\Lysandra,_Shadow_Matron_back.jpeg"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Ambush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "3",
+                "effects": "At the end of your turn, you can inflict 2 damage to any enemy target for each friendly invisible minion.",
+                "magic_type": "Event",
+                "duration": 3,
+                "image_path": "images\\events\\Ambush.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cloak of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "3",
+                "effects": "Attach to a minion. It gains Invisibility at the end of each turn and takes 1 less damage from all sources.",
+                "magic_type": "Relic",
+                "image_path": "images\\relics\\Cloak_of_Shadows.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Assassin",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "+1 Attack against heroes.",
+                "effects": "If this minion attacks the enemy hero, it becomes invisible and untargetable until it attacks again or takes damage.",
+                "image_path": "images\\minions\\Dreadnaught_Assassin.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Berserker",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once per turn, when this card attacks and deals damage to a target, inflict 2 damage to an adjacent target.",
+                "image_path": "images\\minions\\Dreadnaught_Berserker.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Kingdom of Shadows",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "effects": "Your Invisible minions gain +2 Attack.",
+                "magic_type": "Land",
+                "image_path": "images\\lands\\Kingdom_of_Shadows.jpeg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mirror of Truth",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "Once During your Turn, you may choose one: Reveal all Invisible enemy Minions, causing them to lose Invisibility; or make a Friendly Minion Invisible. Invisible Minions cannot be Targeted and lose Invisibility when they deal or take damage.",
+                "image_path": "images\/artifacts\/Mirror_of_Truth.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Nightfall Strike",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to a target. If the target is destroyed, give a friendly minion Invisibility, causing it to become untargetable until it attacks or takes damage.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Nightfall_Strike.jpeg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Lysandra",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Visage",
+                "lifeforce_cost": "7",
+                "attack": 5,
+                "defense": 5,
+                "traits": "On Summon, make two of your other Minions Invisible. Your Invisible Minions have +1 Attack while this is on the Field.",
+                "effects": "At the end of your turn, this Minion becomes Invisible. If it's Invisible at the start of your turn, gain 2 Lifeforce.",
+                "image_path": "images\/minions\/Nightmare_Lysandra.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Nightveil Archer",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "lifeforce_cost": "2",
+                "minion_type": "Dark Elf",
+                "attack": 3,
+                "defense": 1,
+                "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+                "effects": "Effect: When this minion gains invisibility, inflict 2 damage to a target. This does not break invisibility.",
+                "image_path": "images\\minions\\Nightveil_Archer.jpeg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Nightveil Shade Stalker",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "lifeforce_cost": "3",
+                "minion_type": "Dark Elf",
+                "attack": 3,
+                "defense": 3,
+                "traits": "On your turn, if this minion's attack would destroy its target, avoid taking damage.",
+                "effects": "When this minion gains invisibility, draw a card.",
+                "image_path": "images\\minions\\Nightveil_Shade_Stalker.jpeg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nyx, Mother of Night",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Deity",
+                "lifeforce_cost": "8",
+                "attack": "6",
+                "defense": "6",
+                "traits": "At your Start of Turn, remove Invisibility from all Minions. Gain +1 Attack and Defense for each removed until your End of Turn.",
+                "effects": "At your End of Turn, your other Minions become Invisible and Untargetable until they attack or take damage.",
+                "image_path": "images\/minions\/Nyx,_Mother_of_Night.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Okami Spirit",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "3",
+                "attack": 1,
+                "defense": 3,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "While this Minion is on the Field, your other Invisible Minions take 1 less damage from all sources.",
+                "image_path": "images\/minions\/Okami_Spirit.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Rise of the First Sun",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "effects": "Once during each of your turns, summon two 2 cost minions from your hand, deck, or graveyard.",
+                "magic_type": "Event",
+                "rounds_active": 3,
+                "duration": 3,
+                "image_path": "images\\events\\Rise_of_the_First_Sun.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Infusion",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "lifeforce_cost": "2",
+                "effects": "Empower a minion with shadow essence, granting it +2 Attack until end of turn. The minion also becomes invisible, and its attacks this turn don't break invisibility.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Shadow_Infusion.jpeg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Shadow Strike",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 3 damage to any target. This card can be played on any turn.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Shadow_Strike.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Valkor Darkbane",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Revenant",
+                "lifeforce_cost": "10",
+                "attack": 7,
+                "defense": 7,
+                "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+                "effects": "At the start of your turn, inflict 2 damage to all enemy Characters and heal 1 for each enemy damaged this way.",
+                "image_path": "images\/minions\/Valkor_Darkbane.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Veiled Deathcaller",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Revenant",
+                "lifeforce_cost": "7",
+                "attack": 5,
+                "defense": 6,
+                "traits": "On Summon, gain +1 Attack and Defense until the end of the turn.",
+                "effects": "After this destroys an enemy Minion, it becomes Invisible and untargetable until it attacks or takes damage. If it's your turn, it may attack again instead.",
+                "image_path": "images\/minions\/Veiled_Deathcaller.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Veilwalker Kitsune",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "When this Minion attacks and deals damage, Restore 1 Health to your Hero.",
+                "image_path": "images\/minions\/Veilwalker_Kitsune.png"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "White Serpent",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "Once During any Turn, when this Minion is Destroyed, return it to your Hand.",
+                "image_path": "images\/minions\/White_Serpent.png"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
