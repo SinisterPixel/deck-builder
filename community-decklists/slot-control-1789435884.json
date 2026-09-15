@@ -1,0 +1,315 @@
+{
+    "id": "deck_1789435870425_4",
+    "creator": "FizzyDrPepper",
+    "deckName": "Slot Control",
+    "hero": {
+        "card_name": "Set, Herald of Chaos",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Tainted Ground; At the start of your turn, you may designate an enemy minion slot. Minions in that slot have their Attack and Defense reduced by 2 until you choose a different slot.",
+        "ability2": "Aura of Decay; At the end of your turn, each enemy character adjacent to another character takes 2 damage.",
+        "ability3": "Fury of the Void; If you control no minions at the start of your turn, ensnare an enemy minion, preventing it from following Minion Commands for one round.",
+        "ability4": "Shifting Sands; You may pay 2 Lifeforce to move an enemy minion to a different slot on its controller's field.",
+        "front_image_path": "images\\heroes\\Set__Herald_of_Chaos_front.png",
+        "back_image_path": "images\\heroes\\Set__Herald_of_Chaos_back.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Cluster Shot",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to a Character and Ensnare adjacent Characters, preventing them from taking Combat Actions for 1 round.",
+                "image_path": "images\/spells\/Cluster_Shot.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Berserker",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "+1 Attack against heroes.",
+                "effects": "Once per turn, when this card attacks and deals damage to a target, inflict 2 damage to an adjacent target.",
+                "image_path": "images\\minions\\Dreadnaught_Berserker.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Dreadnaught Sorcerer",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Skeleton",
+                "lifeforce_cost": "4",
+                "attack": 3,
+                "defense": 4,
+                "traits": "+1 Attack against heroes.",
+                "effects": "On summon, ensnare a minion in ice, preventing it from receiving Minion Commands for 1 round.",
+                "image_path": "images\\minions\\Dreadnaught_Sorcerer.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Dreadweaver's Talons",
+                "card_type": "Weapon",
+                "rarity": "Epic",
+                "weapon_type": "One-Handed",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "effects": "Ensnared Minions have their Defense reduced by 1. When this Weapon Attacks and destroys an Ensanred Minion, gain 1 Lifeforce.",
+                "image_path": "images\\weapons\\Dreadweaver's_Talons.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Ensnare",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "lifeforce_cost": "1",
+                "effects": "Ensnare a target minion in a shadowy bind, preventing it from receiving Minion Commands for 1 round. This card can be played on any turn.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Ensnare.jpeg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Explosive Shot",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to a Target and all Characters or Targets adjacent to it. This can be used on any turn.",
+                "image_path": "images\/spells\/Explosive_Shot.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Five-Element Incantation",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Choose 3 different effects: Ensnare a Minion; Draw a card; Inflict 3 damage to a Target; Restore 3 Health to a Hero; or Give a minion +2 Attack and Defense until End of Turn. Ensnared Minions cannot Attack, Defend or be Dismissed for 1 Round.",
+                "image_path": "images\/spells\/Five-Element_Incantation.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Giant Tomb Spider",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 5,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "This minion's attacks during your turn also damage an adjacent target.",
+                "image_path": "images\\minions\\Giant_Tomb_Spider.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Hypnos, Gentle Night",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Deity",
+                "lifeforce_cost": "6",
+                "attack": "6",
+                "defense": "6",
+                "traits": "A Minion across from this is Ensnared and Silenced. It cannot take Minion Commands or use Card Effects.",
+                "effects": "Once During any Turn, you may move this Minion to one of your other empty Minion slots.",
+                "image_path": "images\/minions\/Hypnos,_Gentle_Night.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Kampe, Titan Jailer",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "6",
+                "attack": "4",
+                "defense": "3",
+                "traits": "Enemy Minions played from the Hand cannot attack the turn they are Summoned.",
+                "effects": "On Summon, Ensnare two Minions, preventing Minion Commands for 1 Round.",
+                "image_path": "images\/minions\/Kampe,_Titan_Jailer.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Molotov Cocktail",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Inflict 3 damage to a Target, 2 damage to adjacent Targets, and 1 damage to all other enemy Minions. This card can be played during any turn.",
+                "image_path": "images\/spells\/Molotov_Cocktail.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Poison Spray",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Inflict 5 damage to a target and 3 damage to adjacent characters.",
+                "image_path": "images\\spells\\Poison_Spray.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Rhadamanthys, Fair Measure",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "2",
+                "traits": "On Summon, you may Summon a Minion with a printed Lifeforce cost of 3 from your Deck or Graveyard paying its current cost.",
+                "effects": "Once per Round, when a Minion is Destroyed, Ensnare a Minion until the End of Turn, preventing Minion Commands.",
+                "image_path": "images\/minions\/Rhadamanthys,_Fair_Measure.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Scarecrow",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 3,
+                "traits": "A minion across from this minion becomes ensnared, preventing it from performing Minion Commands.",
+                "effects": "When this minion attacks an ensnared minion, it gains +2 Attack.",
+                "image_path": "images\\minions\\Scarecrow.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Silk Bind",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Ensnare all enemy minions in a web, preventing them from receiving Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Silk_Bind.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Still Mannequin",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Mannequin",
+                "lifeforce_cost": "1",
+                "attack": "1",
+                "defense": "4",
+                "traits": "This Minion cannot be Defended. A Minion Across from this one and the cards Adjacent to it, can only Attack Minions with this Trait.",
+                "effects": "When this Minion takes damage, inflict 1 damage to a Hero.",
+                "image_path": "images\/minions\/Still_Mannequin.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Suffocating Ittan-momen",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "4",
+                "attack": 2,
+                "defense": 3,
+                "traits": "This Minion has +3 Attack when attacking an Ensnared Minion.",
+                "effects": "On Summon, Ensnare a Target Minion. Ensnared Minions cannot Attack, Defend, or be Dismissed for 1 Round.",
+                "image_path": "images\/minions\/Suffocating_Ittan-momen.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Headless Horseman",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "6",
+                "attack": 4,
+                "defense": 5,
+                "traits": "A minion across from this minion has its attack reduced by 2 and its defense by 1.",
+                "effects": "This minion can attack twice. It cannot attack the same target more than once per turn. After each attack, it may move to an open friendly minion slot.",
+                "image_path": "images\\minions\\The_Headless_Horseman.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Venomous Webweaver",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "4",
+                "attack": 4,
+                "defense": 3,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "On summon, ensnare a minion in webs, preventing it from receiving Minion Commands for 1 round.",
+                "image_path": "images\\minions\\Venomous_Webweaver.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Vilefang Bloodweaver",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "When this minion destroys an ensnared minion, gain 2 lifeforce.",
+                "image_path": "images\\minions\\Vilefang_Bloodweaver.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Volatile Effigy",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Mannequin",
+                "lifeforce_cost": "5",
+                "attack": "3",
+                "defense": "5",
+                "traits": "This Minion cannot be Defended. A Minion Across from this one and the cards Adjacent to it, can only Attack Minions with this Trait.",
+                "effects": "When this Minion is Destroyed, inflict 2 damage to all enemy Minions.",
+                "image_path": "images\/minions\/Volatile_Effigy.png"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
