@@ -1,0 +1,256 @@
+{
+    "id": "deck_1789433420000_2",
+    "creator": "FizzyDrPepper",
+    "deckName": "Feel the Burn",
+    "hero": {
+        "card_name": "Nyxara, Keeper of the Eternal Flame",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Coven's Might: If you control 3 or more minions, they gain +1 Attack during your turn and +1 Defense during your opponent's turn.",
+        "ability2": "Born In Flames: Once during your turn, you may spend 3 Lifeforce to summon a minion with cost 3 or less from your deck.",
+        "ability3": "Walpurgis Flames: At the start of your turn, if you control 3 or more minions, inflict 3 damage to an enemy Hero and draw a card.",
+        "ability4": "Harvest Essence: At the end of your turn, if you control 3 or more minions, siphon 1 Lifeforce from a target Hero (if available) and gain it.",
+        "back_image_path": "images\/heroes\/Nyxara,_Keeper_of_the_Eternal_Flame_back.png",
+        "front_image_path": "images\/heroes\/Nyxara,_Keeper_of_the_Eternal_Flame_front.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Blackfyre's Wrath",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to all enemy Heroes, Minions, and Artifacts at the start of each of your turns.",
+                "duration": 3,
+                "image_path": "images\/events\/Blackfyre's_Wrath.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Book of Bound Souls",
+                "card_type": "Weapon",
+                "rarity": "Rare",
+                "weapon_type": "Off-Hand",
+                "lifeforce_cost": "2",
+                "attack": 0,
+                "defense": 3,
+                "effects": "Once during your turn, when you destroy an enemy Minion, you may Summon a Minion with a cost of 2 or less from your Deck or Graveyard.",
+                "image_path": "images\\weapons\\Book_of_Bound_Souls.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cocoon",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Construct",
+                "lifeforce_cost": "0",
+                "attack": 0,
+                "defense": 2,
+                "traits": "Immune to piercing damage. Cannot receive Minion Commands.",
+                "effects": "At the end of any turn, you may destroy this card and resurrect a 1-cost minion from your graveyard.",
+                "image_path": "images\\minions\\Cocoon.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Distorting Mime",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Mime",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "1",
+                "traits": "Once During your Turn, you may copy the Attack and Defense of a Minion on the battlefield until your End of Turn.",
+                "effects": "On Summon, you may switch the Attack and Defense of a target Minion until the End of Turn.",
+                "image_path": "images\/minions\/Distorting_Mime.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Elysium, Isles of the Blessed",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "3",
+                "effects": "Once During your Turn, you may Resurrect a Minion with a Lifeforce cost of 3 or less from your Graveyard.\n\nIt cannot attack During this Turn.",
+                "image_path": "images\/lands\/Elysium,_Isles_of_the_Blessed.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Erinyes Oath-Binder",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Fury",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "2",
+                "traits": "Once During your Turn, when this card damages a Hero, they lose 1 Lifeforce.",
+                "effects": "On Summon, choose a Player. Whenever that Player damages your Hero or one of your active Minions, inflict 1 damage to their Hero.",
+                "image_path": "images\/minions\/Erinyes_Oath-Binder.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Eternal Bloodmage",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Vampire",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Each time this minion deals damage during your turn, heal your hero for 1.",
+                "effects": "When this minion destroys an enemy minion, draw a card.",
+                "image_path": "images\\minions\\Eternal_Bloodmage.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Firebrand Ravager",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Demon",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "Burn the enemy Hero for 1 damage for every other minion on your field at the end of your turn.",
+                "image_path": "images\\minions\\Firebrand_Ravager.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Flame Imp",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Demon",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 2,
+                "traits": "On summon, burn a target for 1 damage.",
+                "effects": "This minion costs 0 if there is another minion on your field.",
+                "image_path": "images\\minions\\Flame_Imp.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Ichijo Modoribashi Bridge",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "3",
+                "effects": "At your Start of Turn, you may Summon a Minion with a Cost of 2 or less from your Deck or Graveyard.",
+                "image_path": "images\/lands\/Ichijo_Modoribashi_Bridge.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Lost Soul",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Immune to piercing damage.",
+                "effects": "On death, this minion explodes, dealing its attack value as damage to all enemy minions. If this minion deals damage while attacking, it is destroyed.",
+                "image_path": "images\\minions\\Lost_Soul.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nesting Ground",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Reveal two 0-cost minions from your deck or graveyard and add them to your hand.",
+                "image_path": "images\\spells\\Nesting_Ground.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Strike From The Shadows",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 2 damage to an enemy minion. If it dies, summon a 1-cost minion from your deck or graveyard.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Strike_From_The_Shadows.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "The Fool",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Upright: On Summon, you may Summon a 1-cost Minion from your Hand, Deck, or Graveyard.",
+                "effects": "Reversed: Summon this card on an enemy Minion slot. On Death, the original owner draws 1 card. Cannot be Dismissed.",
+                "image_path": "images\/minions\/The_Fool.png"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Tomb Raider's Bane",
+                "card_type": "Magic",
+                "rarity": "Common",
+                "magic_type": "Relic",
+                "lifeforce_cost": "2",
+                "effects": "Attach this to an enemy minion. The attached minion loses its trait and effect.",
+                "image_path": "images\\relics\\Tomb_Raider_s_Bane.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Veilwalker Kitsune",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Conjured Shikigami",
+                "lifeforce_cost": "2",
+                "attack": 2,
+                "defense": 1,
+                "traits": "This Minion is always Invisible. Invisible Minions cannot be Targeted.",
+                "effects": "When this Minion attacks and deals damage, Restore 1 Health to your Hero.",
+                "image_path": "images\/minions\/Veilwalker_Kitsune.png"
+            },
+            "quantity": 3
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
