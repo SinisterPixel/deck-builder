@@ -1,0 +1,350 @@
+{
+    "id": "deck_1789435306561_3",
+    "creator": "FizzyDrPepper",
+    "deckName": "Magic time",
+    "hero": {
+        "card_name": "Isis, Mistress of Magic",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Spellweaver's Boon; The first spell you cast from your hand each turn costs 2 less Lifeforce.",
+        "ability2": "Spellfire Mastery; Your Magic cards inflict 1 extra damage.",
+        "ability3": "Reclaimed Knowledge; Once during your turn, you may pay 2 Lifeforce to return a spell from your graveyard to your hand.",
+        "ability4": "Arcane Restoration; Once per turn, you may pay 3 Lifeforce to either heal a hero for 3 or give a minion +2 Defense until the end of the turn.",
+        "front_image_path": "images\\heroes\\Isis__Mistress_of_Magic_front.png",
+        "back_image_path": "images\\heroes\\Isis__Mistress_of_Magic_back.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "All In",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "This card\u2019s Cost is equal to all of your current Lifeforce. When you play this card Discard all the cards in your Hand. Distribute +1 Attack and Defense among your Minions for each Lifeforce you spent to play this card and all cards you Discarded until End of Turn.",
+                "image_path": "images\/spells\/All_In.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Blackfyre's Wrath",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "Inflict 2 damage to all enemy Heroes, Minions, and Artifacts at the start of each of your turns.",
+                "duration": 3,
+                "image_path": "images\/events\/Blackfyre's_Wrath.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Book of Revelation",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "defense": 3,
+                "effects": "Once during your turn, you may search your Deck for a Magic card, then shuffle and place that card on top.",
+                "magic_type": "Artifact",
+                "image_path": "images\\artifacts\\Book_of_Revelation.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Chaos Bolt",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Burn a target for 8 damage.",
+                "image_path": "images\\spells\\Chaos_Bolt.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Crumbled Sanctuary",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "4",
+                "effects": "Your Magic cards Cost 1 less \nLifeforce to play from your Hand.",
+                "magic_type": "Land",
+                "image_path": "images\\lands\\Crumbled_Sanctuary.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Mage Malakar",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 7,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Once during each of your turns, if this card destroys an enemy minion, you may cast a spell from your graveyard costing 5 or less, then remove it from play.",
+                "image_path": "images\\minions\\Dark_Mage_Malakar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Revelation",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Draw a card. Deal damage to all enemy minions equal to the drawn card's lifeforce cost, up to a maximum of 5 damage.",
+                "image_path": "images\\spells\\Dark_Revelation.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dark Sorcerer",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "6",
+                "attack": 6,
+                "defense": 5,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "On summon, inflict 2 damage to 2 targets.",
+                "image_path": "images\\minions\\Dark_Sorcerer.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Ethereal Arrow",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "4",
+                "effects": "Inflict 4 damage to an enemy target. If a minion is destroyed by this, gain 2 lifeforce.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Ethereal_Arrow.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Five-Element Incantation",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Choose 3 different effects: Ensnare a Minion; Draw a card; Inflict 3 damage to a Target; Restore 3 Health to a Hero; or Give a minion +2 Attack and Defense until End of Turn. Ensnared Minions cannot Attack, Defend or be Dismissed for 1 Round.",
+                "image_path": "images\/spells\/Five-Element_Incantation.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Grove Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Heal your hero for 1 at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Grove_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Ice Bolt",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "2",
+                "effects": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from taking Minion Commands for 1 round.",
+                "image_path": "images\\spells\\Ice_Bolt.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Mind Shatter",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Look at the hand of the enemy player and destroy a card.",
+                "image_path": "images\\spells\\Mind_Shatter.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Mire Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Inflict 1 damage to the enemy hero at the end of your turn, or 3 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Mire_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Night Hag",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Witch",
+                "lifeforce_cost": "3",
+                "attack": 3,
+                "defense": 3,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Gain 1 lifeforce when this minion damages the enemy hero or 2 if you control 3 or more minions.",
+                "image_path": "images\\minions\\Night_Hag.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Nightmare Morgana",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Visage",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 3,
+                "traits": "Twice during any turn, when you cast a Spell gain 1 Lifeforce.",
+                "effects": "When this Minion attacks and destroys a Minion, you may cast a Spell from your Graveyard with a cost of 3 or less, then shuffle it into your Deck.",
+                "image_path": "images\/minions\/Nightmare_Morgana.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Rise of the Second Sun",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "effects": "Once during each of your turns, you can send a card your opponent controls back to the their hand.",
+                "magic_type": "Event",
+                "rounds_active": 3,
+                "duration": 3,
+                "image_path": "images\\events\\Rise_of_the_Second_Sun.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ritual Altar",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "Once during each of your turns, cast a spell from your graveyard without paying its cost, then remove it from the game.",
+                "image_path": "images\\artifacts\\Ritual_Altar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Royal Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "10",
+                "effects": "Inflict 1 damage to a Target for each card in your Graveyard (Max 15).\n\nThis damage cannot be increased or decreased by other card effects.",
+                "image_path": "images\/spells\/Royal_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Shadow Strike",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "lifeforce_cost": "2",
+                "effects": "Inflict 3 damage to any target. This card can be played on any turn.",
+                "magic_type": "Spell",
+                "image_path": "images\\spells\\Shadow_Strike.jpeg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Spirit Container",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 4,
+                "effects": "On Summon, you may attach a Minion to this Artifact. When this Artifact is Destroyed, Summon that Minion back to the Field. You may play this card During any Turn.",
+                "image_path": "images\/artifacts\/Spirit_Container.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Straight Flush",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "8",
+                "effects": "Draw 5 cards.",
+                "image_path": "images\/spells\/Straight_Flush.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Hierophant",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "5",
+                "attack": 4,
+                "defense": 4,
+                "traits": "Upright: Once during your turn, you may cast a 4 or less cost Spell from your Graveyard, then Banish it to the Void.",
+                "effects": "Reversed: Once during your turn, when you cast a Spell of cost 3 or less, draw 1 card and gain 1 Lifeforce.",
+                "image_path": "images\/minions\/The_Hierophant.png"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Wheel of Fortune",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "5",
+                "effects": "Once during your turn, Discard the top card of your Deck. \n\nUpright: If it's a Minion, draw 2 cards. \n\nReversed: If it's a Magic card, inflict 4 damage to an enemy Hero.",
+                "duration": 3,
+                "image_path": "images\/events\/Wheel_of_Fortune.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Wrath of Anubis",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "6",
+                "effects": "Target and destroy a minion, inflicting damage to an enemy Hero equal to half its lifeforce cost (rounded down).",
+                "image_path": "images\\spells\\Wrath_of_Anubis.jpg"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
