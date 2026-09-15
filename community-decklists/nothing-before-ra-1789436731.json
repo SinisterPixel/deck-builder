@@ -1,0 +1,336 @@
+{
+    "id": "deck_1789436229117_5",
+    "creator": "FizzyDrPepper",
+    "deckName": "Nothing before Ra",
+    "hero": {
+        "card_name": "Ra, The Eternal Flame",
+        "card_type": "Hero",
+        "rarity": "",
+        "ability1": "Scorching Sunfire; Once during your turn, you may pay 2 Lifeforce to inflict 2 damage to the enemy hero.",
+        "ability2": "Wrath of the Sun God; At the start of your turn, select an enemy hero. If they control more minions than you, inflict damage to them equal to the difference up to a max of 2 damage.",
+        "ability3": "Burning Vengeance; Once during your turn, if an enemy hero takes at least 5 damage, force them to discard a card from their hand.",
+        "ability4": "Pyre of Souls; Once during your turn, you may choose three cards from your graveyard, remove them from the game then draw a card.",
+        "front_image_path": "images\\heroes\\Ra__The_Eternal_Flame_front.png",
+        "back_image_path": "images\\heroes\\Ra__The_Eternal_Flame_back.png"
+    },
+    "secondaryHero": null,
+    "mainDeck": [
+        {
+            "card": {
+                "card_name": "Apocalypse",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "lifeforce_cost": "10",
+                "effects": "At the end of your turn, if you control a Minion with a cost of 3 or more, you may Summon a 6-Cost or lower Minion from your Hand, Deck, or Graveyard. Its cost must differ from all other Minions you control.",
+                "magic_type": "Event",
+                "duration": 3,
+                "image_path": "images\\events\\Apocalypse.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Banish",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "4",
+                "effects": "Discard a card from your hand, then remove an enemy minion from the game.",
+                "image_path": "images\\spells\\Banish.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Call Minions",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "?",
+                "effects": "Summon any number of minions from your hand, deck, or graveyard paying the lifeforce cost for each +1. The combined lifeforce cost cannot exceed 10.",
+                "image_path": "images\\spells\\Call_Minions.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Charon the Ferryman",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "5",
+                "attack": "3",
+                "defense": "3",
+                "traits": "At your Start of Turn, Target an enemy. They must pay 2 Lifeforce or Discard a card.",
+                "effects": "On Summon, you may Discard a card to Resurrect a different Minion from your Graveyard costing up to the Discarded card's cost (Max 4).",
+                "image_path": "images\/minions\/Charon_the_Ferryman.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Cocoon",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Construct",
+                "lifeforce_cost": "0",
+                "attack": 0,
+                "defense": 2,
+                "traits": "Immune to piercing damage. Cannot receive Minion Commands.",
+                "effects": "At the end of any turn, you may destroy this card and resurrect a 1-cost minion from your graveyard.",
+                "image_path": "images\\minions\\Cocoon.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Coffin of Reawakening",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 3,
+                "effects": "When a friendly minion is destroyed, you may place it in this coffin instead of the graveyard. At the start of your next turn, return the minion to the field. Only one minion can be held in the coffin at a time.",
+                "image_path": "images\\artifacts\\Coffin_of_Reawakening.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Dark Mage Malakar",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Warlock",
+                "lifeforce_cost": "7",
+                "attack": 6,
+                "defense": 7,
+                "traits": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+                "effects": "Once during each of your turns, if this card destroys an enemy minion, you may cast a spell from your graveyard costing 5 or less, then remove it from play.",
+                "image_path": "images\\minions\\Dark_Mage_Malakar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dark Resurrection",
+                "card_type": "Magic",
+                "rarity": "Rare",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Resurrect a minion with a cost of 5 or less from your graveyard.",
+                "image_path": "images\\spells\\Dark_Resurrection.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Demonic Convergence",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Event",
+                "lifeforce_cost": "3",
+                "effects": "When a friendly minion dies, attach it to this card. When this card leaves play, summon a minion from your hand, deck, or graveyard with a cost up to the combined total lifeforce cost of the attached minions (max 10).",
+                "duration": 2,
+                "image_path": "images\\events\\Demonic_Convergence.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Dispel Magic",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Negate and destroy an enemy magic card.",
+                "image_path": "images\\spells\\Dispel_Magic.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Eldritch Recall",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Spell",
+                "lifeforce_cost": "3",
+                "effects": "Return up to two spell cards from your graveyard to your hand.",
+                "image_path": "images\\spells\\Eldritch_Recall.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Elysium, Isles of the Blessed",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Land",
+                "lifeforce_cost": "3",
+                "effects": "Once During your Turn, you may Resurrect a Minion with a Lifeforce cost of 3 or less from your Graveyard.\n\nIt cannot attack During this Turn.",
+                "image_path": "images\/lands\/Elysium,_Isles_of_the_Blessed.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Famine",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "lifeforce_cost": "5",
+                "minion_type": "Eldritch",
+                "attack": 5,
+                "defense": 5,
+                "traits": "When this Minion damages an enemy Hero, they discard a card from their Hand.",
+                "effects": "If you control a 10-cost Legendary Event card, they discard two cards instead.",
+                "image_path": "images\\minions\\Famine.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Fearborn Ao Andon",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Bound Yokai",
+                "lifeforce_cost": "7",
+                "attack": 3,
+                "defense": 6,
+                "traits": "At your End of Turn, if this Minion Destroyed an enemy Minion this Turn, all enemy Heroes Discard a card.",
+                "effects": "During your Turn, this Minion gains +1 Attack for each Minion in enemy Graveyards up to a maximum of +4.",
+                "image_path": "images\/minions\/Fearborn_Ao_Andon.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Grave",
+                "card_type": "Magic",
+                "rarity": "Epic",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "3",
+                "defense": 2,
+                "effects": "Resurrects a minion from your graveyard with a cost of 5 or less. The minion is destroyed if this card is destroyed.",
+                "image_path": "images\\artifacts\\Grave.jpg"
+            },
+            "quantity": 2
+        },
+        {
+            "card": {
+                "card_name": "Lost Soul",
+                "card_type": "Minion",
+                "rarity": "Rare",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Immune to piercing damage.",
+                "effects": "On death, this minion explodes, dealing its attack value as damage to all enemy minions. If this minion deals damage while attacking, it is destroyed.",
+                "image_path": "images\\minions\\Lost_Soul.jpg"
+            },
+            "quantity": 3
+        },
+        {
+            "card": {
+                "card_name": "Minos, Chief Adjudicator",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "2",
+                "traits": "On Summon, you may Summon a Minion with a printed Lifeforce cost of 3 from your Deck or Graveyard paying its current cost.",
+                "effects": "Once per Round, when a Minion is Destroyed, force a Hero to pay 2 Lifeforce or Discard a Card from their Hand.",
+                "image_path": "images\/minions\/Minos,_Chief_Adjudicator.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Rhadamanthys, Fair Measure",
+                "card_type": "Minion",
+                "rarity": "Legendary",
+                "minion_type": "Eldritch",
+                "lifeforce_cost": "3",
+                "attack": "2",
+                "defense": "2",
+                "traits": "On Summon, you may Summon a Minion with a printed Lifeforce cost of 3 from your Deck or Graveyard paying its current cost.",
+                "effects": "Once per Round, when a Minion is Destroyed, Ensnare a Minion until the End of Turn, preventing Minion Commands.",
+                "image_path": "images\/minions\/Rhadamanthys,_Fair_Measure.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Ritual Altar",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Artifact",
+                "lifeforce_cost": "6",
+                "defense": 3,
+                "effects": "Once during each of your turns, cast a spell from your graveyard without paying its cost, then remove it from the game.",
+                "image_path": "images\\artifacts\\Ritual_Altar.jpg"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "Spiderling",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Arachnid",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+                "effects": "This minion gains +1 attack if it is adjacent to another minion.",
+                "image_path": "images\\minions\\Spiderling.jpg"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "Synaptic Scour",
+                "card_type": "Magic",
+                "rarity": "Legendary",
+                "magic_type": "Spell",
+                "lifeforce_cost": "5",
+                "effects": "Each player Discards their Hand, then Draws 3 cards.",
+                "image_path": "images\/spells\/Synaptic_Scour.png"
+            },
+            "quantity": 1
+        },
+        {
+            "card": {
+                "card_name": "The Fool",
+                "card_type": "Minion",
+                "rarity": "Common",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "1",
+                "attack": 1,
+                "defense": 1,
+                "traits": "Upright: On Summon, you may Summon a 1-cost Minion from your Hand, Deck, or Graveyard.",
+                "effects": "Reversed: Summon this card on an enemy Minion slot. On Death, the original owner draws 1 card. Cannot be Dismissed.",
+                "image_path": "images\/minions\/The_Fool.png"
+            },
+            "quantity": 4
+        },
+        {
+            "card": {
+                "card_name": "The Hanged Man",
+                "card_type": "Minion",
+                "rarity": "Epic",
+                "minion_type": "Manifestation",
+                "lifeforce_cost": "3",
+                "attack": 2,
+                "defense": 2,
+                "traits": "Upright: At end of your turn, Destroy this Minion to Resurrect a Minion of cost 3 or less from your Graveyard. If destroyed this way, Resurrect this at the start of your next turn.",
+                "effects": "Reversed: Destroy a Minion. Resurrect it to the owner\u2019s field at your turn\u2019s start.",
+                "image_path": "images\/minions\/The_Hanged_Man.png"
+            },
+            "quantity": 2
+        }
+    ],
+    "sideDeck": [],
+    "published": true,
+    "notes": ""
+}
