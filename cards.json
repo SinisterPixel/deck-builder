@@ -4449,5 +4449,17 @@
     "lifeforce_cost": "8",
     "effects": "You can control multiple Land cards. Your Lands do not replace enemy Lands. Once During your Turn, you may play a 5 or less cost Land card from your Deck, or Graveyard. At your End of Turn inflict 2 damage to an enemy Hero for each Land you control.",
     "image_path": "images/lands/Erebus,_Place_of_Unlight.png"
+  },
+  {
+    "card_name": "Mimic",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "3",
+    "attack": "3",
+    "defense": "3",
+    "traits": "Trait: When an enemy declares an attack on your Artifact with a Weapon or Character, if you have an empty Minion slot, return that Artifact to your Hand and Summon this.",
+    "effects": "Effect: On Summon, you may make an extra attack against an enemy Target.",
+    "image_path": "images/minions/Mimic.png"
   }
 ]
