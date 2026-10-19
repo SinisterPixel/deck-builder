@@ -217,10 +217,10 @@
     "card_name": "Atropal, the Soulweaver",
     "card_type": "Hero",
     "rarity": "",
-    "ability1": "Hell's Favor: The first minion you play each turn cost 2 less.",
-    "ability2": "Soul Harvest: During your turn you can destroy friendly minions to gain 1 lifeforce for each. Their effects are negated.",
-    "ability3": "Soul Weave: During each of your turns, you may spend 3 lifeforce to empower a minion, increasing its attack and defense by 2. The minion is destroyed at the end of the turn.",
-    "ability4": "Dark Summoning:Once during each of your turns, you may spend 3 lifeforce to summon two 1 cost minions from your hand, deck or graveyard.",
+    "ability1": "Hell's Favor: The first Minion you Summon from your Hand each Turn costs 2 less Lifeforce.",
+    "ability2": "Soul Harvest: During your Turn, you may Destroy up to four of your Minions; for each Destroyed this way, you gain 1 Lifeforce and Negate all rules text on the card. You cannot use this ability as a response.",
+    "ability3": "Soul Weave: Once During your Turn, you may spend 3 Lifeforce to give a Minion +2 Attack and +2 Defense until your End of Turn.",
+    "ability4": "Dark Summoning: Once During your Turn, you may spend 3 Lifeforce to Summon two Minions from your Hand, Deck, or Graveyard with a Lifeforce cost of 1 or less.",
     "front_image_path": "images\\heroes\\Atropal__the_Soulweaver_front.jpg",
     "back_image_path": "images\\heroes\\Atropal__the_Soulweaver_back.jpg"
   },
@@ -393,7 +393,7 @@
     "magic_type": "Artifact",
     "lifeforce_cost": "6",
     "defense": 3,
-    "effects": "When this card is played, reveal and add two minions from your deck to your hand. While this card is on the field, your minions cost 2 less to summon.",
+    "effects": "When Played, Reveal two Minions from your Deck and add them to your Hand. While this card is on the Field, your Minions cost 2 less to Summon from your Hand.",
     "image_path": "images\\artifacts\\Hellgate.jpg"
   },
   {
