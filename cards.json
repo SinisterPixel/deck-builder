@@ -714,7 +714,7 @@
   {
     "card_name": "Eldritch Recall",
     "card_type": "Magic",
-    "rarity": "Epic",
+    "rarity": "Legendary",
     "magic_type": "Spell",
     "lifeforce_cost": "3",
     "effects": "Return up to two spell cards from your graveyard to your hand.",
