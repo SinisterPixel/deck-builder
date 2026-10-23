@@ -4712,5 +4712,89 @@
     "lifeforce_cost": "3",
     "effects": "Attach this to a Friendly Minion. Once During your Turn, you may have this Minion gain +1 Attack for each card attached to it until the End of Turn, up to +3 Attack. If it attacks this Turn, Draw 1 card at the End of Turn.",
     "image_path": "images/relics/Galvanic_Frame.png"
+  },
+  {
+    "card_name": "Beelzebub, King of Gluttony",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "10",
+    "attack": "5",
+    "defense": "8",
+    "traits": "Trait: When an enemy Minion is destroyed, this Minion gains +1 Attack permanently.",
+    "effects": "Effect: Once during your turn, you may Destroy a Minion with a Defense of 3 or less. If you do, Heal your Hero for 2.",
+    "image_path": "images/minions/Beelzebub,_King_of_Gluttony.png"
+  },
+  {
+    "card_name": "Belphegor, Master of Sloth",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "8",
+    "attack": "3",
+    "defense": "7",
+    "traits": "Trait: Enemy Minions enter the Field Ensnared until the End of Turn.",
+    "effects": "Effect: At your End of Turn, you may gain 2 Lifeforce and Restore 2 Health to your Hero. If you do, skip your next Draw Phase.",
+    "image_path": "images/minions/Belphegor,_Master_of_Sloth.png"
+  },
+  {
+    "card_name": "Amon, Tyrant of Wrath",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "7",
+    "attack": "4",
+    "defense": "5",
+    "traits": "Trait: Twice During your Turn, this Minion may attack again if a Friendly Minion was Destroyed.",
+    "effects": "Effect: Once During your Turn, you may Destroy a Friendly Minion to inflict 2 damage to all enemy Minions.",
+    "image_path": "images/minions/Amon,_Tyrant_of_Wrath.png"
+  },
+  {
+    "card_name": "Belial, King of Pride",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "9",
+    "attack": "5",
+    "defense": "4",
+    "traits": "Trait: This Minion cannot be affected by any other Card Effects or Hero Abilities.",
+    "effects": "Effect: Once During your Turn, Negate the Card Effects of all other Friendly Minions until the End of Turn. Then, double this Minion’s Attack until the End of Turn.",
+    "image_path": "images/minions/Belial,_King_of_Pride.png"
+  },
+  {
+    "card_name": "Mammon, Lord of Greed",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "8",
+    "attack": "3",
+    "defense": "7",
+    "traits": "The first two times each turn that a card you control is Destroyed or you Discard a card, gain 1 Lifeforce.",
+    "effects": "Once During your Turn you may Destroy one of your Minions to Draw a card.",
+    "image_path": "images/minions/Mammon,_Lord_of_Greed.png"
+  },
+  {
+    "card_name": "Asmodeus, Duke of Lust",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "10",
+    "attack": "5",
+    "defense": "6",
+    "traits": "Trait: Friendly Minions gain +1 Attack. Each time they deal damage, Heal your Hero for 1 Health.",
+    "effects": "Effect: During your turn, Target another Minion. You may force it to Attack a different Minion, even if it already Attacked.",
+    "image_path": "images/minions/Asmodeus,_Duke_of_Lust.png"
+  },
+  {
+    "card_name": "Leviathan, Serpent of Envy",
+    "card_type": "Minion",
+    "rarity": "Legendary",
+    "minion_type": "Eldritch",
+    "lifeforce_cost": "8",
+    "attack": "4",
+    "defense": "5",
+    "traits": "Trait: This Minion gains +1 Attack and +1 Defense for every unique Trait among enemy Minions.",
+    "effects": "Effect: Once During your Turn, copy the Effect of the enemy Minion with the highest Lifeforce cost until the End of Turn.",
+    "image_path": "images/minions/Leviathan,_Serpent_of_Envy.png"
   }
 ]
