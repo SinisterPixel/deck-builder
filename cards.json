@@ -4796,5 +4796,45 @@
     "traits": "Trait: This Minion gains +1 Attack and +1 Defense for every unique Trait among enemy Minions.",
     "effects": "Effect: Once During your Turn, copy the Effect of the enemy Minion with the highest Lifeforce cost until the End of Turn.",
     "image_path": "images/minions/Leviathan,_Serpent_of_Envy.png"
+  },
+  {
+    "card_name": "Summer Solstice",
+    "card_type": "Magic",
+    "rarity": "Legendary",
+    "magic_type": "Event",
+    "lifeforce_cost": "5",
+    "effects": "At your Start of Turn, you may trigger all of your Minions’ On Death effects.\n\nAt your End of Turn, you may trigger all of your Minions’ On Summon effects.",
+    "duration": 1,
+    "image_path": "images/events/Summer_Solstice.png"
+  },
+  {
+    "card_name": "Feast of Wandering Souls",
+    "card_type": "Magic",
+    "rarity": "Legendary",
+    "magic_type": "Event",
+    "lifeforce_cost": "1",
+    "effects": "Effects that Summon Minions from a Graveyard may use any Graveyard.\nOnce During your Turn, you may Resurrect a Minion with a cost of 3 or less from any Graveyard by paying its cost.",
+    "duration": 3,
+    "image_path": "images/events/Feast_of_Wandering_Souls.png"
+  },
+  {
+    "card_name": "Day of the Dead",
+    "card_type": "Magic",
+    "rarity": "Legendary",
+    "magic_type": "Event",
+    "lifeforce_cost": "3",
+    "effects": "While this Event is active, any Minion Resurrected from a Graveyard gains +1 Attack and +1 Defense, while all other Minions on the Field have their Attack and Defense reduced by 1.",
+    "duration": 3,
+    "image_path": "images/events/Day_of_the_Dead.png"
+  },
+  {
+    "card_name": "Winter Solstice",
+    "card_type": "Magic",
+    "rarity": "Legendary",
+    "magic_type": "Event",
+    "lifeforce_cost": "5",
+    "effects": "At your End of Turn, you may trigger all of your Minions' On Death effects.\n\nAt your Start of Turn, you may trigger all of your Minions' On Summon effects.",
+    "duration": 1,
+    "image_path": "images/events/Winter_Solstice.png"
   }
 ]
